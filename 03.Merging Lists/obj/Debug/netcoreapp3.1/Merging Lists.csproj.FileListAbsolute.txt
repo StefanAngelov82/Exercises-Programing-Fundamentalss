@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\Lists\Merging Lists\bin\Debug\netcoreapp3.1\Merging Lists.exe
+C:\Games\SoftUni\02.Checks\Lists\Merging Lists\bin\Debug\netcoreapp3.1\Merging Lists.deps.json
+C:\Games\SoftUni\02.Checks\Lists\Merging Lists\bin\Debug\netcoreapp3.1\Merging Lists.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Lists\Merging Lists\bin\Debug\netcoreapp3.1\Merging Lists.runtimeconfig.dev.json
+C:\Games\SoftUni\02.Checks\Lists\Merging Lists\bin\Debug\netcoreapp3.1\Merging Lists.dll
+C:\Games\SoftUni\02.Checks\Lists\Merging Lists\bin\Debug\netcoreapp3.1\Merging Lists.pdb
+C:\Games\SoftUni\02.Checks\Lists\Merging Lists\obj\Debug\netcoreapp3.1\Merging Lists.csproj.AssemblyReference.cache
+C:\Games\SoftUni\02.Checks\Lists\Merging Lists\obj\Debug\netcoreapp3.1\Merging Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Lists\Merging Lists\obj\Debug\netcoreapp3.1\Merging Lists.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Lists\Merging Lists\obj\Debug\netcoreapp3.1\Merging Lists.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Lists\Merging Lists\obj\Debug\netcoreapp3.1\Merging Lists.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Lists\Merging Lists\obj\Debug\netcoreapp3.1\Merging Lists.dll
+C:\Games\SoftUni\02.Checks\Lists\Merging Lists\obj\Debug\netcoreapp3.1\Merging Lists.pdb
+C:\Games\SoftUni\02.Checks\Lists\Merging Lists\obj\Debug\netcoreapp3.1\Merging Lists.genruntimeconfig.cache
