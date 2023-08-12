@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\Lists\Cards Game\bin\Debug\netcoreapp3.1\Cards Game.exe
+C:\Games\SoftUni\02.Checks\Lists\Cards Game\bin\Debug\netcoreapp3.1\Cards Game.deps.json
+C:\Games\SoftUni\02.Checks\Lists\Cards Game\bin\Debug\netcoreapp3.1\Cards Game.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Lists\Cards Game\bin\Debug\netcoreapp3.1\Cards Game.runtimeconfig.dev.json
+C:\Games\SoftUni\02.Checks\Lists\Cards Game\bin\Debug\netcoreapp3.1\Cards Game.dll
+C:\Games\SoftUni\02.Checks\Lists\Cards Game\bin\Debug\netcoreapp3.1\Cards Game.pdb
+C:\Games\SoftUni\02.Checks\Lists\Cards Game\obj\Debug\netcoreapp3.1\Cards Game.csproj.AssemblyReference.cache
+C:\Games\SoftUni\02.Checks\Lists\Cards Game\obj\Debug\netcoreapp3.1\Cards Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Lists\Cards Game\obj\Debug\netcoreapp3.1\Cards Game.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Lists\Cards Game\obj\Debug\netcoreapp3.1\Cards Game.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Lists\Cards Game\obj\Debug\netcoreapp3.1\Cards Game.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Lists\Cards Game\obj\Debug\netcoreapp3.1\Cards Game.dll
+C:\Games\SoftUni\02.Checks\Lists\Cards Game\obj\Debug\netcoreapp3.1\Cards Game.pdb
+C:\Games\SoftUni\02.Checks\Lists\Cards Game\obj\Debug\netcoreapp3.1\Cards Game.genruntimeconfig.cache
