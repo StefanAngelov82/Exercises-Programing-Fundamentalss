@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\Lists\Flip List Sides\bin\Debug\netcoreapp3.1\Flip List Sides.exe
+C:\Games\SoftUni\02.Checks\Lists\Flip List Sides\bin\Debug\netcoreapp3.1\Flip List Sides.deps.json
+C:\Games\SoftUni\02.Checks\Lists\Flip List Sides\bin\Debug\netcoreapp3.1\Flip List Sides.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Lists\Flip List Sides\bin\Debug\netcoreapp3.1\Flip List Sides.runtimeconfig.dev.json
+C:\Games\SoftUni\02.Checks\Lists\Flip List Sides\bin\Debug\netcoreapp3.1\Flip List Sides.dll
+C:\Games\SoftUni\02.Checks\Lists\Flip List Sides\bin\Debug\netcoreapp3.1\Flip List Sides.pdb
+C:\Games\SoftUni\02.Checks\Lists\Flip List Sides\obj\Debug\netcoreapp3.1\Flip List Sides.csproj.AssemblyReference.cache
+C:\Games\SoftUni\02.Checks\Lists\Flip List Sides\obj\Debug\netcoreapp3.1\Flip List Sides.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Lists\Flip List Sides\obj\Debug\netcoreapp3.1\Flip List Sides.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Lists\Flip List Sides\obj\Debug\netcoreapp3.1\Flip List Sides.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Lists\Flip List Sides\obj\Debug\netcoreapp3.1\Flip List Sides.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Lists\Flip List Sides\obj\Debug\netcoreapp3.1\Flip List Sides.dll
+C:\Games\SoftUni\02.Checks\Lists\Flip List Sides\obj\Debug\netcoreapp3.1\Flip List Sides.pdb
+C:\Games\SoftUni\02.Checks\Lists\Flip List Sides\obj\Debug\netcoreapp3.1\Flip List Sides.genruntimeconfig.cache
