@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\Lists\Track Downloader\bin\Debug\netcoreapp3.1\Track Downloader.exe
+C:\Games\SoftUni\02.Checks\Lists\Track Downloader\bin\Debug\netcoreapp3.1\Track Downloader.deps.json
+C:\Games\SoftUni\02.Checks\Lists\Track Downloader\bin\Debug\netcoreapp3.1\Track Downloader.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Lists\Track Downloader\bin\Debug\netcoreapp3.1\Track Downloader.runtimeconfig.dev.json
+C:\Games\SoftUni\02.Checks\Lists\Track Downloader\bin\Debug\netcoreapp3.1\Track Downloader.dll
+C:\Games\SoftUni\02.Checks\Lists\Track Downloader\bin\Debug\netcoreapp3.1\Track Downloader.pdb
+C:\Games\SoftUni\02.Checks\Lists\Track Downloader\obj\Debug\netcoreapp3.1\Track Downloader.csproj.AssemblyReference.cache
+C:\Games\SoftUni\02.Checks\Lists\Track Downloader\obj\Debug\netcoreapp3.1\Track Downloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Lists\Track Downloader\obj\Debug\netcoreapp3.1\Track Downloader.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Lists\Track Downloader\obj\Debug\netcoreapp3.1\Track Downloader.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Lists\Track Downloader\obj\Debug\netcoreapp3.1\Track Downloader.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Lists\Track Downloader\obj\Debug\netcoreapp3.1\Track Downloader.dll
+C:\Games\SoftUni\02.Checks\Lists\Track Downloader\obj\Debug\netcoreapp3.1\Track Downloader.pdb
+C:\Games\SoftUni\02.Checks\Lists\Track Downloader\obj\Debug\netcoreapp3.1\Track Downloader.genruntimeconfig.cache
