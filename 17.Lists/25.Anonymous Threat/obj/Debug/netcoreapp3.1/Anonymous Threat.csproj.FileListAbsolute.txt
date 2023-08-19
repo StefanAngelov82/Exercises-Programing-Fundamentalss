@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\Lists\Anonymous Threat\bin\Debug\netcoreapp3.1\Anonymous Threat.exe
+C:\Games\SoftUni\02.Checks\Lists\Anonymous Threat\bin\Debug\netcoreapp3.1\Anonymous Threat.deps.json
+C:\Games\SoftUni\02.Checks\Lists\Anonymous Threat\bin\Debug\netcoreapp3.1\Anonymous Threat.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Lists\Anonymous Threat\bin\Debug\netcoreapp3.1\Anonymous Threat.runtimeconfig.dev.json
+C:\Games\SoftUni\02.Checks\Lists\Anonymous Threat\bin\Debug\netcoreapp3.1\Anonymous Threat.dll
+C:\Games\SoftUni\02.Checks\Lists\Anonymous Threat\bin\Debug\netcoreapp3.1\Anonymous Threat.pdb
+C:\Games\SoftUni\02.Checks\Lists\Anonymous Threat\obj\Debug\netcoreapp3.1\Anonymous Threat.csproj.AssemblyReference.cache
+C:\Games\SoftUni\02.Checks\Lists\Anonymous Threat\obj\Debug\netcoreapp3.1\Anonymous Threat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Lists\Anonymous Threat\obj\Debug\netcoreapp3.1\Anonymous Threat.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Lists\Anonymous Threat\obj\Debug\netcoreapp3.1\Anonymous Threat.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Lists\Anonymous Threat\obj\Debug\netcoreapp3.1\Anonymous Threat.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Lists\Anonymous Threat\obj\Debug\netcoreapp3.1\Anonymous Threat.dll
+C:\Games\SoftUni\02.Checks\Lists\Anonymous Threat\obj\Debug\netcoreapp3.1\Anonymous Threat.pdb
+C:\Games\SoftUni\02.Checks\Lists\Anonymous Threat\obj\Debug\netcoreapp3.1\Anonymous Threat.genruntimeconfig.cache
