@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\Lists\Pokemon Don’t Go\bin\Debug\netcoreapp3.1\Pokemon Don’t Go.exe
+C:\Games\SoftUni\02.Checks\Lists\Pokemon Don’t Go\bin\Debug\netcoreapp3.1\Pokemon Don’t Go.deps.json
+C:\Games\SoftUni\02.Checks\Lists\Pokemon Don’t Go\bin\Debug\netcoreapp3.1\Pokemon Don’t Go.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Lists\Pokemon Don’t Go\bin\Debug\netcoreapp3.1\Pokemon Don’t Go.runtimeconfig.dev.json
+C:\Games\SoftUni\02.Checks\Lists\Pokemon Don’t Go\bin\Debug\netcoreapp3.1\Pokemon Don’t Go.dll
+C:\Games\SoftUni\02.Checks\Lists\Pokemon Don’t Go\bin\Debug\netcoreapp3.1\Pokemon Don’t Go.pdb
+C:\Games\SoftUni\02.Checks\Lists\Pokemon Don’t Go\obj\Debug\netcoreapp3.1\Pokemon Don’t Go.csproj.AssemblyReference.cache
+C:\Games\SoftUni\02.Checks\Lists\Pokemon Don’t Go\obj\Debug\netcoreapp3.1\Pokemon Don’t Go.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Lists\Pokemon Don’t Go\obj\Debug\netcoreapp3.1\Pokemon Don’t Go.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Lists\Pokemon Don’t Go\obj\Debug\netcoreapp3.1\Pokemon Don’t Go.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Lists\Pokemon Don’t Go\obj\Debug\netcoreapp3.1\Pokemon Don’t Go.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Lists\Pokemon Don’t Go\obj\Debug\netcoreapp3.1\Pokemon Don’t Go.dll
+C:\Games\SoftUni\02.Checks\Lists\Pokemon Don’t Go\obj\Debug\netcoreapp3.1\Pokemon Don’t Go.pdb
+C:\Games\SoftUni\02.Checks\Lists\Pokemon Don’t Go\obj\Debug\netcoreapp3.1\Pokemon Don’t Go.genruntimeconfig.cache
