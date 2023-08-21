@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\Lists\Mixed up Lists\bin\Debug\netcoreapp3.1\Mixed up Lists.exe
+C:\Games\SoftUni\02.Checks\Lists\Mixed up Lists\bin\Debug\netcoreapp3.1\Mixed up Lists.deps.json
+C:\Games\SoftUni\02.Checks\Lists\Mixed up Lists\bin\Debug\netcoreapp3.1\Mixed up Lists.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Lists\Mixed up Lists\bin\Debug\netcoreapp3.1\Mixed up Lists.runtimeconfig.dev.json
+C:\Games\SoftUni\02.Checks\Lists\Mixed up Lists\bin\Debug\netcoreapp3.1\Mixed up Lists.dll
+C:\Games\SoftUni\02.Checks\Lists\Mixed up Lists\bin\Debug\netcoreapp3.1\Mixed up Lists.pdb
+C:\Games\SoftUni\02.Checks\Lists\Mixed up Lists\obj\Debug\netcoreapp3.1\Mixed up Lists.csproj.AssemblyReference.cache
+C:\Games\SoftUni\02.Checks\Lists\Mixed up Lists\obj\Debug\netcoreapp3.1\Mixed up Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Lists\Mixed up Lists\obj\Debug\netcoreapp3.1\Mixed up Lists.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Lists\Mixed up Lists\obj\Debug\netcoreapp3.1\Mixed up Lists.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Lists\Mixed up Lists\obj\Debug\netcoreapp3.1\Mixed up Lists.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Lists\Mixed up Lists\obj\Debug\netcoreapp3.1\Mixed up Lists.dll
+C:\Games\SoftUni\02.Checks\Lists\Mixed up Lists\obj\Debug\netcoreapp3.1\Mixed up Lists.pdb
+C:\Games\SoftUni\02.Checks\Lists\Mixed up Lists\obj\Debug\netcoreapp3.1\Mixed up Lists.genruntimeconfig.cache
