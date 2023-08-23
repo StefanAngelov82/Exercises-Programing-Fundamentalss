@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\14.Methods\Calculate Rectangle Area\bin\Debug\netcoreapp3.1\Calculate Rectangle Area.exe
+C:\Games\SoftUni\02.Checks\14.Methods\Calculate Rectangle Area\bin\Debug\netcoreapp3.1\Calculate Rectangle Area.deps.json
+C:\Games\SoftUni\02.Checks\14.Methods\Calculate Rectangle Area\bin\Debug\netcoreapp3.1\Calculate Rectangle Area.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\14.Methods\Calculate Rectangle Area\bin\Debug\netcoreapp3.1\Calculate Rectangle Area.runtimeconfig.dev.json
+C:\Games\SoftUni\02.Checks\14.Methods\Calculate Rectangle Area\bin\Debug\netcoreapp3.1\Calculate Rectangle Area.dll
+C:\Games\SoftUni\02.Checks\14.Methods\Calculate Rectangle Area\bin\Debug\netcoreapp3.1\Calculate Rectangle Area.pdb
+C:\Games\SoftUni\02.Checks\14.Methods\Calculate Rectangle Area\obj\Debug\netcoreapp3.1\Calculate Rectangle Area.csproj.AssemblyReference.cache
+C:\Games\SoftUni\02.Checks\14.Methods\Calculate Rectangle Area\obj\Debug\netcoreapp3.1\Calculate Rectangle Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\14.Methods\Calculate Rectangle Area\obj\Debug\netcoreapp3.1\Calculate Rectangle Area.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\14.Methods\Calculate Rectangle Area\obj\Debug\netcoreapp3.1\Calculate Rectangle Area.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\14.Methods\Calculate Rectangle Area\obj\Debug\netcoreapp3.1\Calculate Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\14.Methods\Calculate Rectangle Area\obj\Debug\netcoreapp3.1\Calculate Rectangle Area.dll
+C:\Games\SoftUni\02.Checks\14.Methods\Calculate Rectangle Area\obj\Debug\netcoreapp3.1\Calculate Rectangle Area.pdb
+C:\Games\SoftUni\02.Checks\14.Methods\Calculate Rectangle Area\obj\Debug\netcoreapp3.1\Calculate Rectangle Area.genruntimeconfig.cache
