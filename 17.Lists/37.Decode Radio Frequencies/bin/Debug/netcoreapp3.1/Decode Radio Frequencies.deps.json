@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Decode Radio Frequencies/1.0.0": {
+        "runtime": {
+          "Decode Radio Frequencies.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Decode Radio Frequencies/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
