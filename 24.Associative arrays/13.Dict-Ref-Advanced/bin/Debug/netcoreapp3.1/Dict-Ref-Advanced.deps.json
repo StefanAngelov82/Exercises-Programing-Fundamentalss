@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Dict-Ref-Advanced/1.0.0": {
+        "runtime": {
+          "Dict-Ref-Advanced.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dict-Ref-Advanced/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
