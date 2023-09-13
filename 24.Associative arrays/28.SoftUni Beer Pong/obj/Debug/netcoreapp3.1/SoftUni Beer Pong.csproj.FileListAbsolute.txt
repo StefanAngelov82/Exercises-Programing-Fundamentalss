@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\Associative arrays\SoftUni Beer Pong\bin\Debug\netcoreapp3.1\SoftUni Beer Pong.exe
+C:\Games\SoftUni\02.Checks\Associative arrays\SoftUni Beer Pong\bin\Debug\netcoreapp3.1\SoftUni Beer Pong.deps.json
+C:\Games\SoftUni\02.Checks\Associative arrays\SoftUni Beer Pong\bin\Debug\netcoreapp3.1\SoftUni Beer Pong.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Associative arrays\SoftUni Beer Pong\bin\Debug\netcoreapp3.1\SoftUni Beer Pong.runtimeconfig.dev.json
+C:\Games\SoftUni\02.Checks\Associative arrays\SoftUni Beer Pong\bin\Debug\netcoreapp3.1\SoftUni Beer Pong.dll
+C:\Games\SoftUni\02.Checks\Associative arrays\SoftUni Beer Pong\bin\Debug\netcoreapp3.1\SoftUni Beer Pong.pdb
+C:\Games\SoftUni\02.Checks\Associative arrays\SoftUni Beer Pong\obj\Debug\netcoreapp3.1\SoftUni Beer Pong.csproj.AssemblyReference.cache
+C:\Games\SoftUni\02.Checks\Associative arrays\SoftUni Beer Pong\obj\Debug\netcoreapp3.1\SoftUni Beer Pong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Associative arrays\SoftUni Beer Pong\obj\Debug\netcoreapp3.1\SoftUni Beer Pong.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Associative arrays\SoftUni Beer Pong\obj\Debug\netcoreapp3.1\SoftUni Beer Pong.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Associative arrays\SoftUni Beer Pong\obj\Debug\netcoreapp3.1\SoftUni Beer Pong.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Associative arrays\SoftUni Beer Pong\obj\Debug\netcoreapp3.1\SoftUni Beer Pong.dll
+C:\Games\SoftUni\02.Checks\Associative arrays\SoftUni Beer Pong\obj\Debug\netcoreapp3.1\SoftUni Beer Pong.pdb
+C:\Games\SoftUni\02.Checks\Associative arrays\SoftUni Beer Pong\obj\Debug\netcoreapp3.1\SoftUni Beer Pong.genruntimeconfig.cache
