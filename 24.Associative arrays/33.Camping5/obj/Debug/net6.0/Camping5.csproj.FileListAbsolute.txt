@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\Associative arrays\Camping5\bin\Debug\net6.0\Camping5.exe
+C:\Games\SoftUni\02.Checks\Associative arrays\Camping5\bin\Debug\net6.0\Camping5.deps.json
+C:\Games\SoftUni\02.Checks\Associative arrays\Camping5\bin\Debug\net6.0\Camping5.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Associative arrays\Camping5\bin\Debug\net6.0\Camping5.dll
+C:\Games\SoftUni\02.Checks\Associative arrays\Camping5\bin\Debug\net6.0\Camping5.pdb
+C:\Games\SoftUni\02.Checks\Associative arrays\Camping5\obj\Debug\net6.0\Camping5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Associative arrays\Camping5\obj\Debug\net6.0\Camping5.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Associative arrays\Camping5\obj\Debug\net6.0\Camping5.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Associative arrays\Camping5\obj\Debug\net6.0\Camping5.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Associative arrays\Camping5\obj\Debug\net6.0\Camping5.dll
+C:\Games\SoftUni\02.Checks\Associative arrays\Camping5\obj\Debug\net6.0\refint\Camping5.dll
+C:\Games\SoftUni\02.Checks\Associative arrays\Camping5\obj\Debug\net6.0\Camping5.pdb
+C:\Games\SoftUni\02.Checks\Associative arrays\Camping5\obj\Debug\net6.0\Camping5.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\Associative arrays\Camping5\obj\Debug\net6.0\ref\Camping5.dll
