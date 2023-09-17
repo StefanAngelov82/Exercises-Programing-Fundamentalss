@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\Associative arrays\Most Valued Customer\bin\Debug\net6.0\Most Valued Customer.exe
+C:\Games\SoftUni\02.Checks\Associative arrays\Most Valued Customer\bin\Debug\net6.0\Most Valued Customer.deps.json
+C:\Games\SoftUni\02.Checks\Associative arrays\Most Valued Customer\bin\Debug\net6.0\Most Valued Customer.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Associative arrays\Most Valued Customer\bin\Debug\net6.0\Most Valued Customer.dll
+C:\Games\SoftUni\02.Checks\Associative arrays\Most Valued Customer\bin\Debug\net6.0\Most Valued Customer.pdb
+C:\Games\SoftUni\02.Checks\Associative arrays\Most Valued Customer\obj\Debug\net6.0\Most Valued Customer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Associative arrays\Most Valued Customer\obj\Debug\net6.0\Most Valued Customer.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Associative arrays\Most Valued Customer\obj\Debug\net6.0\Most Valued Customer.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Associative arrays\Most Valued Customer\obj\Debug\net6.0\Most Valued Customer.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Associative arrays\Most Valued Customer\obj\Debug\net6.0\Most Valued Customer.dll
+C:\Games\SoftUni\02.Checks\Associative arrays\Most Valued Customer\obj\Debug\net6.0\refint\Most Valued Customer.dll
+C:\Games\SoftUni\02.Checks\Associative arrays\Most Valued Customer\obj\Debug\net6.0\Most Valued Customer.pdb
+C:\Games\SoftUni\02.Checks\Associative arrays\Most Valued Customer\obj\Debug\net6.0\Most Valued Customer.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\Associative arrays\Most Valued Customer\obj\Debug\net6.0\ref\Most Valued Customer.dll
