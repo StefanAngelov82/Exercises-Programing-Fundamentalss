@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Closest Two Points\bin\Debug\net6.0\Closest Two Points.exe
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Closest Two Points\bin\Debug\net6.0\Closest Two Points.deps.json
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Closest Two Points\bin\Debug\net6.0\Closest Two Points.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Closest Two Points\bin\Debug\net6.0\Closest Two Points.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Closest Two Points\bin\Debug\net6.0\Closest Two Points.pdb
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Closest Two Points\obj\Debug\net6.0\Closest Two Points.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Closest Two Points\obj\Debug\net6.0\Closest Two Points.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Closest Two Points\obj\Debug\net6.0\Closest Two Points.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Closest Two Points\obj\Debug\net6.0\Closest Two Points.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Closest Two Points\obj\Debug\net6.0\Closest Two Points.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Closest Two Points\obj\Debug\net6.0\refint\Closest Two Points.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Closest Two Points\obj\Debug\net6.0\Closest Two Points.pdb
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Closest Two Points\obj\Debug\net6.0\Closest Two Points.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Closest Two Points\obj\Debug\net6.0\ref\Closest Two Points.dll
