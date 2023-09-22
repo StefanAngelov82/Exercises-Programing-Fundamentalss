@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Rectangle Position\bin\Debug\net6.0\Rectangle Position.exe
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Rectangle Position\bin\Debug\net6.0\Rectangle Position.deps.json
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Rectangle Position\bin\Debug\net6.0\Rectangle Position.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Rectangle Position\bin\Debug\net6.0\Rectangle Position.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Rectangle Position\bin\Debug\net6.0\Rectangle Position.pdb
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Rectangle Position\obj\Debug\net6.0\Rectangle Position.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Rectangle Position\obj\Debug\net6.0\Rectangle Position.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Rectangle Position\obj\Debug\net6.0\Rectangle Position.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Rectangle Position\obj\Debug\net6.0\Rectangle Position.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Rectangle Position\obj\Debug\net6.0\Rectangle Position.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Rectangle Position\obj\Debug\net6.0\refint\Rectangle Position.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Rectangle Position\obj\Debug\net6.0\Rectangle Position.pdb
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Rectangle Position\obj\Debug\net6.0\Rectangle Position.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Rectangle Position\obj\Debug\net6.0\ref\Rectangle Position.dll
