@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Optimized Banking System\bin\Debug\net6.0\Optimized Banking System.exe
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Optimized Banking System\bin\Debug\net6.0\Optimized Banking System.deps.json
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Optimized Banking System\bin\Debug\net6.0\Optimized Banking System.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Optimized Banking System\bin\Debug\net6.0\Optimized Banking System.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Optimized Banking System\bin\Debug\net6.0\Optimized Banking System.pdb
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Optimized Banking System\obj\Debug\net6.0\Optimized Banking System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Optimized Banking System\obj\Debug\net6.0\Optimized Banking System.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Optimized Banking System\obj\Debug\net6.0\Optimized Banking System.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Optimized Banking System\obj\Debug\net6.0\Optimized Banking System.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Optimized Banking System\obj\Debug\net6.0\Optimized Banking System.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Optimized Banking System\obj\Debug\net6.0\refint\Optimized Banking System.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Optimized Banking System\obj\Debug\net6.0\Optimized Banking System.pdb
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Optimized Banking System\obj\Debug\net6.0\Optimized Banking System.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Optimized Banking System\obj\Debug\net6.0\ref\Optimized Banking System.dll
