@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Exercises\bin\Debug\net6.0\Exercises.exe
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Exercises\bin\Debug\net6.0\Exercises.deps.json
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Exercises\bin\Debug\net6.0\Exercises.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Exercises\bin\Debug\net6.0\Exercises.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Exercises\bin\Debug\net6.0\Exercises.pdb
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Exercises\obj\Debug\net6.0\Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Exercises\obj\Debug\net6.0\Exercises.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Exercises\obj\Debug\net6.0\Exercises.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Exercises\obj\Debug\net6.0\Exercises.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Exercises\obj\Debug\net6.0\Exercises.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Exercises\obj\Debug\net6.0\refint\Exercises.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Exercises\obj\Debug\net6.0\Exercises.pdb
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Exercises\obj\Debug\net6.0\Exercises.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Exercises\obj\Debug\net6.0\ref\Exercises.dll
