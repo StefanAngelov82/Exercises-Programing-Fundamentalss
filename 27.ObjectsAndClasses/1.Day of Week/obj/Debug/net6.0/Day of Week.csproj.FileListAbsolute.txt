@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Day of Week\bin\Debug\net6.0\Day of Week.exe
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Day of Week\bin\Debug\net6.0\Day of Week.deps.json
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Day of Week\bin\Debug\net6.0\Day of Week.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Day of Week\bin\Debug\net6.0\Day of Week.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Day of Week\bin\Debug\net6.0\Day of Week.pdb
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Day of Week\obj\Debug\net6.0\Day of Week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Day of Week\obj\Debug\net6.0\Day of Week.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Day of Week\obj\Debug\net6.0\Day of Week.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Day of Week\obj\Debug\net6.0\Day of Week.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Day of Week\obj\Debug\net6.0\Day of Week.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Day of Week\obj\Debug\net6.0\refint\Day of Week.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Day of Week\obj\Debug\net6.0\Day of Week.pdb
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Day of Week\obj\Debug\net6.0\Day of Week.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Day of Week\obj\Debug\net6.0\ref\Day of Week.dll
