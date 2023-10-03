@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\11.Fundamentals\Pizza Ingredients\bin\Debug\net6.0\Pizza Ingredients.exe
+C:\Games\SoftUni\02.Checks\11.Fundamentals\Pizza Ingredients\bin\Debug\net6.0\Pizza Ingredients.deps.json
+C:\Games\SoftUni\02.Checks\11.Fundamentals\Pizza Ingredients\bin\Debug\net6.0\Pizza Ingredients.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\11.Fundamentals\Pizza Ingredients\bin\Debug\net6.0\Pizza Ingredients.dll
+C:\Games\SoftUni\02.Checks\11.Fundamentals\Pizza Ingredients\bin\Debug\net6.0\Pizza Ingredients.pdb
+C:\Games\SoftUni\02.Checks\11.Fundamentals\Pizza Ingredients\obj\Debug\net6.0\Pizza Ingredients.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\11.Fundamentals\Pizza Ingredients\obj\Debug\net6.0\Pizza Ingredients.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\11.Fundamentals\Pizza Ingredients\obj\Debug\net6.0\Pizza Ingredients.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\11.Fundamentals\Pizza Ingredients\obj\Debug\net6.0\Pizza Ingredients.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\11.Fundamentals\Pizza Ingredients\obj\Debug\net6.0\Pizza Ingredients.dll
+C:\Games\SoftUni\02.Checks\11.Fundamentals\Pizza Ingredients\obj\Debug\net6.0\refint\Pizza Ingredients.dll
+C:\Games\SoftUni\02.Checks\11.Fundamentals\Pizza Ingredients\obj\Debug\net6.0\Pizza Ingredients.pdb
+C:\Games\SoftUni\02.Checks\11.Fundamentals\Pizza Ingredients\obj\Debug\net6.0\Pizza Ingredients.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\11.Fundamentals\Pizza Ingredients\obj\Debug\net6.0\ref\Pizza Ingredients.dll
