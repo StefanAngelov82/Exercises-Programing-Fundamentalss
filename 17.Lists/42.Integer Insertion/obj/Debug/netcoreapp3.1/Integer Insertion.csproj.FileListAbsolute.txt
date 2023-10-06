@@ -1,0 +1,13 @@
+C:\Games\SoftUni\02.Checks\Lists\Integer Insertion\bin\Debug\netcoreapp3.1\Integer Insertion.exe
+C:\Games\SoftUni\02.Checks\Lists\Integer Insertion\bin\Debug\netcoreapp3.1\Integer Insertion.deps.json
+C:\Games\SoftUni\02.Checks\Lists\Integer Insertion\bin\Debug\netcoreapp3.1\Integer Insertion.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Lists\Integer Insertion\bin\Debug\netcoreapp3.1\Integer Insertion.runtimeconfig.dev.json
+C:\Games\SoftUni\02.Checks\Lists\Integer Insertion\bin\Debug\netcoreapp3.1\Integer Insertion.dll
+C:\Games\SoftUni\02.Checks\Lists\Integer Insertion\bin\Debug\netcoreapp3.1\Integer Insertion.pdb
+C:\Games\SoftUni\02.Checks\Lists\Integer Insertion\obj\Debug\netcoreapp3.1\Integer Insertion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Lists\Integer Insertion\obj\Debug\netcoreapp3.1\Integer Insertion.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Lists\Integer Insertion\obj\Debug\netcoreapp3.1\Integer Insertion.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Lists\Integer Insertion\obj\Debug\netcoreapp3.1\Integer Insertion.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Lists\Integer Insertion\obj\Debug\netcoreapp3.1\Integer Insertion.dll
+C:\Games\SoftUni\02.Checks\Lists\Integer Insertion\obj\Debug\netcoreapp3.1\Integer Insertion.pdb
+C:\Games\SoftUni\02.Checks\Lists\Integer Insertion\obj\Debug\netcoreapp3.1\Integer Insertion.genruntimeconfig.cache
