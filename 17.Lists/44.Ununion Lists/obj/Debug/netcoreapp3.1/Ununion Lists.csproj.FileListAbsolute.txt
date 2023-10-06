@@ -1,0 +1,13 @@
+C:\Games\SoftUni\02.Checks\Lists\Ununion Lists\bin\Debug\netcoreapp3.1\Ununion Lists.exe
+C:\Games\SoftUni\02.Checks\Lists\Ununion Lists\bin\Debug\netcoreapp3.1\Ununion Lists.deps.json
+C:\Games\SoftUni\02.Checks\Lists\Ununion Lists\bin\Debug\netcoreapp3.1\Ununion Lists.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Lists\Ununion Lists\bin\Debug\netcoreapp3.1\Ununion Lists.runtimeconfig.dev.json
+C:\Games\SoftUni\02.Checks\Lists\Ununion Lists\bin\Debug\netcoreapp3.1\Ununion Lists.dll
+C:\Games\SoftUni\02.Checks\Lists\Ununion Lists\bin\Debug\netcoreapp3.1\Ununion Lists.pdb
+C:\Games\SoftUni\02.Checks\Lists\Ununion Lists\obj\Debug\netcoreapp3.1\Ununion Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Lists\Ununion Lists\obj\Debug\netcoreapp3.1\Ununion Lists.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Lists\Ununion Lists\obj\Debug\netcoreapp3.1\Ununion Lists.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Lists\Ununion Lists\obj\Debug\netcoreapp3.1\Ununion Lists.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Lists\Ununion Lists\obj\Debug\netcoreapp3.1\Ununion Lists.dll
+C:\Games\SoftUni\02.Checks\Lists\Ununion Lists\obj\Debug\netcoreapp3.1\Ununion Lists.pdb
+C:\Games\SoftUni\02.Checks\Lists\Ununion Lists\obj\Debug\netcoreapp3.1\Ununion Lists.genruntimeconfig.cache
