@@ -1,0 +1,13 @@
+C:\Games\SoftUni\02.Checks\Lists\Camel’s Back\bin\Debug\netcoreapp3.1\Camel’s Back.exe
+C:\Games\SoftUni\02.Checks\Lists\Camel’s Back\bin\Debug\netcoreapp3.1\Camel’s Back.deps.json
+C:\Games\SoftUni\02.Checks\Lists\Camel’s Back\bin\Debug\netcoreapp3.1\Camel’s Back.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Lists\Camel’s Back\bin\Debug\netcoreapp3.1\Camel’s Back.runtimeconfig.dev.json
+C:\Games\SoftUni\02.Checks\Lists\Camel’s Back\bin\Debug\netcoreapp3.1\Camel’s Back.dll
+C:\Games\SoftUni\02.Checks\Lists\Camel’s Back\bin\Debug\netcoreapp3.1\Camel’s Back.pdb
+C:\Games\SoftUni\02.Checks\Lists\Camel’s Back\obj\Debug\netcoreapp3.1\Camel’s Back.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Lists\Camel’s Back\obj\Debug\netcoreapp3.1\Camel’s Back.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Lists\Camel’s Back\obj\Debug\netcoreapp3.1\Camel’s Back.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Lists\Camel’s Back\obj\Debug\netcoreapp3.1\Camel’s Back.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Lists\Camel’s Back\obj\Debug\netcoreapp3.1\Camel’s Back.dll
+C:\Games\SoftUni\02.Checks\Lists\Camel’s Back\obj\Debug\netcoreapp3.1\Camel’s Back.pdb
+C:\Games\SoftUni\02.Checks\Lists\Camel’s Back\obj\Debug\netcoreapp3.1\Camel’s Back.genruntimeconfig.cache
