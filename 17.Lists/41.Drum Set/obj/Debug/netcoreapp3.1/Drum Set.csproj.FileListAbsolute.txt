@@ -1,0 +1,13 @@
+C:\Games\SoftUni\02.Checks\Lists\Drum Set\bin\Debug\netcoreapp3.1\Drum Set.exe
+C:\Games\SoftUni\02.Checks\Lists\Drum Set\bin\Debug\netcoreapp3.1\Drum Set.deps.json
+C:\Games\SoftUni\02.Checks\Lists\Drum Set\bin\Debug\netcoreapp3.1\Drum Set.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Lists\Drum Set\bin\Debug\netcoreapp3.1\Drum Set.runtimeconfig.dev.json
+C:\Games\SoftUni\02.Checks\Lists\Drum Set\bin\Debug\netcoreapp3.1\Drum Set.dll
+C:\Games\SoftUni\02.Checks\Lists\Drum Set\bin\Debug\netcoreapp3.1\Drum Set.pdb
+C:\Games\SoftUni\02.Checks\Lists\Drum Set\obj\Debug\netcoreapp3.1\Drum Set.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Lists\Drum Set\obj\Debug\netcoreapp3.1\Drum Set.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Lists\Drum Set\obj\Debug\netcoreapp3.1\Drum Set.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Lists\Drum Set\obj\Debug\netcoreapp3.1\Drum Set.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Lists\Drum Set\obj\Debug\netcoreapp3.1\Drum Set.dll
+C:\Games\SoftUni\02.Checks\Lists\Drum Set\obj\Debug\netcoreapp3.1\Drum Set.pdb
+C:\Games\SoftUni\02.Checks\Lists\Drum Set\obj\Debug\netcoreapp3.1\Drum Set.genruntimeconfig.cache
