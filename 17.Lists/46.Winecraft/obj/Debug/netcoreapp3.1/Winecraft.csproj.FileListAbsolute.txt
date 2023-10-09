@@ -1,0 +1,13 @@
+C:\Games\SoftUni\02.Checks\Lists\Winecraft\bin\Debug\netcoreapp3.1\Winecraft.exe
+C:\Games\SoftUni\02.Checks\Lists\Winecraft\bin\Debug\netcoreapp3.1\Winecraft.deps.json
+C:\Games\SoftUni\02.Checks\Lists\Winecraft\bin\Debug\netcoreapp3.1\Winecraft.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Lists\Winecraft\bin\Debug\netcoreapp3.1\Winecraft.runtimeconfig.dev.json
+C:\Games\SoftUni\02.Checks\Lists\Winecraft\bin\Debug\netcoreapp3.1\Winecraft.dll
+C:\Games\SoftUni\02.Checks\Lists\Winecraft\bin\Debug\netcoreapp3.1\Winecraft.pdb
+C:\Games\SoftUni\02.Checks\Lists\Winecraft\obj\Debug\netcoreapp3.1\Winecraft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Lists\Winecraft\obj\Debug\netcoreapp3.1\Winecraft.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Lists\Winecraft\obj\Debug\netcoreapp3.1\Winecraft.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Lists\Winecraft\obj\Debug\netcoreapp3.1\Winecraft.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Lists\Winecraft\obj\Debug\netcoreapp3.1\Winecraft.dll
+C:\Games\SoftUni\02.Checks\Lists\Winecraft\obj\Debug\netcoreapp3.1\Winecraft.pdb
+C:\Games\SoftUni\02.Checks\Lists\Winecraft\obj\Debug\netcoreapp3.1\Winecraft.genruntimeconfig.cache
