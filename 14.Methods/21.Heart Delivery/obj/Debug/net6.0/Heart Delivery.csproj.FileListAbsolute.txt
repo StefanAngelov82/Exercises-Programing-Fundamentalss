@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\14.Methods\Heart Delivery\bin\Debug\net6.0\Heart Delivery.exe
+C:\Games\SoftUni\02.Checks\14.Methods\Heart Delivery\bin\Debug\net6.0\Heart Delivery.deps.json
+C:\Games\SoftUni\02.Checks\14.Methods\Heart Delivery\bin\Debug\net6.0\Heart Delivery.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\14.Methods\Heart Delivery\bin\Debug\net6.0\Heart Delivery.dll
+C:\Games\SoftUni\02.Checks\14.Methods\Heart Delivery\bin\Debug\net6.0\Heart Delivery.pdb
+C:\Games\SoftUni\02.Checks\14.Methods\Heart Delivery\obj\Debug\net6.0\Heart Delivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\14.Methods\Heart Delivery\obj\Debug\net6.0\Heart Delivery.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\14.Methods\Heart Delivery\obj\Debug\net6.0\Heart Delivery.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\14.Methods\Heart Delivery\obj\Debug\net6.0\Heart Delivery.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\14.Methods\Heart Delivery\obj\Debug\net6.0\Heart Delivery.dll
+C:\Games\SoftUni\02.Checks\14.Methods\Heart Delivery\obj\Debug\net6.0\refint\Heart Delivery.dll
+C:\Games\SoftUni\02.Checks\14.Methods\Heart Delivery\obj\Debug\net6.0\Heart Delivery.pdb
+C:\Games\SoftUni\02.Checks\14.Methods\Heart Delivery\obj\Debug\net6.0\Heart Delivery.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\14.Methods\Heart Delivery\obj\Debug\net6.0\ref\Heart Delivery.dll
