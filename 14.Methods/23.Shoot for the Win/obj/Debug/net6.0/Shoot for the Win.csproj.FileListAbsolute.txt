@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\14.Methods\Shoot for the Win\bin\Debug\net6.0\Shoot for the Win.exe
+C:\Games\SoftUni\02.Checks\14.Methods\Shoot for the Win\bin\Debug\net6.0\Shoot for the Win.deps.json
+C:\Games\SoftUni\02.Checks\14.Methods\Shoot for the Win\bin\Debug\net6.0\Shoot for the Win.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\14.Methods\Shoot for the Win\bin\Debug\net6.0\Shoot for the Win.dll
+C:\Games\SoftUni\02.Checks\14.Methods\Shoot for the Win\bin\Debug\net6.0\Shoot for the Win.pdb
+C:\Games\SoftUni\02.Checks\14.Methods\Shoot for the Win\obj\Debug\net6.0\Shoot for the Win.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\14.Methods\Shoot for the Win\obj\Debug\net6.0\Shoot for the Win.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\14.Methods\Shoot for the Win\obj\Debug\net6.0\Shoot for the Win.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\14.Methods\Shoot for the Win\obj\Debug\net6.0\Shoot for the Win.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\14.Methods\Shoot for the Win\obj\Debug\net6.0\Shoot for the Win.dll
+C:\Games\SoftUni\02.Checks\14.Methods\Shoot for the Win\obj\Debug\net6.0\refint\Shoot for the Win.dll
+C:\Games\SoftUni\02.Checks\14.Methods\Shoot for the Win\obj\Debug\net6.0\Shoot for the Win.pdb
+C:\Games\SoftUni\02.Checks\14.Methods\Shoot for the Win\obj\Debug\net6.0\Shoot for the Win.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\14.Methods\Shoot for the Win\obj\Debug\net6.0\ref\Shoot for the Win.dll
