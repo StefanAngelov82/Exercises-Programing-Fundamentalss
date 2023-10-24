@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\stringManipulation\Text filter\bin\Debug\net6.0\Text filter.exe
+C:\Games\SoftUni\02.Checks\stringManipulation\Text filter\bin\Debug\net6.0\Text filter.deps.json
+C:\Games\SoftUni\02.Checks\stringManipulation\Text filter\bin\Debug\net6.0\Text filter.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\stringManipulation\Text filter\bin\Debug\net6.0\Text filter.dll
+C:\Games\SoftUni\02.Checks\stringManipulation\Text filter\bin\Debug\net6.0\Text filter.pdb
+C:\Games\SoftUni\02.Checks\stringManipulation\Text filter\obj\Debug\net6.0\Text filter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\stringManipulation\Text filter\obj\Debug\net6.0\Text filter.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\stringManipulation\Text filter\obj\Debug\net6.0\Text filter.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\stringManipulation\Text filter\obj\Debug\net6.0\Text filter.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\stringManipulation\Text filter\obj\Debug\net6.0\Text filter.dll
+C:\Games\SoftUni\02.Checks\stringManipulation\Text filter\obj\Debug\net6.0\refint\Text filter.dll
+C:\Games\SoftUni\02.Checks\stringManipulation\Text filter\obj\Debug\net6.0\Text filter.pdb
+C:\Games\SoftUni\02.Checks\stringManipulation\Text filter\obj\Debug\net6.0\Text filter.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\stringManipulation\Text filter\obj\Debug\net6.0\ref\Text filter.dll
