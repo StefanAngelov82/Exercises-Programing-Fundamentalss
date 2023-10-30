@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Articles\bin\Debug\net6.0\Articles.exe
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Articles\bin\Debug\net6.0\Articles.deps.json
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Articles\bin\Debug\net6.0\Articles.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Articles\bin\Debug\net6.0\Articles.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Articles\bin\Debug\net6.0\Articles.pdb
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Articles\obj\Debug\net6.0\Articles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Articles\obj\Debug\net6.0\Articles.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Articles\obj\Debug\net6.0\Articles.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Articles\obj\Debug\net6.0\Articles.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Articles\obj\Debug\net6.0\Articles.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Articles\obj\Debug\net6.0\refint\Articles.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Articles\obj\Debug\net6.0\Articles.pdb
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Articles\obj\Debug\net6.0\Articles.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Articles\obj\Debug\net6.0\ref\Articles.dll
