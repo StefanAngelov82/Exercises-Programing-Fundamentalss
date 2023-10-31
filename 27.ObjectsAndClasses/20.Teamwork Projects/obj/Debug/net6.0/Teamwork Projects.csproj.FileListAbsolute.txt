@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Teamwork Projects\bin\Debug\net6.0\Teamwork Projects.exe
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Teamwork Projects\bin\Debug\net6.0\Teamwork Projects.deps.json
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Teamwork Projects\bin\Debug\net6.0\Teamwork Projects.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Teamwork Projects\bin\Debug\net6.0\Teamwork Projects.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Teamwork Projects\bin\Debug\net6.0\Teamwork Projects.pdb
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Teamwork Projects\obj\Debug\net6.0\Teamwork Projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Teamwork Projects\obj\Debug\net6.0\Teamwork Projects.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Teamwork Projects\obj\Debug\net6.0\Teamwork Projects.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Teamwork Projects\obj\Debug\net6.0\Teamwork Projects.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Teamwork Projects\obj\Debug\net6.0\Teamwork Projects.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Teamwork Projects\obj\Debug\net6.0\refint\Teamwork Projects.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Teamwork Projects\obj\Debug\net6.0\Teamwork Projects.pdb
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Teamwork Projects\obj\Debug\net6.0\Teamwork Projects.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Teamwork Projects\obj\Debug\net6.0\ref\Teamwork Projects.dll
