@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Speed Racing\bin\Debug\net6.0\Speed Racing.exe
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Speed Racing\bin\Debug\net6.0\Speed Racing.deps.json
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Speed Racing\bin\Debug\net6.0\Speed Racing.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Speed Racing\bin\Debug\net6.0\Speed Racing.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Speed Racing\bin\Debug\net6.0\Speed Racing.pdb
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Speed Racing\obj\Debug\net6.0\Speed Racing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Speed Racing\obj\Debug\net6.0\Speed Racing.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Speed Racing\obj\Debug\net6.0\Speed Racing.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Speed Racing\obj\Debug\net6.0\Speed Racing.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Speed Racing\obj\Debug\net6.0\Speed Racing.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Speed Racing\obj\Debug\net6.0\refint\Speed Racing.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Speed Racing\obj\Debug\net6.0\Speed Racing.pdb
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Speed Racing\obj\Debug\net6.0\Speed Racing.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Speed Racing\obj\Debug\net6.0\ref\Speed Racing.dll
