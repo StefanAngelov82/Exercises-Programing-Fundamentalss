@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Shopping Spree 1\bin\Debug\net6.0\Shopping Spree 1.exe
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Shopping Spree 1\bin\Debug\net6.0\Shopping Spree 1.deps.json
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Shopping Spree 1\bin\Debug\net6.0\Shopping Spree 1.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Shopping Spree 1\bin\Debug\net6.0\Shopping Spree 1.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Shopping Spree 1\bin\Debug\net6.0\Shopping Spree 1.pdb
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Shopping Spree 1\obj\Debug\net6.0\Shopping Spree 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Shopping Spree 1\obj\Debug\net6.0\Shopping Spree 1.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Shopping Spree 1\obj\Debug\net6.0\Shopping Spree 1.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Shopping Spree 1\obj\Debug\net6.0\Shopping Spree 1.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Shopping Spree 1\obj\Debug\net6.0\Shopping Spree 1.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Shopping Spree 1\obj\Debug\net6.0\refint\Shopping Spree 1.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Shopping Spree 1\obj\Debug\net6.0\Shopping Spree 1.pdb
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Shopping Spree 1\obj\Debug\net6.0\Shopping Spree 1.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Shopping Spree 1\obj\Debug\net6.0\ref\Shopping Spree 1.dll
