@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\Associative arrays\Courses\bin\Debug\net6.0\Courses.exe
+C:\Games\SoftUni\02.Checks\Associative arrays\Courses\bin\Debug\net6.0\Courses.deps.json
+C:\Games\SoftUni\02.Checks\Associative arrays\Courses\bin\Debug\net6.0\Courses.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Associative arrays\Courses\bin\Debug\net6.0\Courses.dll
+C:\Games\SoftUni\02.Checks\Associative arrays\Courses\bin\Debug\net6.0\Courses.pdb
+C:\Games\SoftUni\02.Checks\Associative arrays\Courses\obj\Debug\net6.0\Courses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Associative arrays\Courses\obj\Debug\net6.0\Courses.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Associative arrays\Courses\obj\Debug\net6.0\Courses.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Associative arrays\Courses\obj\Debug\net6.0\Courses.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Associative arrays\Courses\obj\Debug\net6.0\Courses.dll
+C:\Games\SoftUni\02.Checks\Associative arrays\Courses\obj\Debug\net6.0\refint\Courses.dll
+C:\Games\SoftUni\02.Checks\Associative arrays\Courses\obj\Debug\net6.0\Courses.pdb
+C:\Games\SoftUni\02.Checks\Associative arrays\Courses\obj\Debug\net6.0\Courses.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\Associative arrays\Courses\obj\Debug\net6.0\ref\Courses.dll
