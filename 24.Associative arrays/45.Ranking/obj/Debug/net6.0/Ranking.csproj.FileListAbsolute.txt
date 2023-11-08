@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\Associative arrays\Ranking\bin\Debug\net6.0\Ranking.exe
+C:\Games\SoftUni\02.Checks\Associative arrays\Ranking\bin\Debug\net6.0\Ranking.deps.json
+C:\Games\SoftUni\02.Checks\Associative arrays\Ranking\bin\Debug\net6.0\Ranking.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Associative arrays\Ranking\bin\Debug\net6.0\Ranking.dll
+C:\Games\SoftUni\02.Checks\Associative arrays\Ranking\bin\Debug\net6.0\Ranking.pdb
+C:\Games\SoftUni\02.Checks\Associative arrays\Ranking\obj\Debug\net6.0\Ranking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Associative arrays\Ranking\obj\Debug\net6.0\Ranking.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Associative arrays\Ranking\obj\Debug\net6.0\Ranking.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Associative arrays\Ranking\obj\Debug\net6.0\Ranking.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Associative arrays\Ranking\obj\Debug\net6.0\Ranking.dll
+C:\Games\SoftUni\02.Checks\Associative arrays\Ranking\obj\Debug\net6.0\refint\Ranking.dll
+C:\Games\SoftUni\02.Checks\Associative arrays\Ranking\obj\Debug\net6.0\Ranking.pdb
+C:\Games\SoftUni\02.Checks\Associative arrays\Ranking\obj\Debug\net6.0\Ranking.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\Associative arrays\Ranking\obj\Debug\net6.0\ref\Ranking.dll
