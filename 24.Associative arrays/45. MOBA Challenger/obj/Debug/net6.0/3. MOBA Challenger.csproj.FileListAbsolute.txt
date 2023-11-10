@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\Associative arrays\3. MOBA Challenger\bin\Debug\net6.0\3. MOBA Challenger.exe
+C:\Games\SoftUni\02.Checks\Associative arrays\3. MOBA Challenger\bin\Debug\net6.0\3. MOBA Challenger.deps.json
+C:\Games\SoftUni\02.Checks\Associative arrays\3. MOBA Challenger\bin\Debug\net6.0\3. MOBA Challenger.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Associative arrays\3. MOBA Challenger\bin\Debug\net6.0\3. MOBA Challenger.dll
+C:\Games\SoftUni\02.Checks\Associative arrays\3. MOBA Challenger\bin\Debug\net6.0\3. MOBA Challenger.pdb
+C:\Games\SoftUni\02.Checks\Associative arrays\3. MOBA Challenger\obj\Debug\net6.0\3. MOBA Challenger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Associative arrays\3. MOBA Challenger\obj\Debug\net6.0\3. MOBA Challenger.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Associative arrays\3. MOBA Challenger\obj\Debug\net6.0\3. MOBA Challenger.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Associative arrays\3. MOBA Challenger\obj\Debug\net6.0\3. MOBA Challenger.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Associative arrays\3. MOBA Challenger\obj\Debug\net6.0\3. MOBA Challenger.dll
+C:\Games\SoftUni\02.Checks\Associative arrays\3. MOBA Challenger\obj\Debug\net6.0\refint\3. MOBA Challenger.dll
+C:\Games\SoftUni\02.Checks\Associative arrays\3. MOBA Challenger\obj\Debug\net6.0\3. MOBA Challenger.pdb
+C:\Games\SoftUni\02.Checks\Associative arrays\3. MOBA Challenger\obj\Debug\net6.0\3. MOBA Challenger.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\Associative arrays\3. MOBA Challenger\obj\Debug\net6.0\ref\3. MOBA Challenger.dll
