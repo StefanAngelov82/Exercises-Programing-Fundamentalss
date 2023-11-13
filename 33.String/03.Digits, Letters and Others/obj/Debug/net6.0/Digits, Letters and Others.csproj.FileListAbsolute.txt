@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\stringManipulation\Digits, Letters and Others\bin\Debug\net6.0\Digits, Letters and Others.exe
+C:\Games\SoftUni\02.Checks\stringManipulation\Digits, Letters and Others\bin\Debug\net6.0\Digits, Letters and Others.deps.json
+C:\Games\SoftUni\02.Checks\stringManipulation\Digits, Letters and Others\bin\Debug\net6.0\Digits, Letters and Others.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\stringManipulation\Digits, Letters and Others\bin\Debug\net6.0\Digits, Letters and Others.dll
+C:\Games\SoftUni\02.Checks\stringManipulation\Digits, Letters and Others\bin\Debug\net6.0\Digits, Letters and Others.pdb
+C:\Games\SoftUni\02.Checks\stringManipulation\Digits, Letters and Others\obj\Debug\net6.0\Digits, Letters and Others.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\stringManipulation\Digits, Letters and Others\obj\Debug\net6.0\Digits, Letters and Others.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\stringManipulation\Digits, Letters and Others\obj\Debug\net6.0\Digits, Letters and Others.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\stringManipulation\Digits, Letters and Others\obj\Debug\net6.0\Digits, Letters and Others.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\stringManipulation\Digits, Letters and Others\obj\Debug\net6.0\Digits, Letters and Others.dll
+C:\Games\SoftUni\02.Checks\stringManipulation\Digits, Letters and Others\obj\Debug\net6.0\refint\Digits, Letters and Others.dll
+C:\Games\SoftUni\02.Checks\stringManipulation\Digits, Letters and Others\obj\Debug\net6.0\Digits, Letters and Others.pdb
+C:\Games\SoftUni\02.Checks\stringManipulation\Digits, Letters and Others\obj\Debug\net6.0\Digits, Letters and Others.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\stringManipulation\Digits, Letters and Others\obj\Debug\net6.0\ref\Digits, Letters and Others.dll

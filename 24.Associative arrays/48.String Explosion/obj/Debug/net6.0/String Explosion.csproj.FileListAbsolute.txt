@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\stringManipulation\String Explosion\bin\Debug\net6.0\String Explosion.exe
+C:\Games\SoftUni\02.Checks\stringManipulation\String Explosion\bin\Debug\net6.0\String Explosion.deps.json
+C:\Games\SoftUni\02.Checks\stringManipulation\String Explosion\bin\Debug\net6.0\String Explosion.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\stringManipulation\String Explosion\bin\Debug\net6.0\String Explosion.dll
+C:\Games\SoftUni\02.Checks\stringManipulation\String Explosion\bin\Debug\net6.0\String Explosion.pdb
+C:\Games\SoftUni\02.Checks\stringManipulation\String Explosion\obj\Debug\net6.0\String Explosion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\stringManipulation\String Explosion\obj\Debug\net6.0\String Explosion.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\stringManipulation\String Explosion\obj\Debug\net6.0\String Explosion.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\stringManipulation\String Explosion\obj\Debug\net6.0\String Explosion.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\stringManipulation\String Explosion\obj\Debug\net6.0\String Explosion.dll
+C:\Games\SoftUni\02.Checks\stringManipulation\String Explosion\obj\Debug\net6.0\refint\String Explosion.dll
+C:\Games\SoftUni\02.Checks\stringManipulation\String Explosion\obj\Debug\net6.0\String Explosion.pdb
+C:\Games\SoftUni\02.Checks\stringManipulation\String Explosion\obj\Debug\net6.0\String Explosion.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\stringManipulation\String Explosion\obj\Debug\net6.0\ref\String Explosion.dll
