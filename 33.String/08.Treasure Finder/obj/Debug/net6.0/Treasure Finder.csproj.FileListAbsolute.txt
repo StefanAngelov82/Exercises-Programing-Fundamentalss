@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\stringManipulation\Treasure Finder\bin\Debug\net6.0\Treasure Finder.exe
+C:\Games\SoftUni\02.Checks\stringManipulation\Treasure Finder\bin\Debug\net6.0\Treasure Finder.deps.json
+C:\Games\SoftUni\02.Checks\stringManipulation\Treasure Finder\bin\Debug\net6.0\Treasure Finder.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\stringManipulation\Treasure Finder\bin\Debug\net6.0\Treasure Finder.dll
+C:\Games\SoftUni\02.Checks\stringManipulation\Treasure Finder\bin\Debug\net6.0\Treasure Finder.pdb
+C:\Games\SoftUni\02.Checks\stringManipulation\Treasure Finder\obj\Debug\net6.0\Treasure Finder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\stringManipulation\Treasure Finder\obj\Debug\net6.0\Treasure Finder.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\stringManipulation\Treasure Finder\obj\Debug\net6.0\Treasure Finder.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\stringManipulation\Treasure Finder\obj\Debug\net6.0\Treasure Finder.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\stringManipulation\Treasure Finder\obj\Debug\net6.0\Treasure Finder.dll
+C:\Games\SoftUni\02.Checks\stringManipulation\Treasure Finder\obj\Debug\net6.0\refint\Treasure Finder.dll
+C:\Games\SoftUni\02.Checks\stringManipulation\Treasure Finder\obj\Debug\net6.0\Treasure Finder.pdb
+C:\Games\SoftUni\02.Checks\stringManipulation\Treasure Finder\obj\Debug\net6.0\Treasure Finder.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\stringManipulation\Treasure Finder\obj\Debug\net6.0\ref\Treasure Finder.dll
