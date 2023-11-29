@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\REGEX\3. SoftUni Bar Income\bin\Debug\net6.0\3. SoftUni Bar Income.exe
+C:\Games\SoftUni\02.Checks\REGEX\3. SoftUni Bar Income\bin\Debug\net6.0\3. SoftUni Bar Income.deps.json
+C:\Games\SoftUni\02.Checks\REGEX\3. SoftUni Bar Income\bin\Debug\net6.0\3. SoftUni Bar Income.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\REGEX\3. SoftUni Bar Income\bin\Debug\net6.0\3. SoftUni Bar Income.dll
+C:\Games\SoftUni\02.Checks\REGEX\3. SoftUni Bar Income\bin\Debug\net6.0\3. SoftUni Bar Income.pdb
+C:\Games\SoftUni\02.Checks\REGEX\3. SoftUni Bar Income\obj\Debug\net6.0\3. SoftUni Bar Income.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\REGEX\3. SoftUni Bar Income\obj\Debug\net6.0\3. SoftUni Bar Income.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\REGEX\3. SoftUni Bar Income\obj\Debug\net6.0\3. SoftUni Bar Income.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\REGEX\3. SoftUni Bar Income\obj\Debug\net6.0\3. SoftUni Bar Income.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\REGEX\3. SoftUni Bar Income\obj\Debug\net6.0\3. SoftUni Bar Income.dll
+C:\Games\SoftUni\02.Checks\REGEX\3. SoftUni Bar Income\obj\Debug\net6.0\refint\3. SoftUni Bar Income.dll
+C:\Games\SoftUni\02.Checks\REGEX\3. SoftUni Bar Income\obj\Debug\net6.0\3. SoftUni Bar Income.pdb
+C:\Games\SoftUni\02.Checks\REGEX\3. SoftUni Bar Income\obj\Debug\net6.0\3. SoftUni Bar Income.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\REGEX\3. SoftUni Bar Income\obj\Debug\net6.0\ref\3. SoftUni Bar Income.dll
