@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\REGEX\Race\bin\Debug\net6.0\Race.exe
+C:\Games\SoftUni\02.Checks\REGEX\Race\bin\Debug\net6.0\Race.deps.json
+C:\Games\SoftUni\02.Checks\REGEX\Race\bin\Debug\net6.0\Race.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\REGEX\Race\bin\Debug\net6.0\Race.dll
+C:\Games\SoftUni\02.Checks\REGEX\Race\bin\Debug\net6.0\Race.pdb
+C:\Games\SoftUni\02.Checks\REGEX\Race\obj\Debug\net6.0\Race.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\REGEX\Race\obj\Debug\net6.0\Race.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\REGEX\Race\obj\Debug\net6.0\Race.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\REGEX\Race\obj\Debug\net6.0\Race.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\REGEX\Race\obj\Debug\net6.0\Race.dll
+C:\Games\SoftUni\02.Checks\REGEX\Race\obj\Debug\net6.0\refint\Race.dll
+C:\Games\SoftUni\02.Checks\REGEX\Race\obj\Debug\net6.0\Race.pdb
+C:\Games\SoftUni\02.Checks\REGEX\Race\obj\Debug\net6.0\Race.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\REGEX\Race\obj\Debug\net6.0\ref\Race.dll
