@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\REGEX\Winning Ticket\bin\Debug\net6.0\Winning Ticket.exe
+C:\Games\SoftUni\02.Checks\REGEX\Winning Ticket\bin\Debug\net6.0\Winning Ticket.deps.json
+C:\Games\SoftUni\02.Checks\REGEX\Winning Ticket\bin\Debug\net6.0\Winning Ticket.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\REGEX\Winning Ticket\bin\Debug\net6.0\Winning Ticket.dll
+C:\Games\SoftUni\02.Checks\REGEX\Winning Ticket\bin\Debug\net6.0\Winning Ticket.pdb
+C:\Games\SoftUni\02.Checks\REGEX\Winning Ticket\obj\Debug\net6.0\Winning Ticket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\REGEX\Winning Ticket\obj\Debug\net6.0\Winning Ticket.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\REGEX\Winning Ticket\obj\Debug\net6.0\Winning Ticket.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\REGEX\Winning Ticket\obj\Debug\net6.0\Winning Ticket.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\REGEX\Winning Ticket\obj\Debug\net6.0\Winning Ticket.dll
+C:\Games\SoftUni\02.Checks\REGEX\Winning Ticket\obj\Debug\net6.0\refint\Winning Ticket.dll
+C:\Games\SoftUni\02.Checks\REGEX\Winning Ticket\obj\Debug\net6.0\Winning Ticket.pdb
+C:\Games\SoftUni\02.Checks\REGEX\Winning Ticket\obj\Debug\net6.0\Winning Ticket.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\REGEX\Winning Ticket\obj\Debug\net6.0\ref\Winning Ticket.dll
