@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\REGEX\Nether Realms\bin\Debug\net6.0\Nether Realms.exe
+C:\Games\SoftUni\02.Checks\REGEX\Nether Realms\bin\Debug\net6.0\Nether Realms.deps.json
+C:\Games\SoftUni\02.Checks\REGEX\Nether Realms\bin\Debug\net6.0\Nether Realms.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\REGEX\Nether Realms\bin\Debug\net6.0\Nether Realms.dll
+C:\Games\SoftUni\02.Checks\REGEX\Nether Realms\bin\Debug\net6.0\Nether Realms.pdb
+C:\Games\SoftUni\02.Checks\REGEX\Nether Realms\obj\Debug\net6.0\Nether Realms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\REGEX\Nether Realms\obj\Debug\net6.0\Nether Realms.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\REGEX\Nether Realms\obj\Debug\net6.0\Nether Realms.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\REGEX\Nether Realms\obj\Debug\net6.0\Nether Realms.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\REGEX\Nether Realms\obj\Debug\net6.0\Nether Realms.dll
+C:\Games\SoftUni\02.Checks\REGEX\Nether Realms\obj\Debug\net6.0\refint\Nether Realms.dll
+C:\Games\SoftUni\02.Checks\REGEX\Nether Realms\obj\Debug\net6.0\Nether Realms.pdb
+C:\Games\SoftUni\02.Checks\REGEX\Nether Realms\obj\Debug\net6.0\Nether Realms.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\REGEX\Nether Realms\obj\Debug\net6.0\ref\Nether Realms.dll
