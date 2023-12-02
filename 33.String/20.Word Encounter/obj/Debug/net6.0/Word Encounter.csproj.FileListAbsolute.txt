@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\REGEX\Word Encounter\bin\Debug\net6.0\Word Encounter.exe
+C:\Games\SoftUni\02.Checks\REGEX\Word Encounter\bin\Debug\net6.0\Word Encounter.deps.json
+C:\Games\SoftUni\02.Checks\REGEX\Word Encounter\bin\Debug\net6.0\Word Encounter.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\REGEX\Word Encounter\bin\Debug\net6.0\Word Encounter.dll
+C:\Games\SoftUni\02.Checks\REGEX\Word Encounter\bin\Debug\net6.0\Word Encounter.pdb
+C:\Games\SoftUni\02.Checks\REGEX\Word Encounter\obj\Debug\net6.0\Word Encounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\REGEX\Word Encounter\obj\Debug\net6.0\Word Encounter.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\REGEX\Word Encounter\obj\Debug\net6.0\Word Encounter.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\REGEX\Word Encounter\obj\Debug\net6.0\Word Encounter.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\REGEX\Word Encounter\obj\Debug\net6.0\Word Encounter.dll
+C:\Games\SoftUni\02.Checks\REGEX\Word Encounter\obj\Debug\net6.0\refint\Word Encounter.dll
+C:\Games\SoftUni\02.Checks\REGEX\Word Encounter\obj\Debug\net6.0\Word Encounter.pdb
+C:\Games\SoftUni\02.Checks\REGEX\Word Encounter\obj\Debug\net6.0\Word Encounter.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\REGEX\Word Encounter\obj\Debug\net6.0\ref\Word Encounter.dll
