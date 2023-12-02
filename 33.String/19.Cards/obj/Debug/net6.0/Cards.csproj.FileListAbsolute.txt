@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\REGEX\Cards\bin\Debug\net6.0\Cards.exe
+C:\Games\SoftUni\02.Checks\REGEX\Cards\bin\Debug\net6.0\Cards.deps.json
+C:\Games\SoftUni\02.Checks\REGEX\Cards\bin\Debug\net6.0\Cards.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\REGEX\Cards\bin\Debug\net6.0\Cards.dll
+C:\Games\SoftUni\02.Checks\REGEX\Cards\bin\Debug\net6.0\Cards.pdb
+C:\Games\SoftUni\02.Checks\REGEX\Cards\obj\Debug\net6.0\Cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\REGEX\Cards\obj\Debug\net6.0\Cards.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\REGEX\Cards\obj\Debug\net6.0\Cards.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\REGEX\Cards\obj\Debug\net6.0\Cards.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\REGEX\Cards\obj\Debug\net6.0\Cards.dll
+C:\Games\SoftUni\02.Checks\REGEX\Cards\obj\Debug\net6.0\refint\Cards.dll
+C:\Games\SoftUni\02.Checks\REGEX\Cards\obj\Debug\net6.0\Cards.pdb
+C:\Games\SoftUni\02.Checks\REGEX\Cards\obj\Debug\net6.0\Cards.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\REGEX\Cards\obj\Debug\net6.0\ref\Cards.dll
