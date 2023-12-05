@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\REGEX\Fish Statistics\bin\Debug\net6.0\Fish Statistics.exe
+C:\Games\SoftUni\02.Checks\REGEX\Fish Statistics\bin\Debug\net6.0\Fish Statistics.deps.json
+C:\Games\SoftUni\02.Checks\REGEX\Fish Statistics\bin\Debug\net6.0\Fish Statistics.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\REGEX\Fish Statistics\bin\Debug\net6.0\Fish Statistics.dll
+C:\Games\SoftUni\02.Checks\REGEX\Fish Statistics\bin\Debug\net6.0\Fish Statistics.pdb
+C:\Games\SoftUni\02.Checks\REGEX\Fish Statistics\obj\Debug\net6.0\Fish Statistics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\REGEX\Fish Statistics\obj\Debug\net6.0\Fish Statistics.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\REGEX\Fish Statistics\obj\Debug\net6.0\Fish Statistics.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\REGEX\Fish Statistics\obj\Debug\net6.0\Fish Statistics.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\REGEX\Fish Statistics\obj\Debug\net6.0\Fish Statistics.dll
+C:\Games\SoftUni\02.Checks\REGEX\Fish Statistics\obj\Debug\net6.0\refint\Fish Statistics.dll
+C:\Games\SoftUni\02.Checks\REGEX\Fish Statistics\obj\Debug\net6.0\Fish Statistics.pdb
+C:\Games\SoftUni\02.Checks\REGEX\Fish Statistics\obj\Debug\net6.0\Fish Statistics.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\REGEX\Fish Statistics\obj\Debug\net6.0\ref\Fish Statistics.dll
