@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\REGEX\Happiness Index\bin\Debug\net6.0\Happiness Index.exe
+C:\Games\SoftUni\02.Checks\REGEX\Happiness Index\bin\Debug\net6.0\Happiness Index.deps.json
+C:\Games\SoftUni\02.Checks\REGEX\Happiness Index\bin\Debug\net6.0\Happiness Index.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\REGEX\Happiness Index\bin\Debug\net6.0\Happiness Index.dll
+C:\Games\SoftUni\02.Checks\REGEX\Happiness Index\bin\Debug\net6.0\Happiness Index.pdb
+C:\Games\SoftUni\02.Checks\REGEX\Happiness Index\obj\Debug\net6.0\Happiness Index.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\REGEX\Happiness Index\obj\Debug\net6.0\Happiness Index.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\REGEX\Happiness Index\obj\Debug\net6.0\Happiness Index.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\REGEX\Happiness Index\obj\Debug\net6.0\Happiness Index.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\REGEX\Happiness Index\obj\Debug\net6.0\Happiness Index.dll
+C:\Games\SoftUni\02.Checks\REGEX\Happiness Index\obj\Debug\net6.0\refint\Happiness Index.dll
+C:\Games\SoftUni\02.Checks\REGEX\Happiness Index\obj\Debug\net6.0\Happiness Index.pdb
+C:\Games\SoftUni\02.Checks\REGEX\Happiness Index\obj\Debug\net6.0\Happiness Index.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\REGEX\Happiness Index\obj\Debug\net6.0\ref\Happiness Index.dll
