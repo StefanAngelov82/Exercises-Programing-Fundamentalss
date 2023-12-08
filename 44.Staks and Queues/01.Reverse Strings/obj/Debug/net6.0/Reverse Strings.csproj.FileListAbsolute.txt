@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Reverse Strings\bin\Debug\net6.0\Reverse Strings.exe
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Reverse Strings\bin\Debug\net6.0\Reverse Strings.deps.json
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Reverse Strings\bin\Debug\net6.0\Reverse Strings.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Reverse Strings\bin\Debug\net6.0\Reverse Strings.dll
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Reverse Strings\bin\Debug\net6.0\Reverse Strings.pdb
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Reverse Strings\obj\Debug\net6.0\Reverse Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Reverse Strings\obj\Debug\net6.0\Reverse Strings.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Reverse Strings\obj\Debug\net6.0\Reverse Strings.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Reverse Strings\obj\Debug\net6.0\Reverse Strings.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Reverse Strings\obj\Debug\net6.0\Reverse Strings.dll
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Reverse Strings\obj\Debug\net6.0\refint\Reverse Strings.dll
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Reverse Strings\obj\Debug\net6.0\Reverse Strings.pdb
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Reverse Strings\obj\Debug\net6.0\Reverse Strings.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Reverse Strings\obj\Debug\net6.0\ref\Reverse Strings.dll
