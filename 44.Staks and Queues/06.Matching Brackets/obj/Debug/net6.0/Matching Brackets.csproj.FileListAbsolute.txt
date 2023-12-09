@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Matching Brackets\bin\Debug\net6.0\Matching Brackets.exe
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Matching Brackets\bin\Debug\net6.0\Matching Brackets.deps.json
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Matching Brackets\bin\Debug\net6.0\Matching Brackets.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Matching Brackets\bin\Debug\net6.0\Matching Brackets.dll
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Matching Brackets\bin\Debug\net6.0\Matching Brackets.pdb
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Matching Brackets\obj\Debug\net6.0\Matching Brackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Matching Brackets\obj\Debug\net6.0\Matching Brackets.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Matching Brackets\obj\Debug\net6.0\Matching Brackets.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Matching Brackets\obj\Debug\net6.0\Matching Brackets.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Matching Brackets\obj\Debug\net6.0\Matching Brackets.dll
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Matching Brackets\obj\Debug\net6.0\refint\Matching Brackets.dll
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Matching Brackets\obj\Debug\net6.0\Matching Brackets.pdb
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Matching Brackets\obj\Debug\net6.0\Matching Brackets.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Matching Brackets\obj\Debug\net6.0\ref\Matching Brackets.dll
