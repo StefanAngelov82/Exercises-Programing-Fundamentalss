@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Supermarket\bin\Debug\net6.0\Supermarket.exe
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Supermarket\bin\Debug\net6.0\Supermarket.deps.json
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Supermarket\bin\Debug\net6.0\Supermarket.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Supermarket\bin\Debug\net6.0\Supermarket.dll
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Supermarket\bin\Debug\net6.0\Supermarket.pdb
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Supermarket\obj\Debug\net6.0\Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Supermarket\obj\Debug\net6.0\Supermarket.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Supermarket\obj\Debug\net6.0\Supermarket.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Supermarket\obj\Debug\net6.0\Supermarket.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Supermarket\obj\Debug\net6.0\Supermarket.dll
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Supermarket\obj\Debug\net6.0\refint\Supermarket.dll
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Supermarket\obj\Debug\net6.0\Supermarket.pdb
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Supermarket\obj\Debug\net6.0\Supermarket.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Supermarket\obj\Debug\net6.0\ref\Supermarket.dll
