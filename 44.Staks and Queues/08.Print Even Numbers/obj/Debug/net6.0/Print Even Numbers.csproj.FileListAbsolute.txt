@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Print Even Numbers\bin\Debug\net6.0\Print Even Numbers.exe
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Print Even Numbers\bin\Debug\net6.0\Print Even Numbers.deps.json
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Print Even Numbers\bin\Debug\net6.0\Print Even Numbers.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Print Even Numbers\bin\Debug\net6.0\Print Even Numbers.dll
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Print Even Numbers\bin\Debug\net6.0\Print Even Numbers.pdb
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Print Even Numbers\obj\Debug\net6.0\Print Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Print Even Numbers\obj\Debug\net6.0\Print Even Numbers.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Print Even Numbers\obj\Debug\net6.0\Print Even Numbers.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Print Even Numbers\obj\Debug\net6.0\Print Even Numbers.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Print Even Numbers\obj\Debug\net6.0\Print Even Numbers.dll
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Print Even Numbers\obj\Debug\net6.0\refint\Print Even Numbers.dll
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Print Even Numbers\obj\Debug\net6.0\Print Even Numbers.pdb
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Print Even Numbers\obj\Debug\net6.0\Print Even Numbers.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Print Even Numbers\obj\Debug\net6.0\ref\Print Even Numbers.dll
