@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Calculate Sequence with Queue/1.0.0": {
+        "runtime": {
+          "Calculate Sequence with Queue.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculate Sequence with Queue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
