@@ -1,0 +1,13 @@
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Maximum Element\bin\Debug\netcoreapp3.1\Maximum Element.exe
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Maximum Element\bin\Debug\netcoreapp3.1\Maximum Element.deps.json
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Maximum Element\bin\Debug\netcoreapp3.1\Maximum Element.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Maximum Element\bin\Debug\netcoreapp3.1\Maximum Element.runtimeconfig.dev.json
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Maximum Element\bin\Debug\netcoreapp3.1\Maximum Element.dll
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Maximum Element\bin\Debug\netcoreapp3.1\Maximum Element.pdb
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Maximum Element\obj\Debug\netcoreapp3.1\Maximum Element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Maximum Element\obj\Debug\netcoreapp3.1\Maximum Element.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Maximum Element\obj\Debug\netcoreapp3.1\Maximum Element.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Maximum Element\obj\Debug\netcoreapp3.1\Maximum Element.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Maximum Element\obj\Debug\netcoreapp3.1\Maximum Element.dll
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Maximum Element\obj\Debug\netcoreapp3.1\Maximum Element.pdb
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Maximum Element\obj\Debug\netcoreapp3.1\Maximum Element.genruntimeconfig.cache
