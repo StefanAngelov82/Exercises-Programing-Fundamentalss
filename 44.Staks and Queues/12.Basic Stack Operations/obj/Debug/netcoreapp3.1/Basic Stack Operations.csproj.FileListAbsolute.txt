@@ -1,0 +1,13 @@
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Basic Stack Operations\bin\Debug\netcoreapp3.1\Basic Stack Operations.exe
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Basic Stack Operations\bin\Debug\netcoreapp3.1\Basic Stack Operations.deps.json
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Basic Stack Operations\bin\Debug\netcoreapp3.1\Basic Stack Operations.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Basic Stack Operations\bin\Debug\netcoreapp3.1\Basic Stack Operations.runtimeconfig.dev.json
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Basic Stack Operations\bin\Debug\netcoreapp3.1\Basic Stack Operations.dll
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Basic Stack Operations\bin\Debug\netcoreapp3.1\Basic Stack Operations.pdb
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Basic Stack Operations\obj\Debug\netcoreapp3.1\Basic Stack Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Basic Stack Operations\obj\Debug\netcoreapp3.1\Basic Stack Operations.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Basic Stack Operations\obj\Debug\netcoreapp3.1\Basic Stack Operations.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Basic Stack Operations\obj\Debug\netcoreapp3.1\Basic Stack Operations.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Basic Stack Operations\obj\Debug\netcoreapp3.1\Basic Stack Operations.dll
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Basic Stack Operations\obj\Debug\netcoreapp3.1\Basic Stack Operations.pdb
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Basic Stack Operations\obj\Debug\netcoreapp3.1\Basic Stack Operations.genruntimeconfig.cache
