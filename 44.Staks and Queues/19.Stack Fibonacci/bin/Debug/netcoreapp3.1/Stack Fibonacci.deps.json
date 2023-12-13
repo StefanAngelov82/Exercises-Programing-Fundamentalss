@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Stack Fibonacci/1.0.0": {
+        "runtime": {
+          "Stack Fibonacci.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Stack Fibonacci/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
