@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Simple Text Editor 2/1.0.0": {
+        "runtime": {
+          "Simple Text Editor 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Simple Text Editor 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
