@@ -1,0 +1,13 @@
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Parking Lot\bin\Debug\netcoreapp3.1\Parking Lot.exe
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Parking Lot\bin\Debug\netcoreapp3.1\Parking Lot.deps.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Parking Lot\bin\Debug\netcoreapp3.1\Parking Lot.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Parking Lot\bin\Debug\netcoreapp3.1\Parking Lot.runtimeconfig.dev.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Parking Lot\bin\Debug\netcoreapp3.1\Parking Lot.dll
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Parking Lot\bin\Debug\netcoreapp3.1\Parking Lot.pdb
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Parking Lot\obj\Debug\netcoreapp3.1\Parking Lot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Parking Lot\obj\Debug\netcoreapp3.1\Parking Lot.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Parking Lot\obj\Debug\netcoreapp3.1\Parking Lot.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Parking Lot\obj\Debug\netcoreapp3.1\Parking Lot.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Parking Lot\obj\Debug\netcoreapp3.1\Parking Lot.dll
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Parking Lot\obj\Debug\netcoreapp3.1\Parking Lot.pdb
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Parking Lot\obj\Debug\netcoreapp3.1\Parking Lot.genruntimeconfig.cache
