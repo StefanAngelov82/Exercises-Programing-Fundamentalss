@@ -1,0 +1,13 @@
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Record Unique Names\bin\Debug\netcoreapp3.1\Record Unique Names.exe
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Record Unique Names\bin\Debug\netcoreapp3.1\Record Unique Names.deps.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Record Unique Names\bin\Debug\netcoreapp3.1\Record Unique Names.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Record Unique Names\bin\Debug\netcoreapp3.1\Record Unique Names.runtimeconfig.dev.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Record Unique Names\bin\Debug\netcoreapp3.1\Record Unique Names.dll
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Record Unique Names\bin\Debug\netcoreapp3.1\Record Unique Names.pdb
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Record Unique Names\obj\Debug\netcoreapp3.1\Record Unique Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Record Unique Names\obj\Debug\netcoreapp3.1\Record Unique Names.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Record Unique Names\obj\Debug\netcoreapp3.1\Record Unique Names.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Record Unique Names\obj\Debug\netcoreapp3.1\Record Unique Names.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Record Unique Names\obj\Debug\netcoreapp3.1\Record Unique Names.dll
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Record Unique Names\obj\Debug\netcoreapp3.1\Record Unique Names.pdb
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Record Unique Names\obj\Debug\netcoreapp3.1\Record Unique Names.genruntimeconfig.cache
