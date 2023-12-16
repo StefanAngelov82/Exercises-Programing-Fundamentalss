@@ -1,0 +1,13 @@
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\SoftUni Party\bin\Debug\netcoreapp3.1\SoftUni Party.exe
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\SoftUni Party\bin\Debug\netcoreapp3.1\SoftUni Party.deps.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\SoftUni Party\bin\Debug\netcoreapp3.1\SoftUni Party.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\SoftUni Party\bin\Debug\netcoreapp3.1\SoftUni Party.runtimeconfig.dev.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\SoftUni Party\bin\Debug\netcoreapp3.1\SoftUni Party.dll
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\SoftUni Party\bin\Debug\netcoreapp3.1\SoftUni Party.pdb
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\SoftUni Party\obj\Debug\netcoreapp3.1\SoftUni Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\SoftUni Party\obj\Debug\netcoreapp3.1\SoftUni Party.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\SoftUni Party\obj\Debug\netcoreapp3.1\SoftUni Party.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\SoftUni Party\obj\Debug\netcoreapp3.1\SoftUni Party.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\SoftUni Party\obj\Debug\netcoreapp3.1\SoftUni Party.dll
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\SoftUni Party\obj\Debug\netcoreapp3.1\SoftUni Party.pdb
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\SoftUni Party\obj\Debug\netcoreapp3.1\SoftUni Party.genruntimeconfig.cache
