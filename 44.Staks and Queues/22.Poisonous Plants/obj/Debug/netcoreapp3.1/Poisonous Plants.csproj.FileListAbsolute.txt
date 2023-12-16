@@ -1,0 +1,13 @@
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Poisonous Plants\bin\Debug\netcoreapp3.1\Poisonous Plants.exe
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Poisonous Plants\bin\Debug\netcoreapp3.1\Poisonous Plants.deps.json
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Poisonous Plants\bin\Debug\netcoreapp3.1\Poisonous Plants.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Poisonous Plants\bin\Debug\netcoreapp3.1\Poisonous Plants.runtimeconfig.dev.json
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Poisonous Plants\bin\Debug\netcoreapp3.1\Poisonous Plants.dll
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Poisonous Plants\bin\Debug\netcoreapp3.1\Poisonous Plants.pdb
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Poisonous Plants\obj\Debug\netcoreapp3.1\Poisonous Plants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Poisonous Plants\obj\Debug\netcoreapp3.1\Poisonous Plants.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Poisonous Plants\obj\Debug\netcoreapp3.1\Poisonous Plants.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Poisonous Plants\obj\Debug\netcoreapp3.1\Poisonous Plants.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Poisonous Plants\obj\Debug\netcoreapp3.1\Poisonous Plants.dll
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Poisonous Plants\obj\Debug\netcoreapp3.1\Poisonous Plants.pdb
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Poisonous Plants\obj\Debug\netcoreapp3.1\Poisonous Plants.genruntimeconfig.cache
