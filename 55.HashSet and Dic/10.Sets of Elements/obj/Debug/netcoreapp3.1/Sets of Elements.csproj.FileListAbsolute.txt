@@ -1,0 +1,13 @@
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Sets of Elements\bin\Debug\netcoreapp3.1\Sets of Elements.exe
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Sets of Elements\bin\Debug\netcoreapp3.1\Sets of Elements.deps.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Sets of Elements\bin\Debug\netcoreapp3.1\Sets of Elements.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Sets of Elements\bin\Debug\netcoreapp3.1\Sets of Elements.runtimeconfig.dev.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Sets of Elements\bin\Debug\netcoreapp3.1\Sets of Elements.dll
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Sets of Elements\bin\Debug\netcoreapp3.1\Sets of Elements.pdb
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Sets of Elements\obj\Debug\netcoreapp3.1\Sets of Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Sets of Elements\obj\Debug\netcoreapp3.1\Sets of Elements.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Sets of Elements\obj\Debug\netcoreapp3.1\Sets of Elements.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Sets of Elements\obj\Debug\netcoreapp3.1\Sets of Elements.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Sets of Elements\obj\Debug\netcoreapp3.1\Sets of Elements.dll
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Sets of Elements\obj\Debug\netcoreapp3.1\Sets of Elements.pdb
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Sets of Elements\obj\Debug\netcoreapp3.1\Sets of Elements.genruntimeconfig.cache
