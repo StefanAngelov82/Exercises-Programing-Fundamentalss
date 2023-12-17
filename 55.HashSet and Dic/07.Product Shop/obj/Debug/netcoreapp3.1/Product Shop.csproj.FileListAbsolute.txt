@@ -1,0 +1,13 @@
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Product Shop\bin\Debug\netcoreapp3.1\Product Shop.exe
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Product Shop\bin\Debug\netcoreapp3.1\Product Shop.deps.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Product Shop\bin\Debug\netcoreapp3.1\Product Shop.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Product Shop\bin\Debug\netcoreapp3.1\Product Shop.runtimeconfig.dev.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Product Shop\bin\Debug\netcoreapp3.1\Product Shop.dll
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Product Shop\bin\Debug\netcoreapp3.1\Product Shop.pdb
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Product Shop\obj\Debug\netcoreapp3.1\Product Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Product Shop\obj\Debug\netcoreapp3.1\Product Shop.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Product Shop\obj\Debug\netcoreapp3.1\Product Shop.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Product Shop\obj\Debug\netcoreapp3.1\Product Shop.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Product Shop\obj\Debug\netcoreapp3.1\Product Shop.dll
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Product Shop\obj\Debug\netcoreapp3.1\Product Shop.pdb
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Product Shop\obj\Debug\netcoreapp3.1\Product Shop.genruntimeconfig.cache
