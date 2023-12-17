@@ -1,0 +1,13 @@
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Unique Usernames\bin\Debug\netcoreapp3.1\Unique Usernames.exe
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Unique Usernames\bin\Debug\netcoreapp3.1\Unique Usernames.deps.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Unique Usernames\bin\Debug\netcoreapp3.1\Unique Usernames.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Unique Usernames\bin\Debug\netcoreapp3.1\Unique Usernames.runtimeconfig.dev.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Unique Usernames\bin\Debug\netcoreapp3.1\Unique Usernames.dll
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Unique Usernames\bin\Debug\netcoreapp3.1\Unique Usernames.pdb
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Unique Usernames\obj\Debug\netcoreapp3.1\Unique Usernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Unique Usernames\obj\Debug\netcoreapp3.1\Unique Usernames.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Unique Usernames\obj\Debug\netcoreapp3.1\Unique Usernames.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Unique Usernames\obj\Debug\netcoreapp3.1\Unique Usernames.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Unique Usernames\obj\Debug\netcoreapp3.1\Unique Usernames.dll
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Unique Usernames\obj\Debug\netcoreapp3.1\Unique Usernames.pdb
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Unique Usernames\obj\Debug\netcoreapp3.1\Unique Usernames.genruntimeconfig.cache
