@@ -1,0 +1,13 @@
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Cities by Continent and Country\bin\Debug\netcoreapp3.1\Cities by Continent and Country.exe
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Cities by Continent and Country\bin\Debug\netcoreapp3.1\Cities by Continent and Country.deps.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Cities by Continent and Country\bin\Debug\netcoreapp3.1\Cities by Continent and Country.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Cities by Continent and Country\bin\Debug\netcoreapp3.1\Cities by Continent and Country.runtimeconfig.dev.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Cities by Continent and Country\bin\Debug\netcoreapp3.1\Cities by Continent and Country.dll
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Cities by Continent and Country\bin\Debug\netcoreapp3.1\Cities by Continent and Country.pdb
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Cities by Continent and Country\obj\Debug\netcoreapp3.1\Cities by Continent and Country.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Cities by Continent and Country\obj\Debug\netcoreapp3.1\Cities by Continent and Country.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Cities by Continent and Country\obj\Debug\netcoreapp3.1\Cities by Continent and Country.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Cities by Continent and Country\obj\Debug\netcoreapp3.1\Cities by Continent and Country.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Cities by Continent and Country\obj\Debug\netcoreapp3.1\Cities by Continent and Country.dll
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Cities by Continent and Country\obj\Debug\netcoreapp3.1\Cities by Continent and Country.pdb
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Cities by Continent and Country\obj\Debug\netcoreapp3.1\Cities by Continent and Country.genruntimeconfig.cache
