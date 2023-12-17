@@ -1,0 +1,13 @@
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Average Student Grades\bin\Debug\netcoreapp3.1\Average Student Grades.exe
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Average Student Grades\bin\Debug\netcoreapp3.1\Average Student Grades.deps.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Average Student Grades\bin\Debug\netcoreapp3.1\Average Student Grades.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Average Student Grades\bin\Debug\netcoreapp3.1\Average Student Grades.runtimeconfig.dev.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Average Student Grades\bin\Debug\netcoreapp3.1\Average Student Grades.dll
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Average Student Grades\bin\Debug\netcoreapp3.1\Average Student Grades.pdb
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Average Student Grades\obj\Debug\netcoreapp3.1\Average Student Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Average Student Grades\obj\Debug\netcoreapp3.1\Average Student Grades.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Average Student Grades\obj\Debug\netcoreapp3.1\Average Student Grades.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Average Student Grades\obj\Debug\netcoreapp3.1\Average Student Grades.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Average Student Grades\obj\Debug\netcoreapp3.1\Average Student Grades.dll
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Average Student Grades\obj\Debug\netcoreapp3.1\Average Student Grades.pdb
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Average Student Grades\obj\Debug\netcoreapp3.1\Average Student Grades.genruntimeconfig.cache
