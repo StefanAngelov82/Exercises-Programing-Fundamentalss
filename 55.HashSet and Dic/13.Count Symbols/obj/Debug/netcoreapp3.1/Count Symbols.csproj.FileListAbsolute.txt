@@ -1,0 +1,13 @@
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Count Symbols\bin\Debug\netcoreapp3.1\Count Symbols.exe
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Count Symbols\bin\Debug\netcoreapp3.1\Count Symbols.deps.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Count Symbols\bin\Debug\netcoreapp3.1\Count Symbols.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Count Symbols\bin\Debug\netcoreapp3.1\Count Symbols.runtimeconfig.dev.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Count Symbols\bin\Debug\netcoreapp3.1\Count Symbols.dll
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Count Symbols\bin\Debug\netcoreapp3.1\Count Symbols.pdb
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Count Symbols\obj\Debug\netcoreapp3.1\Count Symbols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Count Symbols\obj\Debug\netcoreapp3.1\Count Symbols.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Count Symbols\obj\Debug\netcoreapp3.1\Count Symbols.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Count Symbols\obj\Debug\netcoreapp3.1\Count Symbols.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Count Symbols\obj\Debug\netcoreapp3.1\Count Symbols.dll
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Count Symbols\obj\Debug\netcoreapp3.1\Count Symbols.pdb
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Count Symbols\obj\Debug\netcoreapp3.1\Count Symbols.genruntimeconfig.cache
