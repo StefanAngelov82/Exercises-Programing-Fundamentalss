@@ -1,0 +1,13 @@
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Even Times\bin\Debug\netcoreapp3.1\Even Times.exe
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Even Times\bin\Debug\netcoreapp3.1\Even Times.deps.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Even Times\bin\Debug\netcoreapp3.1\Even Times.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Even Times\bin\Debug\netcoreapp3.1\Even Times.runtimeconfig.dev.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Even Times\bin\Debug\netcoreapp3.1\Even Times.dll
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Even Times\bin\Debug\netcoreapp3.1\Even Times.pdb
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Even Times\obj\Debug\netcoreapp3.1\Even Times.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Even Times\obj\Debug\netcoreapp3.1\Even Times.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Even Times\obj\Debug\netcoreapp3.1\Even Times.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Even Times\obj\Debug\netcoreapp3.1\Even Times.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Even Times\obj\Debug\netcoreapp3.1\Even Times.dll
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Even Times\obj\Debug\netcoreapp3.1\Even Times.pdb
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Even Times\obj\Debug\netcoreapp3.1\Even Times.genruntimeconfig.cache
