@@ -1,0 +1,13 @@
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\The V-Logger\bin\Debug\netcoreapp3.1\The V-Logger.exe
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\The V-Logger\bin\Debug\netcoreapp3.1\The V-Logger.deps.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\The V-Logger\bin\Debug\netcoreapp3.1\The V-Logger.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\The V-Logger\bin\Debug\netcoreapp3.1\The V-Logger.runtimeconfig.dev.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\The V-Logger\bin\Debug\netcoreapp3.1\The V-Logger.dll
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\The V-Logger\bin\Debug\netcoreapp3.1\The V-Logger.pdb
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\The V-Logger\obj\Debug\netcoreapp3.1\The V-Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\The V-Logger\obj\Debug\netcoreapp3.1\The V-Logger.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\The V-Logger\obj\Debug\netcoreapp3.1\The V-Logger.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\The V-Logger\obj\Debug\netcoreapp3.1\The V-Logger.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\The V-Logger\obj\Debug\netcoreapp3.1\The V-Logger.dll
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\The V-Logger\obj\Debug\netcoreapp3.1\The V-Logger.pdb
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\The V-Logger\obj\Debug\netcoreapp3.1\The V-Logger.genruntimeconfig.cache
