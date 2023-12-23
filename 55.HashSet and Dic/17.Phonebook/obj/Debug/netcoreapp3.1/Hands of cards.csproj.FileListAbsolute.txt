@@ -1,0 +1,13 @@
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Phonebook\bin\Debug\netcoreapp3.1\Hands of cards.exe
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Phonebook\bin\Debug\netcoreapp3.1\Hands of cards.deps.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Phonebook\bin\Debug\netcoreapp3.1\Hands of cards.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Phonebook\bin\Debug\netcoreapp3.1\Hands of cards.runtimeconfig.dev.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Phonebook\bin\Debug\netcoreapp3.1\Hands of cards.dll
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Phonebook\bin\Debug\netcoreapp3.1\Hands of cards.pdb
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Phonebook\obj\Debug\netcoreapp3.1\Hands of cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Phonebook\obj\Debug\netcoreapp3.1\Hands of cards.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Phonebook\obj\Debug\netcoreapp3.1\Hands of cards.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Phonebook\obj\Debug\netcoreapp3.1\Hands of cards.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Phonebook\obj\Debug\netcoreapp3.1\Hands of cards.dll
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Phonebook\obj\Debug\netcoreapp3.1\Hands of cards.pdb
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Phonebook\obj\Debug\netcoreapp3.1\Hands of cards.genruntimeconfig.cache
