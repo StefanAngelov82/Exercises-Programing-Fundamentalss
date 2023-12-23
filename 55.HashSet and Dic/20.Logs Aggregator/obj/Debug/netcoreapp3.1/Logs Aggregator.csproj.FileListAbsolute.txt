@@ -1,0 +1,13 @@
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Logs Aggregator\bin\Debug\netcoreapp3.1\Logs Aggregator.exe
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Logs Aggregator\bin\Debug\netcoreapp3.1\Logs Aggregator.deps.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Logs Aggregator\bin\Debug\netcoreapp3.1\Logs Aggregator.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Logs Aggregator\bin\Debug\netcoreapp3.1\Logs Aggregator.runtimeconfig.dev.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Logs Aggregator\bin\Debug\netcoreapp3.1\Logs Aggregator.dll
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Logs Aggregator\bin\Debug\netcoreapp3.1\Logs Aggregator.pdb
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Logs Aggregator\obj\Debug\netcoreapp3.1\Logs Aggregator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Logs Aggregator\obj\Debug\netcoreapp3.1\Logs Aggregator.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Logs Aggregator\obj\Debug\netcoreapp3.1\Logs Aggregator.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Logs Aggregator\obj\Debug\netcoreapp3.1\Logs Aggregator.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Logs Aggregator\obj\Debug\netcoreapp3.1\Logs Aggregator.dll
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Logs Aggregator\obj\Debug\netcoreapp3.1\Logs Aggregator.pdb
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Logs Aggregator\obj\Debug\netcoreapp3.1\Logs Aggregator.genruntimeconfig.cache

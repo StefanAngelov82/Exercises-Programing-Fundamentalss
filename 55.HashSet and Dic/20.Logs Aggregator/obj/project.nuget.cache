@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "GakcjPmUzFGBtvCp3nfY1S1JGqF4Tp7Seb6evLsYN/XrgwG9fIu4DekDNanWBuaRkGFVnVtA1PSFlJEp0Vx6KQ==",
+  "success": true,
+  "projectFilePath": "C:\\Games\\SoftUni\\02.Checks\\Sets, Hash table, Dict\\Logs Aggregator\\Logs Aggregator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASHMODEAN\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ASHMODEAN\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\ASHMODEAN\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\ASHMODEAN\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
