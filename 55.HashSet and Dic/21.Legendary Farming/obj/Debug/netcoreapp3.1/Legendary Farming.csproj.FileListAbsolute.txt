@@ -1,0 +1,13 @@
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Legendary Farming\bin\Debug\netcoreapp3.1\Legendary Farming.exe
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Legendary Farming\bin\Debug\netcoreapp3.1\Legendary Farming.deps.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Legendary Farming\bin\Debug\netcoreapp3.1\Legendary Farming.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Legendary Farming\bin\Debug\netcoreapp3.1\Legendary Farming.runtimeconfig.dev.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Legendary Farming\bin\Debug\netcoreapp3.1\Legendary Farming.dll
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Legendary Farming\bin\Debug\netcoreapp3.1\Legendary Farming.pdb
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Legendary Farming\obj\Debug\netcoreapp3.1\Legendary Farming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Legendary Farming\obj\Debug\netcoreapp3.1\Legendary Farming.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Legendary Farming\obj\Debug\netcoreapp3.1\Legendary Farming.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Legendary Farming\obj\Debug\netcoreapp3.1\Legendary Farming.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Legendary Farming\obj\Debug\netcoreapp3.1\Legendary Farming.dll
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Legendary Farming\obj\Debug\netcoreapp3.1\Legendary Farming.pdb
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Legendary Farming\obj\Debug\netcoreapp3.1\Legendary Farming.genruntimeconfig.cache
