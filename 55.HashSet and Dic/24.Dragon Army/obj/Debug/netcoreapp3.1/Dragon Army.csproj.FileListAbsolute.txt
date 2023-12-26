@@ -1,0 +1,13 @@
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Dragon Army\bin\Debug\netcoreapp3.1\Dragon Army.exe
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Dragon Army\bin\Debug\netcoreapp3.1\Dragon Army.deps.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Dragon Army\bin\Debug\netcoreapp3.1\Dragon Army.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Dragon Army\bin\Debug\netcoreapp3.1\Dragon Army.runtimeconfig.dev.json
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Dragon Army\bin\Debug\netcoreapp3.1\Dragon Army.dll
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Dragon Army\bin\Debug\netcoreapp3.1\Dragon Army.pdb
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Dragon Army\obj\Debug\netcoreapp3.1\Dragon Army.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Dragon Army\obj\Debug\netcoreapp3.1\Dragon Army.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Dragon Army\obj\Debug\netcoreapp3.1\Dragon Army.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Dragon Army\obj\Debug\netcoreapp3.1\Dragon Army.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Dragon Army\obj\Debug\netcoreapp3.1\Dragon Army.dll
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Dragon Army\obj\Debug\netcoreapp3.1\Dragon Army.pdb
+C:\Games\SoftUni\02.Checks\Sets, Hash table, Dict\Dragon Army\obj\Debug\netcoreapp3.1\Dragon Army.genruntimeconfig.cache
