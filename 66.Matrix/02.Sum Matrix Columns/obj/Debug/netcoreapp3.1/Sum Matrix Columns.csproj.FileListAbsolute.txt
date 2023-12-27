@@ -1,0 +1,13 @@
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Sum Matrix Columns\bin\Debug\netcoreapp3.1\Sum Matrix Columns.exe
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Sum Matrix Columns\bin\Debug\netcoreapp3.1\Sum Matrix Columns.deps.json
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Sum Matrix Columns\bin\Debug\netcoreapp3.1\Sum Matrix Columns.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Sum Matrix Columns\bin\Debug\netcoreapp3.1\Sum Matrix Columns.runtimeconfig.dev.json
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Sum Matrix Columns\bin\Debug\netcoreapp3.1\Sum Matrix Columns.dll
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Sum Matrix Columns\bin\Debug\netcoreapp3.1\Sum Matrix Columns.pdb
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Sum Matrix Columns\obj\Debug\netcoreapp3.1\Sum Matrix Columns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Sum Matrix Columns\obj\Debug\netcoreapp3.1\Sum Matrix Columns.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Sum Matrix Columns\obj\Debug\netcoreapp3.1\Sum Matrix Columns.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Sum Matrix Columns\obj\Debug\netcoreapp3.1\Sum Matrix Columns.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Sum Matrix Columns\obj\Debug\netcoreapp3.1\Sum Matrix Columns.dll
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Sum Matrix Columns\obj\Debug\netcoreapp3.1\Sum Matrix Columns.pdb
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Sum Matrix Columns\obj\Debug\netcoreapp3.1\Sum Matrix Columns.genruntimeconfig.cache
