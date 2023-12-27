@@ -1,0 +1,13 @@
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Symbol in Matrix\bin\Debug\netcoreapp3.1\Symbol in Matrix.exe
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Symbol in Matrix\bin\Debug\netcoreapp3.1\Symbol in Matrix.deps.json
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Symbol in Matrix\bin\Debug\netcoreapp3.1\Symbol in Matrix.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Symbol in Matrix\bin\Debug\netcoreapp3.1\Symbol in Matrix.runtimeconfig.dev.json
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Symbol in Matrix\bin\Debug\netcoreapp3.1\Symbol in Matrix.dll
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Symbol in Matrix\bin\Debug\netcoreapp3.1\Symbol in Matrix.pdb
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Symbol in Matrix\obj\Debug\netcoreapp3.1\Symbol in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Symbol in Matrix\obj\Debug\netcoreapp3.1\Symbol in Matrix.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Symbol in Matrix\obj\Debug\netcoreapp3.1\Symbol in Matrix.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Symbol in Matrix\obj\Debug\netcoreapp3.1\Symbol in Matrix.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Symbol in Matrix\obj\Debug\netcoreapp3.1\Symbol in Matrix.dll
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Symbol in Matrix\obj\Debug\netcoreapp3.1\Symbol in Matrix.pdb
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Symbol in Matrix\obj\Debug\netcoreapp3.1\Symbol in Matrix.genruntimeconfig.cache
