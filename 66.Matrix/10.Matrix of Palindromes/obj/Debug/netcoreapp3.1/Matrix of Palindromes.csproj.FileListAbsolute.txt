@@ -1,0 +1,13 @@
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Matrix of Palindromes\bin\Debug\netcoreapp3.1\Matrix of Palindromes.exe
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Matrix of Palindromes\bin\Debug\netcoreapp3.1\Matrix of Palindromes.deps.json
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Matrix of Palindromes\bin\Debug\netcoreapp3.1\Matrix of Palindromes.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Matrix of Palindromes\bin\Debug\netcoreapp3.1\Matrix of Palindromes.runtimeconfig.dev.json
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Matrix of Palindromes\bin\Debug\netcoreapp3.1\Matrix of Palindromes.dll
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Matrix of Palindromes\bin\Debug\netcoreapp3.1\Matrix of Palindromes.pdb
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Matrix of Palindromes\obj\Debug\netcoreapp3.1\Matrix of Palindromes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Matrix of Palindromes\obj\Debug\netcoreapp3.1\Matrix of Palindromes.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Matrix of Palindromes\obj\Debug\netcoreapp3.1\Matrix of Palindromes.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Matrix of Palindromes\obj\Debug\netcoreapp3.1\Matrix of Palindromes.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Matrix of Palindromes\obj\Debug\netcoreapp3.1\Matrix of Palindromes.dll
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Matrix of Palindromes\obj\Debug\netcoreapp3.1\Matrix of Palindromes.pdb
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Matrix of Palindromes\obj\Debug\netcoreapp3.1\Matrix of Palindromes.genruntimeconfig.cache
