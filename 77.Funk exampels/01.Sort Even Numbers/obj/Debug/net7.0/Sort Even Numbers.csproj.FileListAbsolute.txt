@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\functional programing\Sort Even Numbers\bin\Debug\net7.0\Sort Even Numbers.exe
+C:\Games\SoftUni\02.Checks\functional programing\Sort Even Numbers\bin\Debug\net7.0\Sort Even Numbers.deps.json
+C:\Games\SoftUni\02.Checks\functional programing\Sort Even Numbers\bin\Debug\net7.0\Sort Even Numbers.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\functional programing\Sort Even Numbers\bin\Debug\net7.0\Sort Even Numbers.dll
+C:\Games\SoftUni\02.Checks\functional programing\Sort Even Numbers\bin\Debug\net7.0\Sort Even Numbers.pdb
+C:\Games\SoftUni\02.Checks\functional programing\Sort Even Numbers\obj\Debug\net7.0\Sort Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\functional programing\Sort Even Numbers\obj\Debug\net7.0\Sort Even Numbers.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\functional programing\Sort Even Numbers\obj\Debug\net7.0\Sort Even Numbers.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\functional programing\Sort Even Numbers\obj\Debug\net7.0\Sort Even Numbers.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\functional programing\Sort Even Numbers\obj\Debug\net7.0\Sort Even Numbers.dll
+C:\Games\SoftUni\02.Checks\functional programing\Sort Even Numbers\obj\Debug\net7.0\refint\Sort Even Numbers.dll
+C:\Games\SoftUni\02.Checks\functional programing\Sort Even Numbers\obj\Debug\net7.0\Sort Even Numbers.pdb
+C:\Games\SoftUni\02.Checks\functional programing\Sort Even Numbers\obj\Debug\net7.0\Sort Even Numbers.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\functional programing\Sort Even Numbers\obj\Debug\net7.0\ref\Sort Even Numbers.dll
