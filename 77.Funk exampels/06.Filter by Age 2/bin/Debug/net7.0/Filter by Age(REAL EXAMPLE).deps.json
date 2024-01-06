@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Filter by Age(REAL EXAMPLE)/1.0.0": {
+        "runtime": {
+          "Filter by Age(REAL EXAMPLE).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Filter by Age(REAL EXAMPLE)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

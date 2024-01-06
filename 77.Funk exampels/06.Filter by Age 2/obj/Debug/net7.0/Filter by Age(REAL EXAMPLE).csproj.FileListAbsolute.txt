@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\functional programing\Filter by Age\bin\Debug\net7.0\Filter by Age(REAL EXAMPLE).exe
+C:\Games\SoftUni\02.Checks\functional programing\Filter by Age\bin\Debug\net7.0\Filter by Age(REAL EXAMPLE).deps.json
+C:\Games\SoftUni\02.Checks\functional programing\Filter by Age\bin\Debug\net7.0\Filter by Age(REAL EXAMPLE).runtimeconfig.json
+C:\Games\SoftUni\02.Checks\functional programing\Filter by Age\bin\Debug\net7.0\Filter by Age(REAL EXAMPLE).dll
+C:\Games\SoftUni\02.Checks\functional programing\Filter by Age\bin\Debug\net7.0\Filter by Age(REAL EXAMPLE).pdb
+C:\Games\SoftUni\02.Checks\functional programing\Filter by Age\obj\Debug\net7.0\Filter by Age(REAL EXAMPLE).GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\functional programing\Filter by Age\obj\Debug\net7.0\Filter by Age(REAL EXAMPLE).AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\functional programing\Filter by Age\obj\Debug\net7.0\Filter by Age(REAL EXAMPLE).AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\functional programing\Filter by Age\obj\Debug\net7.0\Filter by Age(REAL EXAMPLE).csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\functional programing\Filter by Age\obj\Debug\net7.0\Filter by Age(REAL EXAMPLE).dll
+C:\Games\SoftUni\02.Checks\functional programing\Filter by Age\obj\Debug\net7.0\refint\Filter by Age(REAL EXAMPLE).dll
+C:\Games\SoftUni\02.Checks\functional programing\Filter by Age\obj\Debug\net7.0\Filter by Age(REAL EXAMPLE).pdb
+C:\Games\SoftUni\02.Checks\functional programing\Filter by Age\obj\Debug\net7.0\Filter by Age(REAL EXAMPLE).genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\functional programing\Filter by Age\obj\Debug\net7.0\ref\Filter by Age(REAL EXAMPLE).dll
