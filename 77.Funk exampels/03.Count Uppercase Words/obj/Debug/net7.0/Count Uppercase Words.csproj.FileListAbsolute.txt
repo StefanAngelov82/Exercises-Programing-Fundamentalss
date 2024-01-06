@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\functional programing\Count Uppercase Words\bin\Debug\net7.0\Count Uppercase Words.exe
+C:\Games\SoftUni\02.Checks\functional programing\Count Uppercase Words\bin\Debug\net7.0\Count Uppercase Words.deps.json
+C:\Games\SoftUni\02.Checks\functional programing\Count Uppercase Words\bin\Debug\net7.0\Count Uppercase Words.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\functional programing\Count Uppercase Words\bin\Debug\net7.0\Count Uppercase Words.dll
+C:\Games\SoftUni\02.Checks\functional programing\Count Uppercase Words\bin\Debug\net7.0\Count Uppercase Words.pdb
+C:\Games\SoftUni\02.Checks\functional programing\Count Uppercase Words\obj\Debug\net7.0\Count Uppercase Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\functional programing\Count Uppercase Words\obj\Debug\net7.0\Count Uppercase Words.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\functional programing\Count Uppercase Words\obj\Debug\net7.0\Count Uppercase Words.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\functional programing\Count Uppercase Words\obj\Debug\net7.0\Count Uppercase Words.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\functional programing\Count Uppercase Words\obj\Debug\net7.0\Count Uppercase Words.dll
+C:\Games\SoftUni\02.Checks\functional programing\Count Uppercase Words\obj\Debug\net7.0\refint\Count Uppercase Words.dll
+C:\Games\SoftUni\02.Checks\functional programing\Count Uppercase Words\obj\Debug\net7.0\Count Uppercase Words.pdb
+C:\Games\SoftUni\02.Checks\functional programing\Count Uppercase Words\obj\Debug\net7.0\Count Uppercase Words.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\functional programing\Count Uppercase Words\obj\Debug\net7.0\ref\Count Uppercase Words.dll
