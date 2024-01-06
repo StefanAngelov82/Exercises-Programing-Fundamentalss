@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\functional programing\Filter by Age\bin\Debug\net7.0\Filter by Age.exe
+C:\Games\SoftUni\02.Checks\functional programing\Filter by Age\bin\Debug\net7.0\Filter by Age.deps.json
+C:\Games\SoftUni\02.Checks\functional programing\Filter by Age\bin\Debug\net7.0\Filter by Age.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\functional programing\Filter by Age\bin\Debug\net7.0\Filter by Age.dll
+C:\Games\SoftUni\02.Checks\functional programing\Filter by Age\bin\Debug\net7.0\Filter by Age.pdb
+C:\Games\SoftUni\02.Checks\functional programing\Filter by Age\obj\Debug\net7.0\Filter by Age.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\functional programing\Filter by Age\obj\Debug\net7.0\Filter by Age.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\functional programing\Filter by Age\obj\Debug\net7.0\Filter by Age.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\functional programing\Filter by Age\obj\Debug\net7.0\Filter by Age.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\functional programing\Filter by Age\obj\Debug\net7.0\Filter by Age.dll
+C:\Games\SoftUni\02.Checks\functional programing\Filter by Age\obj\Debug\net7.0\refint\Filter by Age.dll
+C:\Games\SoftUni\02.Checks\functional programing\Filter by Age\obj\Debug\net7.0\Filter by Age.pdb
+C:\Games\SoftUni\02.Checks\functional programing\Filter by Age\obj\Debug\net7.0\Filter by Age.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\functional programing\Filter by Age\obj\Debug\net7.0\ref\Filter by Age.dll
