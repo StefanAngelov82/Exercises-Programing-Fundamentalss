@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\functional programing\Custom Min Function\bin\Debug\net7.0\Custom Min Function.exe
+C:\Games\SoftUni\02.Checks\functional programing\Custom Min Function\bin\Debug\net7.0\Custom Min Function.deps.json
+C:\Games\SoftUni\02.Checks\functional programing\Custom Min Function\bin\Debug\net7.0\Custom Min Function.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\functional programing\Custom Min Function\bin\Debug\net7.0\Custom Min Function.dll
+C:\Games\SoftUni\02.Checks\functional programing\Custom Min Function\bin\Debug\net7.0\Custom Min Function.pdb
+C:\Games\SoftUni\02.Checks\functional programing\Custom Min Function\obj\Debug\net7.0\Custom Min Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\functional programing\Custom Min Function\obj\Debug\net7.0\Custom Min Function.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\functional programing\Custom Min Function\obj\Debug\net7.0\Custom Min Function.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\functional programing\Custom Min Function\obj\Debug\net7.0\Custom Min Function.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\functional programing\Custom Min Function\obj\Debug\net7.0\Custom Min Function.dll
+C:\Games\SoftUni\02.Checks\functional programing\Custom Min Function\obj\Debug\net7.0\refint\Custom Min Function.dll
+C:\Games\SoftUni\02.Checks\functional programing\Custom Min Function\obj\Debug\net7.0\Custom Min Function.pdb
+C:\Games\SoftUni\02.Checks\functional programing\Custom Min Function\obj\Debug\net7.0\Custom Min Function.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\functional programing\Custom Min Function\obj\Debug\net7.0\ref\Custom Min Function.dll
