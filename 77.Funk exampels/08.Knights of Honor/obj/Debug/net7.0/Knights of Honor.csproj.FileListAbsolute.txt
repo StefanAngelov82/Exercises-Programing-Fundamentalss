@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\functional programing\Knights of Honor\bin\Debug\net7.0\Knights of Honor.exe
+C:\Games\SoftUni\02.Checks\functional programing\Knights of Honor\bin\Debug\net7.0\Knights of Honor.deps.json
+C:\Games\SoftUni\02.Checks\functional programing\Knights of Honor\bin\Debug\net7.0\Knights of Honor.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\functional programing\Knights of Honor\bin\Debug\net7.0\Knights of Honor.dll
+C:\Games\SoftUni\02.Checks\functional programing\Knights of Honor\bin\Debug\net7.0\Knights of Honor.pdb
+C:\Games\SoftUni\02.Checks\functional programing\Knights of Honor\obj\Debug\net7.0\Knights of Honor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\functional programing\Knights of Honor\obj\Debug\net7.0\Knights of Honor.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\functional programing\Knights of Honor\obj\Debug\net7.0\Knights of Honor.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\functional programing\Knights of Honor\obj\Debug\net7.0\Knights of Honor.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\functional programing\Knights of Honor\obj\Debug\net7.0\Knights of Honor.dll
+C:\Games\SoftUni\02.Checks\functional programing\Knights of Honor\obj\Debug\net7.0\refint\Knights of Honor.dll
+C:\Games\SoftUni\02.Checks\functional programing\Knights of Honor\obj\Debug\net7.0\Knights of Honor.pdb
+C:\Games\SoftUni\02.Checks\functional programing\Knights of Honor\obj\Debug\net7.0\Knights of Honor.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\functional programing\Knights of Honor\obj\Debug\net7.0\ref\Knights of Honor.dll
