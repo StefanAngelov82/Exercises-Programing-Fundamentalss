@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\functional programing\Find Evens or Odds\bin\Debug\net7.0\Find Evens or Odds.exe
+C:\Games\SoftUni\02.Checks\functional programing\Find Evens or Odds\bin\Debug\net7.0\Find Evens or Odds.deps.json
+C:\Games\SoftUni\02.Checks\functional programing\Find Evens or Odds\bin\Debug\net7.0\Find Evens or Odds.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\functional programing\Find Evens or Odds\bin\Debug\net7.0\Find Evens or Odds.dll
+C:\Games\SoftUni\02.Checks\functional programing\Find Evens or Odds\bin\Debug\net7.0\Find Evens or Odds.pdb
+C:\Games\SoftUni\02.Checks\functional programing\Find Evens or Odds\obj\Debug\net7.0\Find Evens or Odds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\functional programing\Find Evens or Odds\obj\Debug\net7.0\Find Evens or Odds.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\functional programing\Find Evens or Odds\obj\Debug\net7.0\Find Evens or Odds.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\functional programing\Find Evens or Odds\obj\Debug\net7.0\Find Evens or Odds.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\functional programing\Find Evens or Odds\obj\Debug\net7.0\Find Evens or Odds.dll
+C:\Games\SoftUni\02.Checks\functional programing\Find Evens or Odds\obj\Debug\net7.0\refint\Find Evens or Odds.dll
+C:\Games\SoftUni\02.Checks\functional programing\Find Evens or Odds\obj\Debug\net7.0\Find Evens or Odds.pdb
+C:\Games\SoftUni\02.Checks\functional programing\Find Evens or Odds\obj\Debug\net7.0\Find Evens or Odds.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\functional programing\Find Evens or Odds\obj\Debug\net7.0\ref\Find Evens or Odds.dll
