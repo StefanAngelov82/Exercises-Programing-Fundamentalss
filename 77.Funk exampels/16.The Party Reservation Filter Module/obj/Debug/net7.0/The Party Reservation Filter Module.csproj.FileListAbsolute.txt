@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\functional programing\The Party Reservation Filter Module\bin\Debug\net7.0\The Party Reservation Filter Module.exe
+C:\Games\SoftUni\02.Checks\functional programing\The Party Reservation Filter Module\bin\Debug\net7.0\The Party Reservation Filter Module.deps.json
+C:\Games\SoftUni\02.Checks\functional programing\The Party Reservation Filter Module\bin\Debug\net7.0\The Party Reservation Filter Module.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\functional programing\The Party Reservation Filter Module\bin\Debug\net7.0\The Party Reservation Filter Module.dll
+C:\Games\SoftUni\02.Checks\functional programing\The Party Reservation Filter Module\bin\Debug\net7.0\The Party Reservation Filter Module.pdb
+C:\Games\SoftUni\02.Checks\functional programing\The Party Reservation Filter Module\obj\Debug\net7.0\The Party Reservation Filter Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\functional programing\The Party Reservation Filter Module\obj\Debug\net7.0\The Party Reservation Filter Module.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\functional programing\The Party Reservation Filter Module\obj\Debug\net7.0\The Party Reservation Filter Module.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\functional programing\The Party Reservation Filter Module\obj\Debug\net7.0\The Party Reservation Filter Module.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\functional programing\The Party Reservation Filter Module\obj\Debug\net7.0\The Party Reservation Filter Module.dll
+C:\Games\SoftUni\02.Checks\functional programing\The Party Reservation Filter Module\obj\Debug\net7.0\refint\The Party Reservation Filter Module.dll
+C:\Games\SoftUni\02.Checks\functional programing\The Party Reservation Filter Module\obj\Debug\net7.0\The Party Reservation Filter Module.pdb
+C:\Games\SoftUni\02.Checks\functional programing\The Party Reservation Filter Module\obj\Debug\net7.0\The Party Reservation Filter Module.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\functional programing\The Party Reservation Filter Module\obj\Debug\net7.0\ref\The Party Reservation Filter Module.dll
