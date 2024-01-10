@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\functional programing\TriFunction\bin\Debug\net7.0\TriFunction.exe
+C:\Games\SoftUni\02.Checks\functional programing\TriFunction\bin\Debug\net7.0\TriFunction.deps.json
+C:\Games\SoftUni\02.Checks\functional programing\TriFunction\bin\Debug\net7.0\TriFunction.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\functional programing\TriFunction\bin\Debug\net7.0\TriFunction.dll
+C:\Games\SoftUni\02.Checks\functional programing\TriFunction\bin\Debug\net7.0\TriFunction.pdb
+C:\Games\SoftUni\02.Checks\functional programing\TriFunction\obj\Debug\net7.0\TriFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\functional programing\TriFunction\obj\Debug\net7.0\TriFunction.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\functional programing\TriFunction\obj\Debug\net7.0\TriFunction.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\functional programing\TriFunction\obj\Debug\net7.0\TriFunction.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\functional programing\TriFunction\obj\Debug\net7.0\TriFunction.dll
+C:\Games\SoftUni\02.Checks\functional programing\TriFunction\obj\Debug\net7.0\refint\TriFunction.dll
+C:\Games\SoftUni\02.Checks\functional programing\TriFunction\obj\Debug\net7.0\TriFunction.pdb
+C:\Games\SoftUni\02.Checks\functional programing\TriFunction\obj\Debug\net7.0\TriFunction.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\functional programing\TriFunction\obj\Debug\net7.0\ref\TriFunction.dll
