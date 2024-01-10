@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\functional programing\List of Predicates\bin\Debug\net7.0\List of Predicates.exe
+C:\Games\SoftUni\02.Checks\functional programing\List of Predicates\bin\Debug\net7.0\List of Predicates.deps.json
+C:\Games\SoftUni\02.Checks\functional programing\List of Predicates\bin\Debug\net7.0\List of Predicates.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\functional programing\List of Predicates\bin\Debug\net7.0\List of Predicates.dll
+C:\Games\SoftUni\02.Checks\functional programing\List of Predicates\bin\Debug\net7.0\List of Predicates.pdb
+C:\Games\SoftUni\02.Checks\functional programing\List of Predicates\obj\Debug\net7.0\List of Predicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\functional programing\List of Predicates\obj\Debug\net7.0\List of Predicates.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\functional programing\List of Predicates\obj\Debug\net7.0\List of Predicates.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\functional programing\List of Predicates\obj\Debug\net7.0\List of Predicates.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\functional programing\List of Predicates\obj\Debug\net7.0\List of Predicates.dll
+C:\Games\SoftUni\02.Checks\functional programing\List of Predicates\obj\Debug\net7.0\refint\List of Predicates.dll
+C:\Games\SoftUni\02.Checks\functional programing\List of Predicates\obj\Debug\net7.0\List of Predicates.pdb
+C:\Games\SoftUni\02.Checks\functional programing\List of Predicates\obj\Debug\net7.0\List of Predicates.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\functional programing\List of Predicates\obj\Debug\net7.0\ref\List of Predicates.dll
