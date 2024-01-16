@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\bejectsandClasses\SoftUni Parking\bin\Debug\net6.0\SoftUniParking.exe
+C:\Games\SoftUni\02.Checks\bejectsandClasses\SoftUni Parking\bin\Debug\net6.0\SoftUniParking.deps.json
+C:\Games\SoftUni\02.Checks\bejectsandClasses\SoftUni Parking\bin\Debug\net6.0\SoftUniParking.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\bejectsandClasses\SoftUni Parking\bin\Debug\net6.0\SoftUniParking.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\SoftUni Parking\bin\Debug\net6.0\SoftUniParking.pdb
+C:\Games\SoftUni\02.Checks\bejectsandClasses\SoftUni Parking\obj\Debug\net6.0\SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\bejectsandClasses\SoftUni Parking\obj\Debug\net6.0\SoftUniParking.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\SoftUni Parking\obj\Debug\net6.0\SoftUniParking.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\bejectsandClasses\SoftUni Parking\obj\Debug\net6.0\SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\SoftUni Parking\obj\Debug\net6.0\SoftUniParking.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\SoftUni Parking\obj\Debug\net6.0\refint\SoftUniParking.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\SoftUni Parking\obj\Debug\net6.0\SoftUniParking.pdb
+C:\Games\SoftUni\02.Checks\bejectsandClasses\SoftUni Parking\obj\Debug\net6.0\SoftUniParking.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\SoftUni Parking\obj\Debug\net6.0\ref\SoftUniParking.dll
