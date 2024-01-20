@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\ArrayT\bin\Debug\net6.0\ArrayT.exe
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\ArrayT\bin\Debug\net6.0\ArrayT.deps.json
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\ArrayT\bin\Debug\net6.0\ArrayT.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\ArrayT\bin\Debug\net6.0\ArrayT.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\ArrayT\bin\Debug\net6.0\ArrayT.pdb
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\ArrayT\obj\Debug\net6.0\ArrayT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\ArrayT\obj\Debug\net6.0\ArrayT.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\ArrayT\obj\Debug\net6.0\ArrayT.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\ArrayT\obj\Debug\net6.0\ArrayT.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\ArrayT\obj\Debug\net6.0\ArrayT.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\ArrayT\obj\Debug\net6.0\refint\ArrayT.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\ArrayT\obj\Debug\net6.0\ArrayT.pdb
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\ArrayT\obj\Debug\net6.0\ArrayT.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\ArrayT\obj\Debug\net6.0\ref\ArrayT.dll
