@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\GenericArrayCreator\obj\Debug\net6.0\GenericArrayCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\GenericArrayCreator\obj\Debug\net6.0\GenericArrayCreator.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\GenericArrayCreator\obj\Debug\net6.0\GenericArrayCreator.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\GenericArrayCreator\obj\Debug\net6.0\GenericArrayCreator.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\GenericArrayCreator\bin\Debug\net6.0\GenericArrayCreator.exe
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\GenericArrayCreator\bin\Debug\net6.0\GenericArrayCreator.deps.json
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\GenericArrayCreator\bin\Debug\net6.0\GenericArrayCreator.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\GenericArrayCreator\bin\Debug\net6.0\GenericArrayCreator.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\GenericArrayCreator\bin\Debug\net6.0\GenericArrayCreator.pdb
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\GenericArrayCreator\obj\Debug\net6.0\GenericArrayCreator.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\GenericArrayCreator\obj\Debug\net6.0\refint\GenericArrayCreator.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\GenericArrayCreator\obj\Debug\net6.0\GenericArrayCreator.pdb
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\GenericArrayCreator\obj\Debug\net6.0\GenericArrayCreator.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\GenericArrayCreator\obj\Debug\net6.0\ref\GenericArrayCreator.dll
