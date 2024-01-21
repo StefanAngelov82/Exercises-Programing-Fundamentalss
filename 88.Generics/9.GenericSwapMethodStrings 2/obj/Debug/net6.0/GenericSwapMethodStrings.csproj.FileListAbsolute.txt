@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\GenericSwapMethodStrings\bin\Debug\net6.0\GenericSwapMethodStrings.exe
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\GenericSwapMethodStrings\bin\Debug\net6.0\GenericSwapMethodStrings.deps.json
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\GenericSwapMethodStrings\bin\Debug\net6.0\GenericSwapMethodStrings.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\GenericSwapMethodStrings\bin\Debug\net6.0\GenericSwapMethodStrings.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\GenericSwapMethodStrings\bin\Debug\net6.0\GenericSwapMethodStrings.pdb
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\GenericSwapMethodStrings\obj\Debug\net6.0\GenericSwapMethodStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\GenericSwapMethodStrings\obj\Debug\net6.0\GenericSwapMethodStrings.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\GenericSwapMethodStrings\obj\Debug\net6.0\GenericSwapMethodStrings.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\GenericSwapMethodStrings\obj\Debug\net6.0\GenericSwapMethodStrings.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\GenericSwapMethodStrings\obj\Debug\net6.0\GenericSwapMethodStrings.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\GenericSwapMethodStrings\obj\Debug\net6.0\refint\GenericSwapMethodStrings.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\GenericSwapMethodStrings\obj\Debug\net6.0\GenericSwapMethodStrings.pdb
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\GenericSwapMethodStrings\obj\Debug\net6.0\GenericSwapMethodStrings.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\GenericSwapMethodStrings\obj\Debug\net6.0\ref\GenericSwapMethodStrings.dll
