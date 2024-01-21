@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\Threeuple\bin\Debug\net6.0\Threeuple.exe
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\Threeuple\bin\Debug\net6.0\Threeuple.deps.json
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\Threeuple\bin\Debug\net6.0\Threeuple.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\Threeuple\bin\Debug\net6.0\Threeuple.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\Threeuple\bin\Debug\net6.0\Threeuple.pdb
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\Threeuple\obj\Debug\net6.0\Threeuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\Threeuple\obj\Debug\net6.0\Threeuple.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\Threeuple\obj\Debug\net6.0\Threeuple.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\Threeuple\obj\Debug\net6.0\Threeuple.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\Threeuple\obj\Debug\net6.0\Threeuple.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\Threeuple\obj\Debug\net6.0\refint\Threeuple.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\Threeuple\obj\Debug\net6.0\Threeuple.pdb
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\Threeuple\obj\Debug\net6.0\Threeuple.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\GENERICS\Threeuple\obj\Debug\net6.0\ref\Threeuple.dll
