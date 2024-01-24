@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\NumbersEnumerator\bin\Debug\net6.0\NumbersEnumerator.exe
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\NumbersEnumerator\bin\Debug\net6.0\NumbersEnumerator.deps.json
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\NumbersEnumerator\bin\Debug\net6.0\NumbersEnumerator.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\NumbersEnumerator\bin\Debug\net6.0\NumbersEnumerator.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\NumbersEnumerator\bin\Debug\net6.0\NumbersEnumerator.pdb
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\NumbersEnumerator\obj\Debug\net6.0\NumbersEnumerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\NumbersEnumerator\obj\Debug\net6.0\NumbersEnumerator.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\NumbersEnumerator\obj\Debug\net6.0\NumbersEnumerator.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\NumbersEnumerator\obj\Debug\net6.0\NumbersEnumerator.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\NumbersEnumerator\obj\Debug\net6.0\NumbersEnumerator.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\NumbersEnumerator\obj\Debug\net6.0\refint\NumbersEnumerator.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\NumbersEnumerator\obj\Debug\net6.0\NumbersEnumerator.pdb
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\NumbersEnumerator\obj\Debug\net6.0\NumbersEnumerator.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\NumbersEnumerator\obj\Debug\net6.0\ref\NumbersEnumerator.dll
