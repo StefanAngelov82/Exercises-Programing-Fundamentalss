@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\CompareStudents\bin\Debug\net6.0\CompareStudents.exe
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\CompareStudents\bin\Debug\net6.0\CompareStudents.deps.json
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\CompareStudents\bin\Debug\net6.0\CompareStudents.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\CompareStudents\bin\Debug\net6.0\CompareStudents.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\CompareStudents\bin\Debug\net6.0\CompareStudents.pdb
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\CompareStudents\obj\Debug\net6.0\CompareStudents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\CompareStudents\obj\Debug\net6.0\CompareStudents.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\CompareStudents\obj\Debug\net6.0\CompareStudents.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\CompareStudents\obj\Debug\net6.0\CompareStudents.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\CompareStudents\obj\Debug\net6.0\CompareStudents.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\CompareStudents\obj\Debug\net6.0\refint\CompareStudents.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\CompareStudents\obj\Debug\net6.0\CompareStudents.pdb
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\CompareStudents\obj\Debug\net6.0\CompareStudents.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\CompareStudents\obj\Debug\net6.0\ref\CompareStudents.dll
