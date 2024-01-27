@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\Library\bin\Debug\net6.0\Library.exe
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\Library\bin\Debug\net6.0\Library.deps.json
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\Library\bin\Debug\net6.0\Library.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\Library\bin\Debug\net6.0\Library.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\Library\bin\Debug\net6.0\Library.pdb
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\Library\obj\Debug\net6.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\Library\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\Library\obj\Debug\net6.0\Library.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\Library\obj\Debug\net6.0\Library.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\Library\obj\Debug\net6.0\Library.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\Library\obj\Debug\net6.0\refint\Library.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\Library\obj\Debug\net6.0\Library.pdb
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\Library\obj\Debug\net6.0\Library.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\Library\obj\Debug\net6.0\ref\Library.dll
