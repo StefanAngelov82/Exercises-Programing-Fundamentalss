@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\ListyIterator\bin\Debug\net6.0\ListyIterator.exe
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\ListyIterator\bin\Debug\net6.0\ListyIterator.deps.json
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\ListyIterator\bin\Debug\net6.0\ListyIterator.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\ListyIterator\bin\Debug\net6.0\ListyIterator.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\ListyIterator\bin\Debug\net6.0\ListyIterator.pdb
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\ListyIterator\obj\Debug\net6.0\ListyIterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\ListyIterator\obj\Debug\net6.0\ListyIterator.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\ListyIterator\obj\Debug\net6.0\ListyIterator.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\ListyIterator\obj\Debug\net6.0\ListyIterator.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\ListyIterator\obj\Debug\net6.0\ListyIterator.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\ListyIterator\obj\Debug\net6.0\refint\ListyIterator.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\ListyIterator\obj\Debug\net6.0\ListyIterator.pdb
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\ListyIterator\obj\Debug\net6.0\ListyIterator.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\Iteratoes and Comparators\ListyIterator\obj\Debug\net6.0\ref\ListyIterator.dll
