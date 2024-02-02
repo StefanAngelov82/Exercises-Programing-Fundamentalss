@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Fast Food\bin\Debug\net6.0\Fast Food.exe
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Fast Food\bin\Debug\net6.0\Fast Food.deps.json
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Fast Food\bin\Debug\net6.0\Fast Food.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Fast Food\bin\Debug\net6.0\Fast Food.dll
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Fast Food\bin\Debug\net6.0\Fast Food.pdb
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Fast Food\obj\Debug\net6.0\Fast Food.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Fast Food\obj\Debug\net6.0\Fast Food.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Fast Food\obj\Debug\net6.0\Fast Food.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Fast Food\obj\Debug\net6.0\Fast Food.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Fast Food\obj\Debug\net6.0\Fast Food.dll
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Fast Food\obj\Debug\net6.0\refint\Fast Food.dll
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Fast Food\obj\Debug\net6.0\Fast Food.pdb
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Fast Food\obj\Debug\net6.0\Fast Food.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Fast Food\obj\Debug\net6.0\ref\Fast Food.dll
