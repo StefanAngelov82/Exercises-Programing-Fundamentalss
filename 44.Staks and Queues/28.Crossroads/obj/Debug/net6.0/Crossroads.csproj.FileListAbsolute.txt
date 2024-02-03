@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Crossroads\bin\Debug\net6.0\Crossroads.exe
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Crossroads\bin\Debug\net6.0\Crossroads.deps.json
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Crossroads\bin\Debug\net6.0\Crossroads.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Crossroads\bin\Debug\net6.0\Crossroads.dll
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Crossroads\bin\Debug\net6.0\Crossroads.pdb
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Crossroads\obj\Debug\net6.0\Crossroads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Crossroads\obj\Debug\net6.0\Crossroads.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Crossroads\obj\Debug\net6.0\Crossroads.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Crossroads\obj\Debug\net6.0\Crossroads.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Crossroads\obj\Debug\net6.0\Crossroads.dll
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Crossroads\obj\Debug\net6.0\refint\Crossroads.dll
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Crossroads\obj\Debug\net6.0\Crossroads.pdb
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Crossroads\obj\Debug\net6.0\Crossroads.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Crossroads\obj\Debug\net6.0\ref\Crossroads.dll
