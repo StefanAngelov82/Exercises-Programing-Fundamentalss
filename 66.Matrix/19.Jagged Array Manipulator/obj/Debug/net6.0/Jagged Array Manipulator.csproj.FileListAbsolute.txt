@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Jagged Array Manipulator\bin\Debug\net6.0\Jagged Array Manipulator.exe
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Jagged Array Manipulator\bin\Debug\net6.0\Jagged Array Manipulator.deps.json
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Jagged Array Manipulator\bin\Debug\net6.0\Jagged Array Manipulator.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Jagged Array Manipulator\bin\Debug\net6.0\Jagged Array Manipulator.dll
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Jagged Array Manipulator\bin\Debug\net6.0\Jagged Array Manipulator.pdb
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Jagged Array Manipulator\obj\Debug\net6.0\Jagged Array Manipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Jagged Array Manipulator\obj\Debug\net6.0\Jagged Array Manipulator.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Jagged Array Manipulator\obj\Debug\net6.0\Jagged Array Manipulator.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Jagged Array Manipulator\obj\Debug\net6.0\Jagged Array Manipulator.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Jagged Array Manipulator\obj\Debug\net6.0\Jagged Array Manipulator.dll
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Jagged Array Manipulator\obj\Debug\net6.0\refint\Jagged Array Manipulator.dll
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Jagged Array Manipulator\obj\Debug\net6.0\Jagged Array Manipulator.pdb
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Jagged Array Manipulator\obj\Debug\net6.0\Jagged Array Manipulator.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Jagged Array Manipulator\obj\Debug\net6.0\ref\Jagged Array Manipulator.dll
