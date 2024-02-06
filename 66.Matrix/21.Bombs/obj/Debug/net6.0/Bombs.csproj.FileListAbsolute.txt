@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Bombs\bin\Debug\net6.0\Bombs.exe
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Bombs\bin\Debug\net6.0\Bombs.deps.json
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Bombs\bin\Debug\net6.0\Bombs.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Bombs\bin\Debug\net6.0\Bombs.dll
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Bombs\bin\Debug\net6.0\Bombs.pdb
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Bombs\obj\Debug\net6.0\Bombs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Bombs\obj\Debug\net6.0\Bombs.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Bombs\obj\Debug\net6.0\Bombs.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Bombs\obj\Debug\net6.0\Bombs.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Bombs\obj\Debug\net6.0\Bombs.dll
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Bombs\obj\Debug\net6.0\refint\Bombs.dll
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Bombs\obj\Debug\net6.0\Bombs.pdb
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Bombs\obj\Debug\net6.0\Bombs.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Bombs\obj\Debug\net6.0\ref\Bombs.dll
