@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\bejectsandClasses\MailClient\MailClient\bin\Debug\net6.0\MailClient.exe
+C:\Games\SoftUni\02.Checks\bejectsandClasses\MailClient\MailClient\bin\Debug\net6.0\MailClient.deps.json
+C:\Games\SoftUni\02.Checks\bejectsandClasses\MailClient\MailClient\bin\Debug\net6.0\MailClient.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\bejectsandClasses\MailClient\MailClient\bin\Debug\net6.0\MailClient.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\MailClient\MailClient\bin\Debug\net6.0\MailClient.pdb
+C:\Games\SoftUni\02.Checks\bejectsandClasses\MailClient\MailClient\obj\Debug\net6.0\MailClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\bejectsandClasses\MailClient\MailClient\obj\Debug\net6.0\MailClient.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\MailClient\MailClient\obj\Debug\net6.0\MailClient.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\bejectsandClasses\MailClient\MailClient\obj\Debug\net6.0\MailClient.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\MailClient\MailClient\obj\Debug\net6.0\MailClient.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\MailClient\MailClient\obj\Debug\net6.0\refint\MailClient.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\MailClient\MailClient\obj\Debug\net6.0\MailClient.pdb
+C:\Games\SoftUni\02.Checks\bejectsandClasses\MailClient\MailClient\obj\Debug\net6.0\MailClient.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\MailClient\MailClient\obj\Debug\net6.0\ref\MailClient.dll
