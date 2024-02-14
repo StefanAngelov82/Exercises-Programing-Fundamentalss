@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Mouse In The Kitchen\bin\Debug\net6.0\Mouse In The Kitchen.exe
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Mouse In The Kitchen\bin\Debug\net6.0\Mouse In The Kitchen.deps.json
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Mouse In The Kitchen\bin\Debug\net6.0\Mouse In The Kitchen.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Mouse In The Kitchen\bin\Debug\net6.0\Mouse In The Kitchen.dll
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Mouse In The Kitchen\bin\Debug\net6.0\Mouse In The Kitchen.pdb
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Mouse In The Kitchen\obj\Debug\net6.0\Mouse In The Kitchen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Mouse In The Kitchen\obj\Debug\net6.0\Mouse In The Kitchen.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Mouse In The Kitchen\obj\Debug\net6.0\Mouse In The Kitchen.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Mouse In The Kitchen\obj\Debug\net6.0\Mouse In The Kitchen.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Mouse In The Kitchen\obj\Debug\net6.0\Mouse In The Kitchen.dll
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Mouse In The Kitchen\obj\Debug\net6.0\refint\Mouse In The Kitchen.dll
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Mouse In The Kitchen\obj\Debug\net6.0\Mouse In The Kitchen.pdb
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Mouse In The Kitchen\obj\Debug\net6.0\Mouse In The Kitchen.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\Multidimensional Arrays\Mouse In The Kitchen\obj\Debug\net6.0\ref\Mouse In The Kitchen.dll
