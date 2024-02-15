@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\bejectsandClasses\AutomotiveRepairShop\AutomotiveRepairShop\obj\Debug\net6.0\AutomotiveRepairShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\bejectsandClasses\AutomotiveRepairShop\AutomotiveRepairShop\obj\Debug\net6.0\AutomotiveRepairShop.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\AutomotiveRepairShop\AutomotiveRepairShop\obj\Debug\net6.0\AutomotiveRepairShop.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\bejectsandClasses\AutomotiveRepairShop\AutomotiveRepairShop\obj\Debug\net6.0\AutomotiveRepairShop.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\AutomotiveRepairShop\AutomotiveRepairShop\bin\Debug\net6.0\AutomotiveRepairShop.exe
+C:\Games\SoftUni\02.Checks\bejectsandClasses\AutomotiveRepairShop\AutomotiveRepairShop\bin\Debug\net6.0\AutomotiveRepairShop.deps.json
+C:\Games\SoftUni\02.Checks\bejectsandClasses\AutomotiveRepairShop\AutomotiveRepairShop\bin\Debug\net6.0\AutomotiveRepairShop.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\bejectsandClasses\AutomotiveRepairShop\AutomotiveRepairShop\bin\Debug\net6.0\AutomotiveRepairShop.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\AutomotiveRepairShop\AutomotiveRepairShop\bin\Debug\net6.0\AutomotiveRepairShop.pdb
+C:\Games\SoftUni\02.Checks\bejectsandClasses\AutomotiveRepairShop\AutomotiveRepairShop\obj\Debug\net6.0\AutomotiveRepairShop.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\AutomotiveRepairShop\AutomotiveRepairShop\obj\Debug\net6.0\refint\AutomotiveRepairShop.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\AutomotiveRepairShop\AutomotiveRepairShop\obj\Debug\net6.0\AutomotiveRepairShop.pdb
+C:\Games\SoftUni\02.Checks\bejectsandClasses\AutomotiveRepairShop\AutomotiveRepairShop\obj\Debug\net6.0\AutomotiveRepairShop.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\AutomotiveRepairShop\AutomotiveRepairShop\obj\Debug\net6.0\ref\AutomotiveRepairShop.dll
