@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Worms And Holes/1.0.0": {
+        "runtime": {
+          "Worms And Holes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Worms And Holes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

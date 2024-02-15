@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Worms And Holes\bin\Debug\net6.0\Worms And Holes.exe
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Worms And Holes\bin\Debug\net6.0\Worms And Holes.deps.json
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Worms And Holes\bin\Debug\net6.0\Worms And Holes.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Worms And Holes\bin\Debug\net6.0\Worms And Holes.dll
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Worms And Holes\bin\Debug\net6.0\Worms And Holes.pdb
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Worms And Holes\obj\Debug\net6.0\Worms And Holes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Worms And Holes\obj\Debug\net6.0\Worms And Holes.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Worms And Holes\obj\Debug\net6.0\Worms And Holes.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Worms And Holes\obj\Debug\net6.0\Worms And Holes.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Worms And Holes\obj\Debug\net6.0\Worms And Holes.dll
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Worms And Holes\obj\Debug\net6.0\refint\Worms And Holes.dll
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Worms And Holes\obj\Debug\net6.0\Worms And Holes.pdb
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Worms And Holes\obj\Debug\net6.0\Worms And Holes.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\Stack amd Queue\Worms And Holes\obj\Debug\net6.0\ref\Worms And Holes.dll
