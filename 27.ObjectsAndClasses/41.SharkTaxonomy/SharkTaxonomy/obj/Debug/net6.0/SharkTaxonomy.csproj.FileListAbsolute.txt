@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\bejectsandClasses\SharkTaxonomy\SharkTaxonomy\bin\Debug\net6.0\SharkTaxonomy.exe
+C:\Games\SoftUni\02.Checks\bejectsandClasses\SharkTaxonomy\SharkTaxonomy\bin\Debug\net6.0\SharkTaxonomy.deps.json
+C:\Games\SoftUni\02.Checks\bejectsandClasses\SharkTaxonomy\SharkTaxonomy\bin\Debug\net6.0\SharkTaxonomy.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\bejectsandClasses\SharkTaxonomy\SharkTaxonomy\bin\Debug\net6.0\SharkTaxonomy.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\SharkTaxonomy\SharkTaxonomy\bin\Debug\net6.0\SharkTaxonomy.pdb
+C:\Games\SoftUni\02.Checks\bejectsandClasses\SharkTaxonomy\SharkTaxonomy\obj\Debug\net6.0\SharkTaxonomy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\bejectsandClasses\SharkTaxonomy\SharkTaxonomy\obj\Debug\net6.0\SharkTaxonomy.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\SharkTaxonomy\SharkTaxonomy\obj\Debug\net6.0\SharkTaxonomy.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\bejectsandClasses\SharkTaxonomy\SharkTaxonomy\obj\Debug\net6.0\SharkTaxonomy.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\SharkTaxonomy\SharkTaxonomy\obj\Debug\net6.0\SharkTaxonomy.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\SharkTaxonomy\SharkTaxonomy\obj\Debug\net6.0\refint\SharkTaxonomy.dll
+C:\Games\SoftUni\02.Checks\bejectsandClasses\SharkTaxonomy\SharkTaxonomy\obj\Debug\net6.0\SharkTaxonomy.pdb
+C:\Games\SoftUni\02.Checks\bejectsandClasses\SharkTaxonomy\SharkTaxonomy\obj\Debug\net6.0\SharkTaxonomy.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\bejectsandClasses\SharkTaxonomy\SharkTaxonomy\obj\Debug\net6.0\ref\SharkTaxonomy.dll
