@@ -1,0 +1,4 @@
+C:\Games\SoftUni\OOP\Inheritance\Inheritance\Farm\obj\Debug\netcoreapp3.1\Farm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\OOP\Inheritance\Inheritance\Farm\obj\Debug\netcoreapp3.1\Farm.AssemblyInfoInputs.cache
+C:\Games\SoftUni\OOP\Inheritance\Inheritance\Farm\obj\Debug\netcoreapp3.1\Farm.AssemblyInfo.cs
+C:\Games\SoftUni\OOP\Inheritance\Inheritance\Farm\obj\Debug\netcoreapp3.1\Farm.csproj.CoreCompileInputs.cache
