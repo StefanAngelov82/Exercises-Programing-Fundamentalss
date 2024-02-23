@@ -1,0 +1,13 @@
+C:\Games\SoftUni\OOP\Inheritance\Zoo\bin\Debug\netcoreapp3.1\Zoo.exe
+C:\Games\SoftUni\OOP\Inheritance\Zoo\bin\Debug\netcoreapp3.1\Zoo.deps.json
+C:\Games\SoftUni\OOP\Inheritance\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.json
+C:\Games\SoftUni\OOP\Inheritance\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.dev.json
+C:\Games\SoftUni\OOP\Inheritance\Zoo\bin\Debug\netcoreapp3.1\Zoo.dll
+C:\Games\SoftUni\OOP\Inheritance\Zoo\bin\Debug\netcoreapp3.1\Zoo.pdb
+C:\Games\SoftUni\OOP\Inheritance\Zoo\obj\Debug\netcoreapp3.1\Zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\OOP\Inheritance\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfoInputs.cache
+C:\Games\SoftUni\OOP\Inheritance\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfo.cs
+C:\Games\SoftUni\OOP\Inheritance\Zoo\obj\Debug\netcoreapp3.1\Zoo.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\OOP\Inheritance\Zoo\obj\Debug\netcoreapp3.1\Zoo.dll
+C:\Games\SoftUni\OOP\Inheritance\Zoo\obj\Debug\netcoreapp3.1\Zoo.pdb
+C:\Games\SoftUni\OOP\Inheritance\Zoo\obj\Debug\netcoreapp3.1\Zoo.genruntimeconfig.cache
