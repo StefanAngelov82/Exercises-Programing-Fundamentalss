@@ -1,0 +1,13 @@
+C:\Games\SoftUni\OOP\Inheritance\Animals\obj\Debug\netcoreapp3.1\Animals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\OOP\Inheritance\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfoInputs.cache
+C:\Games\SoftUni\OOP\Inheritance\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfo.cs
+C:\Games\SoftUni\OOP\Inheritance\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\OOP\Inheritance\Animals\bin\Debug\netcoreapp3.1\Animals.exe
+C:\Games\SoftUni\OOP\Inheritance\Animals\bin\Debug\netcoreapp3.1\Animals.deps.json
+C:\Games\SoftUni\OOP\Inheritance\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.json
+C:\Games\SoftUni\OOP\Inheritance\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.dev.json
+C:\Games\SoftUni\OOP\Inheritance\Animals\bin\Debug\netcoreapp3.1\Animals.dll
+C:\Games\SoftUni\OOP\Inheritance\Animals\bin\Debug\netcoreapp3.1\Animals.pdb
+C:\Games\SoftUni\OOP\Inheritance\Animals\obj\Debug\netcoreapp3.1\Animals.dll
+C:\Games\SoftUni\OOP\Inheritance\Animals\obj\Debug\netcoreapp3.1\Animals.pdb
+C:\Games\SoftUni\OOP\Inheritance\Animals\obj\Debug\netcoreapp3.1\Animals.genruntimeconfig.cache
