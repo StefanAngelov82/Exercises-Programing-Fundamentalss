@@ -1,0 +1,14 @@
+C:\Games\SoftUni\OOP\Encapsulation\PersonsInfo\bin\Debug\net6.0\PersonsInfo.exe
+C:\Games\SoftUni\OOP\Encapsulation\PersonsInfo\bin\Debug\net6.0\PersonsInfo.deps.json
+C:\Games\SoftUni\OOP\Encapsulation\PersonsInfo\bin\Debug\net6.0\PersonsInfo.runtimeconfig.json
+C:\Games\SoftUni\OOP\Encapsulation\PersonsInfo\bin\Debug\net6.0\PersonsInfo.dll
+C:\Games\SoftUni\OOP\Encapsulation\PersonsInfo\bin\Debug\net6.0\PersonsInfo.pdb
+C:\Games\SoftUni\OOP\Encapsulation\PersonsInfo\obj\Debug\net6.0\PersonsInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\OOP\Encapsulation\PersonsInfo\obj\Debug\net6.0\PersonsInfo.AssemblyInfoInputs.cache
+C:\Games\SoftUni\OOP\Encapsulation\PersonsInfo\obj\Debug\net6.0\PersonsInfo.AssemblyInfo.cs
+C:\Games\SoftUni\OOP\Encapsulation\PersonsInfo\obj\Debug\net6.0\PersonsInfo.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\OOP\Encapsulation\PersonsInfo\obj\Debug\net6.0\PersonsInfo.dll
+C:\Games\SoftUni\OOP\Encapsulation\PersonsInfo\obj\Debug\net6.0\refint\PersonsInfo.dll
+C:\Games\SoftUni\OOP\Encapsulation\PersonsInfo\obj\Debug\net6.0\PersonsInfo.pdb
+C:\Games\SoftUni\OOP\Encapsulation\PersonsInfo\obj\Debug\net6.0\PersonsInfo.genruntimeconfig.cache
+C:\Games\SoftUni\OOP\Encapsulation\PersonsInfo\obj\Debug\net6.0\ref\PersonsInfo.dll
