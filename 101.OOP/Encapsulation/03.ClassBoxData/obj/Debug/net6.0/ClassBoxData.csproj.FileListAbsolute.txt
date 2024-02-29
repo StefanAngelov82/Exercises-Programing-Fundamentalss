@@ -1,0 +1,14 @@
+C:\Games\SoftUni\OOP\Encapsulation\ClassBoxData\bin\Debug\net6.0\ClassBoxData.exe
+C:\Games\SoftUni\OOP\Encapsulation\ClassBoxData\bin\Debug\net6.0\ClassBoxData.deps.json
+C:\Games\SoftUni\OOP\Encapsulation\ClassBoxData\bin\Debug\net6.0\ClassBoxData.runtimeconfig.json
+C:\Games\SoftUni\OOP\Encapsulation\ClassBoxData\bin\Debug\net6.0\ClassBoxData.dll
+C:\Games\SoftUni\OOP\Encapsulation\ClassBoxData\bin\Debug\net6.0\ClassBoxData.pdb
+C:\Games\SoftUni\OOP\Encapsulation\ClassBoxData\obj\Debug\net6.0\ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\OOP\Encapsulation\ClassBoxData\obj\Debug\net6.0\ClassBoxData.AssemblyInfoInputs.cache
+C:\Games\SoftUni\OOP\Encapsulation\ClassBoxData\obj\Debug\net6.0\ClassBoxData.AssemblyInfo.cs
+C:\Games\SoftUni\OOP\Encapsulation\ClassBoxData\obj\Debug\net6.0\ClassBoxData.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\OOP\Encapsulation\ClassBoxData\obj\Debug\net6.0\ClassBoxData.dll
+C:\Games\SoftUni\OOP\Encapsulation\ClassBoxData\obj\Debug\net6.0\refint\ClassBoxData.dll
+C:\Games\SoftUni\OOP\Encapsulation\ClassBoxData\obj\Debug\net6.0\ClassBoxData.pdb
+C:\Games\SoftUni\OOP\Encapsulation\ClassBoxData\obj\Debug\net6.0\ClassBoxData.genruntimeconfig.cache
+C:\Games\SoftUni\OOP\Encapsulation\ClassBoxData\obj\Debug\net6.0\ref\ClassBoxData.dll
