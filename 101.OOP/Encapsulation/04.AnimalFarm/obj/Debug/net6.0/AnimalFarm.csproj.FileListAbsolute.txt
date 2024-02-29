@@ -1,0 +1,14 @@
+C:\Games\SoftUni\OOP\Encapsulation\AnimalFarm\bin\Debug\net6.0\AnimalFarm.exe
+C:\Games\SoftUni\OOP\Encapsulation\AnimalFarm\bin\Debug\net6.0\AnimalFarm.deps.json
+C:\Games\SoftUni\OOP\Encapsulation\AnimalFarm\bin\Debug\net6.0\AnimalFarm.runtimeconfig.json
+C:\Games\SoftUni\OOP\Encapsulation\AnimalFarm\bin\Debug\net6.0\AnimalFarm.dll
+C:\Games\SoftUni\OOP\Encapsulation\AnimalFarm\bin\Debug\net6.0\AnimalFarm.pdb
+C:\Games\SoftUni\OOP\Encapsulation\AnimalFarm\obj\Debug\net6.0\AnimalFarm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\OOP\Encapsulation\AnimalFarm\obj\Debug\net6.0\AnimalFarm.AssemblyInfoInputs.cache
+C:\Games\SoftUni\OOP\Encapsulation\AnimalFarm\obj\Debug\net6.0\AnimalFarm.AssemblyInfo.cs
+C:\Games\SoftUni\OOP\Encapsulation\AnimalFarm\obj\Debug\net6.0\AnimalFarm.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\OOP\Encapsulation\AnimalFarm\obj\Debug\net6.0\AnimalFarm.dll
+C:\Games\SoftUni\OOP\Encapsulation\AnimalFarm\obj\Debug\net6.0\refint\AnimalFarm.dll
+C:\Games\SoftUni\OOP\Encapsulation\AnimalFarm\obj\Debug\net6.0\AnimalFarm.pdb
+C:\Games\SoftUni\OOP\Encapsulation\AnimalFarm\obj\Debug\net6.0\AnimalFarm.genruntimeconfig.cache
+C:\Games\SoftUni\OOP\Encapsulation\AnimalFarm\obj\Debug\net6.0\ref\AnimalFarm.dll
