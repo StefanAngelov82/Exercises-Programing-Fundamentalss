@@ -1,0 +1,14 @@
+C:\Games\SoftUni\OOP\Encapsulation\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.exe
+C:\Games\SoftUni\OOP\Encapsulation\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.deps.json
+C:\Games\SoftUni\OOP\Encapsulation\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.runtimeconfig.json
+C:\Games\SoftUni\OOP\Encapsulation\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.dll
+C:\Games\SoftUni\OOP\Encapsulation\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.pdb
+C:\Games\SoftUni\OOP\Encapsulation\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\OOP\Encapsulation\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.AssemblyInfoInputs.cache
+C:\Games\SoftUni\OOP\Encapsulation\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.AssemblyInfo.cs
+C:\Games\SoftUni\OOP\Encapsulation\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\OOP\Encapsulation\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.dll
+C:\Games\SoftUni\OOP\Encapsulation\ShoppingSpree\obj\Debug\net6.0\refint\ShoppingSpree.dll
+C:\Games\SoftUni\OOP\Encapsulation\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.pdb
+C:\Games\SoftUni\OOP\Encapsulation\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.genruntimeconfig.cache
+C:\Games\SoftUni\OOP\Encapsulation\ShoppingSpree\obj\Debug\net6.0\ref\ShoppingSpree.dll
