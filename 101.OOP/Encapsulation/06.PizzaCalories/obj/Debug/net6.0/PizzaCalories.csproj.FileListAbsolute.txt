@@ -1,0 +1,14 @@
+C:\Games\SoftUni\OOP\Encapsulation\PizzaCalories\bin\Debug\net6.0\PizzaCalories.exe
+C:\Games\SoftUni\OOP\Encapsulation\PizzaCalories\bin\Debug\net6.0\PizzaCalories.deps.json
+C:\Games\SoftUni\OOP\Encapsulation\PizzaCalories\bin\Debug\net6.0\PizzaCalories.runtimeconfig.json
+C:\Games\SoftUni\OOP\Encapsulation\PizzaCalories\bin\Debug\net6.0\PizzaCalories.dll
+C:\Games\SoftUni\OOP\Encapsulation\PizzaCalories\bin\Debug\net6.0\PizzaCalories.pdb
+C:\Games\SoftUni\OOP\Encapsulation\PizzaCalories\obj\Debug\net6.0\PizzaCalories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\OOP\Encapsulation\PizzaCalories\obj\Debug\net6.0\PizzaCalories.AssemblyInfoInputs.cache
+C:\Games\SoftUni\OOP\Encapsulation\PizzaCalories\obj\Debug\net6.0\PizzaCalories.AssemblyInfo.cs
+C:\Games\SoftUni\OOP\Encapsulation\PizzaCalories\obj\Debug\net6.0\PizzaCalories.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\OOP\Encapsulation\PizzaCalories\obj\Debug\net6.0\PizzaCalories.dll
+C:\Games\SoftUni\OOP\Encapsulation\PizzaCalories\obj\Debug\net6.0\refint\PizzaCalories.dll
+C:\Games\SoftUni\OOP\Encapsulation\PizzaCalories\obj\Debug\net6.0\PizzaCalories.pdb
+C:\Games\SoftUni\OOP\Encapsulation\PizzaCalories\obj\Debug\net6.0\PizzaCalories.genruntimeconfig.cache
+C:\Games\SoftUni\OOP\Encapsulation\PizzaCalories\obj\Debug\net6.0\ref\PizzaCalories.dll
