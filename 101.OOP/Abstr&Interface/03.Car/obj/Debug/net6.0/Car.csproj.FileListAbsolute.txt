@@ -1,0 +1,14 @@
+C:\Games\SoftUni\OOP\Abstraction&Interface\Car\bin\Debug\net6.0\Car.exe
+C:\Games\SoftUni\OOP\Abstraction&Interface\Car\bin\Debug\net6.0\Car.deps.json
+C:\Games\SoftUni\OOP\Abstraction&Interface\Car\bin\Debug\net6.0\Car.runtimeconfig.json
+C:\Games\SoftUni\OOP\Abstraction&Interface\Car\bin\Debug\net6.0\Car.dll
+C:\Games\SoftUni\OOP\Abstraction&Interface\Car\bin\Debug\net6.0\Car.pdb
+C:\Games\SoftUni\OOP\Abstraction&Interface\Car\obj\Debug\net6.0\Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\OOP\Abstraction&Interface\Car\obj\Debug\net6.0\Car.AssemblyInfoInputs.cache
+C:\Games\SoftUni\OOP\Abstraction&Interface\Car\obj\Debug\net6.0\Car.AssemblyInfo.cs
+C:\Games\SoftUni\OOP\Abstraction&Interface\Car\obj\Debug\net6.0\Car.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\OOP\Abstraction&Interface\Car\obj\Debug\net6.0\Car.dll
+C:\Games\SoftUni\OOP\Abstraction&Interface\Car\obj\Debug\net6.0\refint\Car.dll
+C:\Games\SoftUni\OOP\Abstraction&Interface\Car\obj\Debug\net6.0\Car.pdb
+C:\Games\SoftUni\OOP\Abstraction&Interface\Car\obj\Debug\net6.0\Car.genruntimeconfig.cache
+C:\Games\SoftUni\OOP\Abstraction&Interface\Car\obj\Debug\net6.0\ref\Car.dll
