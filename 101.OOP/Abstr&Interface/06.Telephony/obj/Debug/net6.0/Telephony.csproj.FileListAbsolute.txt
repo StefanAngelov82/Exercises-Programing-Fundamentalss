@@ -1,0 +1,14 @@
+C:\Games\SoftUni\OOP\Abstraction&Interface\Telephony\bin\Debug\net6.0\Telephony.exe
+C:\Games\SoftUni\OOP\Abstraction&Interface\Telephony\bin\Debug\net6.0\Telephony.deps.json
+C:\Games\SoftUni\OOP\Abstraction&Interface\Telephony\bin\Debug\net6.0\Telephony.runtimeconfig.json
+C:\Games\SoftUni\OOP\Abstraction&Interface\Telephony\bin\Debug\net6.0\Telephony.dll
+C:\Games\SoftUni\OOP\Abstraction&Interface\Telephony\bin\Debug\net6.0\Telephony.pdb
+C:\Games\SoftUni\OOP\Abstraction&Interface\Telephony\obj\Debug\net6.0\Telephony.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\OOP\Abstraction&Interface\Telephony\obj\Debug\net6.0\Telephony.AssemblyInfoInputs.cache
+C:\Games\SoftUni\OOP\Abstraction&Interface\Telephony\obj\Debug\net6.0\Telephony.AssemblyInfo.cs
+C:\Games\SoftUni\OOP\Abstraction&Interface\Telephony\obj\Debug\net6.0\Telephony.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\OOP\Abstraction&Interface\Telephony\obj\Debug\net6.0\Telephony.dll
+C:\Games\SoftUni\OOP\Abstraction&Interface\Telephony\obj\Debug\net6.0\refint\Telephony.dll
+C:\Games\SoftUni\OOP\Abstraction&Interface\Telephony\obj\Debug\net6.0\Telephony.pdb
+C:\Games\SoftUni\OOP\Abstraction&Interface\Telephony\obj\Debug\net6.0\Telephony.genruntimeconfig.cache
+C:\Games\SoftUni\OOP\Abstraction&Interface\Telephony\obj\Debug\net6.0\ref\Telephony.dll
