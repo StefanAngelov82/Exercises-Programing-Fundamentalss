@@ -1,0 +1,14 @@
+C:\Games\SoftUni\OOP\Abstraction&Interface\BorderControl\bin\Debug\net6.0\BorderControl.exe
+C:\Games\SoftUni\OOP\Abstraction&Interface\BorderControl\bin\Debug\net6.0\BorderControl.deps.json
+C:\Games\SoftUni\OOP\Abstraction&Interface\BorderControl\bin\Debug\net6.0\BorderControl.runtimeconfig.json
+C:\Games\SoftUni\OOP\Abstraction&Interface\BorderControl\bin\Debug\net6.0\BorderControl.dll
+C:\Games\SoftUni\OOP\Abstraction&Interface\BorderControl\bin\Debug\net6.0\BorderControl.pdb
+C:\Games\SoftUni\OOP\Abstraction&Interface\BorderControl\obj\Debug\net6.0\BorderControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\OOP\Abstraction&Interface\BorderControl\obj\Debug\net6.0\BorderControl.AssemblyInfoInputs.cache
+C:\Games\SoftUni\OOP\Abstraction&Interface\BorderControl\obj\Debug\net6.0\BorderControl.AssemblyInfo.cs
+C:\Games\SoftUni\OOP\Abstraction&Interface\BorderControl\obj\Debug\net6.0\BorderControl.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\OOP\Abstraction&Interface\BorderControl\obj\Debug\net6.0\BorderControl.dll
+C:\Games\SoftUni\OOP\Abstraction&Interface\BorderControl\obj\Debug\net6.0\refint\BorderControl.dll
+C:\Games\SoftUni\OOP\Abstraction&Interface\BorderControl\obj\Debug\net6.0\BorderControl.pdb
+C:\Games\SoftUni\OOP\Abstraction&Interface\BorderControl\obj\Debug\net6.0\BorderControl.genruntimeconfig.cache
+C:\Games\SoftUni\OOP\Abstraction&Interface\BorderControl\obj\Debug\net6.0\ref\BorderControl.dll
