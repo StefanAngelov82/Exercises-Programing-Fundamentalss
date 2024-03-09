@@ -1,0 +1,14 @@
+C:\Games\SoftUni\OOP\Abstraction&Interface\MilitaryElite\bin\Debug\net6.0\MilitaryElite.exe
+C:\Games\SoftUni\OOP\Abstraction&Interface\MilitaryElite\bin\Debug\net6.0\MilitaryElite.deps.json
+C:\Games\SoftUni\OOP\Abstraction&Interface\MilitaryElite\bin\Debug\net6.0\MilitaryElite.runtimeconfig.json
+C:\Games\SoftUni\OOP\Abstraction&Interface\MilitaryElite\bin\Debug\net6.0\MilitaryElite.dll
+C:\Games\SoftUni\OOP\Abstraction&Interface\MilitaryElite\bin\Debug\net6.0\MilitaryElite.pdb
+C:\Games\SoftUni\OOP\Abstraction&Interface\MilitaryElite\obj\Debug\net6.0\MilitaryElite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\OOP\Abstraction&Interface\MilitaryElite\obj\Debug\net6.0\MilitaryElite.AssemblyInfoInputs.cache
+C:\Games\SoftUni\OOP\Abstraction&Interface\MilitaryElite\obj\Debug\net6.0\MilitaryElite.AssemblyInfo.cs
+C:\Games\SoftUni\OOP\Abstraction&Interface\MilitaryElite\obj\Debug\net6.0\MilitaryElite.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\OOP\Abstraction&Interface\MilitaryElite\obj\Debug\net6.0\MilitaryElite.dll
+C:\Games\SoftUni\OOP\Abstraction&Interface\MilitaryElite\obj\Debug\net6.0\refint\MilitaryElite.dll
+C:\Games\SoftUni\OOP\Abstraction&Interface\MilitaryElite\obj\Debug\net6.0\MilitaryElite.pdb
+C:\Games\SoftUni\OOP\Abstraction&Interface\MilitaryElite\obj\Debug\net6.0\MilitaryElite.genruntimeconfig.cache
+C:\Games\SoftUni\OOP\Abstraction&Interface\MilitaryElite\obj\Debug\net6.0\ref\MilitaryElite.dll
