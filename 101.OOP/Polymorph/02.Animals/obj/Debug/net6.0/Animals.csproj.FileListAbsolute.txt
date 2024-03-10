@@ -1,0 +1,14 @@
+C:\Games\SoftUni\OOP\Polymorphism\Animals\bin\Debug\net6.0\Animals.exe
+C:\Games\SoftUni\OOP\Polymorphism\Animals\bin\Debug\net6.0\Animals.deps.json
+C:\Games\SoftUni\OOP\Polymorphism\Animals\bin\Debug\net6.0\Animals.runtimeconfig.json
+C:\Games\SoftUni\OOP\Polymorphism\Animals\bin\Debug\net6.0\Animals.dll
+C:\Games\SoftUni\OOP\Polymorphism\Animals\bin\Debug\net6.0\Animals.pdb
+C:\Games\SoftUni\OOP\Polymorphism\Animals\obj\Debug\net6.0\Animals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\OOP\Polymorphism\Animals\obj\Debug\net6.0\Animals.AssemblyInfoInputs.cache
+C:\Games\SoftUni\OOP\Polymorphism\Animals\obj\Debug\net6.0\Animals.AssemblyInfo.cs
+C:\Games\SoftUni\OOP\Polymorphism\Animals\obj\Debug\net6.0\Animals.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\OOP\Polymorphism\Animals\obj\Debug\net6.0\Animals.dll
+C:\Games\SoftUni\OOP\Polymorphism\Animals\obj\Debug\net6.0\refint\Animals.dll
+C:\Games\SoftUni\OOP\Polymorphism\Animals\obj\Debug\net6.0\Animals.pdb
+C:\Games\SoftUni\OOP\Polymorphism\Animals\obj\Debug\net6.0\Animals.genruntimeconfig.cache
+C:\Games\SoftUni\OOP\Polymorphism\Animals\obj\Debug\net6.0\ref\Animals.dll
