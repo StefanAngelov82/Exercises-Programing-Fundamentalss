@@ -1,0 +1,14 @@
+C:\Games\SoftUni\OOP\Polymorphism\MathOperation\bin\Debug\net6.0\MathOperation.exe
+C:\Games\SoftUni\OOP\Polymorphism\MathOperation\bin\Debug\net6.0\MathOperation.deps.json
+C:\Games\SoftUni\OOP\Polymorphism\MathOperation\bin\Debug\net6.0\MathOperation.runtimeconfig.json
+C:\Games\SoftUni\OOP\Polymorphism\MathOperation\bin\Debug\net6.0\MathOperation.dll
+C:\Games\SoftUni\OOP\Polymorphism\MathOperation\bin\Debug\net6.0\MathOperation.pdb
+C:\Games\SoftUni\OOP\Polymorphism\MathOperation\obj\Debug\net6.0\MathOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\OOP\Polymorphism\MathOperation\obj\Debug\net6.0\MathOperation.AssemblyInfoInputs.cache
+C:\Games\SoftUni\OOP\Polymorphism\MathOperation\obj\Debug\net6.0\MathOperation.AssemblyInfo.cs
+C:\Games\SoftUni\OOP\Polymorphism\MathOperation\obj\Debug\net6.0\MathOperation.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\OOP\Polymorphism\MathOperation\obj\Debug\net6.0\MathOperation.dll
+C:\Games\SoftUni\OOP\Polymorphism\MathOperation\obj\Debug\net6.0\refint\MathOperation.dll
+C:\Games\SoftUni\OOP\Polymorphism\MathOperation\obj\Debug\net6.0\MathOperation.pdb
+C:\Games\SoftUni\OOP\Polymorphism\MathOperation\obj\Debug\net6.0\MathOperation.genruntimeconfig.cache
+C:\Games\SoftUni\OOP\Polymorphism\MathOperation\obj\Debug\net6.0\ref\MathOperation.dll
