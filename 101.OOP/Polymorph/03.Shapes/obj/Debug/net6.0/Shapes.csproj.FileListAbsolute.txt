@@ -1,0 +1,14 @@
+C:\Games\SoftUni\OOP\Polymorphism\Shapes\bin\Debug\net6.0\Shapes.exe
+C:\Games\SoftUni\OOP\Polymorphism\Shapes\bin\Debug\net6.0\Shapes.deps.json
+C:\Games\SoftUni\OOP\Polymorphism\Shapes\bin\Debug\net6.0\Shapes.runtimeconfig.json
+C:\Games\SoftUni\OOP\Polymorphism\Shapes\bin\Debug\net6.0\Shapes.dll
+C:\Games\SoftUni\OOP\Polymorphism\Shapes\bin\Debug\net6.0\Shapes.pdb
+C:\Games\SoftUni\OOP\Polymorphism\Shapes\obj\Debug\net6.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\OOP\Polymorphism\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfoInputs.cache
+C:\Games\SoftUni\OOP\Polymorphism\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfo.cs
+C:\Games\SoftUni\OOP\Polymorphism\Shapes\obj\Debug\net6.0\Shapes.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\OOP\Polymorphism\Shapes\obj\Debug\net6.0\Shapes.dll
+C:\Games\SoftUni\OOP\Polymorphism\Shapes\obj\Debug\net6.0\refint\Shapes.dll
+C:\Games\SoftUni\OOP\Polymorphism\Shapes\obj\Debug\net6.0\Shapes.pdb
+C:\Games\SoftUni\OOP\Polymorphism\Shapes\obj\Debug\net6.0\Shapes.genruntimeconfig.cache
+C:\Games\SoftUni\OOP\Polymorphism\Shapes\obj\Debug\net6.0\ref\Shapes.dll
