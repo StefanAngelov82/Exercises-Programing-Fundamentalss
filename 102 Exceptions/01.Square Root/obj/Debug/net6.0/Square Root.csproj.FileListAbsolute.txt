@@ -1,0 +1,14 @@
+C:\Games\SoftUni\OOP\Exeptions\Square Root\obj\Debug\net6.0\Square Root.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\OOP\Exeptions\Square Root\obj\Debug\net6.0\Square Root.AssemblyInfoInputs.cache
+C:\Games\SoftUni\OOP\Exeptions\Square Root\obj\Debug\net6.0\Square Root.AssemblyInfo.cs
+C:\Games\SoftUni\OOP\Exeptions\Square Root\obj\Debug\net6.0\Square Root.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\OOP\Exeptions\Square Root\bin\Debug\net6.0\Square Root.exe
+C:\Games\SoftUni\OOP\Exeptions\Square Root\bin\Debug\net6.0\Square Root.deps.json
+C:\Games\SoftUni\OOP\Exeptions\Square Root\bin\Debug\net6.0\Square Root.runtimeconfig.json
+C:\Games\SoftUni\OOP\Exeptions\Square Root\bin\Debug\net6.0\Square Root.dll
+C:\Games\SoftUni\OOP\Exeptions\Square Root\bin\Debug\net6.0\Square Root.pdb
+C:\Games\SoftUni\OOP\Exeptions\Square Root\obj\Debug\net6.0\Square Root.dll
+C:\Games\SoftUni\OOP\Exeptions\Square Root\obj\Debug\net6.0\refint\Square Root.dll
+C:\Games\SoftUni\OOP\Exeptions\Square Root\obj\Debug\net6.0\Square Root.pdb
+C:\Games\SoftUni\OOP\Exeptions\Square Root\obj\Debug\net6.0\Square Root.genruntimeconfig.cache
+C:\Games\SoftUni\OOP\Exeptions\Square Root\obj\Debug\net6.0\ref\Square Root.dll
