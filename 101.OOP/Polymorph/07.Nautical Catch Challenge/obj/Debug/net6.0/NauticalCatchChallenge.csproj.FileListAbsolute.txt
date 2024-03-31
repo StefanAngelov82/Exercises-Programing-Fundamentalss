@@ -1,0 +1,14 @@
+C:\Games\SoftUni\OOP\ExamPrep\Nautical Catch Challenge\bin\Debug\net6.0\NauticalCatchChallenge.exe
+C:\Games\SoftUni\OOP\ExamPrep\Nautical Catch Challenge\bin\Debug\net6.0\NauticalCatchChallenge.deps.json
+C:\Games\SoftUni\OOP\ExamPrep\Nautical Catch Challenge\bin\Debug\net6.0\NauticalCatchChallenge.runtimeconfig.json
+C:\Games\SoftUni\OOP\ExamPrep\Nautical Catch Challenge\bin\Debug\net6.0\NauticalCatchChallenge.dll
+C:\Games\SoftUni\OOP\ExamPrep\Nautical Catch Challenge\bin\Debug\net6.0\NauticalCatchChallenge.pdb
+C:\Games\SoftUni\OOP\ExamPrep\Nautical Catch Challenge\obj\Debug\net6.0\NauticalCatchChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\OOP\ExamPrep\Nautical Catch Challenge\obj\Debug\net6.0\NauticalCatchChallenge.AssemblyInfoInputs.cache
+C:\Games\SoftUni\OOP\ExamPrep\Nautical Catch Challenge\obj\Debug\net6.0\NauticalCatchChallenge.AssemblyInfo.cs
+C:\Games\SoftUni\OOP\ExamPrep\Nautical Catch Challenge\obj\Debug\net6.0\NauticalCatchChallenge.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\OOP\ExamPrep\Nautical Catch Challenge\obj\Debug\net6.0\NauticalCatchChallenge.dll
+C:\Games\SoftUni\OOP\ExamPrep\Nautical Catch Challenge\obj\Debug\net6.0\refint\NauticalCatchChallenge.dll
+C:\Games\SoftUni\OOP\ExamPrep\Nautical Catch Challenge\obj\Debug\net6.0\NauticalCatchChallenge.pdb
+C:\Games\SoftUni\OOP\ExamPrep\Nautical Catch Challenge\obj\Debug\net6.0\NauticalCatchChallenge.genruntimeconfig.cache
+C:\Games\SoftUni\OOP\ExamPrep\Nautical Catch Challenge\obj\Debug\net6.0\ref\NauticalCatchChallenge.dll
