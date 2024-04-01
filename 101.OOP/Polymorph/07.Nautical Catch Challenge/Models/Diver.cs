@@ -42,8 +42,11 @@ namespace NauticalCatchChallenge.Models
             get { return oxygenLevel; }
             protected set 
             {
-                if (value < 0)               
+                if (value <= 0)
+                {
+                    hasHealthIssue = true;
                     value = 0;
+                }               
                 
                 oxygenLevel = value; 
             }
@@ -53,7 +56,11 @@ namespace NauticalCatchChallenge.Models
         { get => catches.AsReadOnly() ; }       
 
         public double CompetitionPoints
-        { get { return competitionPoints; } }       
+        { get {
+                competitionPoints = Math.Ceiling(competitionPoints * 10) / 10;
+                return competitionPoints; 
+            } 
+        }       
 
         public bool HasHealthIssues ///
         { get { return hasHealthIssue; } }        
