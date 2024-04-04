@@ -1,0 +1,14 @@
+C:\Games\SoftUni\OOP\ExamPrep\HanBall\Handball\bin\Debug\net6.0\Handball.exe
+C:\Games\SoftUni\OOP\ExamPrep\HanBall\Handball\bin\Debug\net6.0\Handball.deps.json
+C:\Games\SoftUni\OOP\ExamPrep\HanBall\Handball\bin\Debug\net6.0\Handball.runtimeconfig.json
+C:\Games\SoftUni\OOP\ExamPrep\HanBall\Handball\bin\Debug\net6.0\Handball.dll
+C:\Games\SoftUni\OOP\ExamPrep\HanBall\Handball\bin\Debug\net6.0\Handball.pdb
+C:\Games\SoftUni\OOP\ExamPrep\HanBall\Handball\obj\Debug\net6.0\Handball.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\OOP\ExamPrep\HanBall\Handball\obj\Debug\net6.0\Handball.AssemblyInfoInputs.cache
+C:\Games\SoftUni\OOP\ExamPrep\HanBall\Handball\obj\Debug\net6.0\Handball.AssemblyInfo.cs
+C:\Games\SoftUni\OOP\ExamPrep\HanBall\Handball\obj\Debug\net6.0\Handball.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\OOP\ExamPrep\HanBall\Handball\obj\Debug\net6.0\Handball.dll
+C:\Games\SoftUni\OOP\ExamPrep\HanBall\Handball\obj\Debug\net6.0\refint\Handball.dll
+C:\Games\SoftUni\OOP\ExamPrep\HanBall\Handball\obj\Debug\net6.0\Handball.pdb
+C:\Games\SoftUni\OOP\ExamPrep\HanBall\Handball\obj\Debug\net6.0\Handball.genruntimeconfig.cache
+C:\Games\SoftUni\OOP\ExamPrep\HanBall\Handball\obj\Debug\net6.0\ref\Handball.dll
