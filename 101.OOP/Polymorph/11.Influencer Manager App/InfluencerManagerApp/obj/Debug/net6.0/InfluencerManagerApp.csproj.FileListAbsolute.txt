@@ -1,0 +1,14 @@
+C:\Games\SoftUni\OOP\ExamPrep\Influencer Manager App\InfluencerManagerApp\bin\Debug\net6.0\InfluencerManagerApp.exe
+C:\Games\SoftUni\OOP\ExamPrep\Influencer Manager App\InfluencerManagerApp\bin\Debug\net6.0\InfluencerManagerApp.deps.json
+C:\Games\SoftUni\OOP\ExamPrep\Influencer Manager App\InfluencerManagerApp\bin\Debug\net6.0\InfluencerManagerApp.runtimeconfig.json
+C:\Games\SoftUni\OOP\ExamPrep\Influencer Manager App\InfluencerManagerApp\bin\Debug\net6.0\InfluencerManagerApp.dll
+C:\Games\SoftUni\OOP\ExamPrep\Influencer Manager App\InfluencerManagerApp\bin\Debug\net6.0\InfluencerManagerApp.pdb
+C:\Games\SoftUni\OOP\ExamPrep\Influencer Manager App\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\OOP\ExamPrep\Influencer Manager App\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.AssemblyInfoInputs.cache
+C:\Games\SoftUni\OOP\ExamPrep\Influencer Manager App\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.AssemblyInfo.cs
+C:\Games\SoftUni\OOP\ExamPrep\Influencer Manager App\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\OOP\ExamPrep\Influencer Manager App\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.dll
+C:\Games\SoftUni\OOP\ExamPrep\Influencer Manager App\InfluencerManagerApp\obj\Debug\net6.0\refint\InfluencerManagerApp.dll
+C:\Games\SoftUni\OOP\ExamPrep\Influencer Manager App\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.pdb
+C:\Games\SoftUni\OOP\ExamPrep\Influencer Manager App\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.genruntimeconfig.cache
+C:\Games\SoftUni\OOP\ExamPrep\Influencer Manager App\InfluencerManagerApp\obj\Debug\net6.0\ref\InfluencerManagerApp.dll
