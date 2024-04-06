@@ -1,0 +1,14 @@
+C:\Games\SoftUni\OOP\UnitTesting\SM\SocialMediaManager\bin\Debug\net6.0\SocialMediaManager.exe
+C:\Games\SoftUni\OOP\UnitTesting\SM\SocialMediaManager\bin\Debug\net6.0\SocialMediaManager.deps.json
+C:\Games\SoftUni\OOP\UnitTesting\SM\SocialMediaManager\bin\Debug\net6.0\SocialMediaManager.runtimeconfig.json
+C:\Games\SoftUni\OOP\UnitTesting\SM\SocialMediaManager\bin\Debug\net6.0\SocialMediaManager.dll
+C:\Games\SoftUni\OOP\UnitTesting\SM\SocialMediaManager\bin\Debug\net6.0\SocialMediaManager.pdb
+C:\Games\SoftUni\OOP\UnitTesting\SM\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\OOP\UnitTesting\SM\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.AssemblyInfoInputs.cache
+C:\Games\SoftUni\OOP\UnitTesting\SM\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.AssemblyInfo.cs
+C:\Games\SoftUni\OOP\UnitTesting\SM\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\OOP\UnitTesting\SM\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.dll
+C:\Games\SoftUni\OOP\UnitTesting\SM\SocialMediaManager\obj\Debug\net6.0\refint\SocialMediaManager.dll
+C:\Games\SoftUni\OOP\UnitTesting\SM\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.pdb
+C:\Games\SoftUni\OOP\UnitTesting\SM\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.genruntimeconfig.cache
+C:\Games\SoftUni\OOP\UnitTesting\SM\SocialMediaManager\obj\Debug\net6.0\ref\SocialMediaManager.dll
