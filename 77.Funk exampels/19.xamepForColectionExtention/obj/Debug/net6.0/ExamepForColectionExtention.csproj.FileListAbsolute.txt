@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\functional programing\ExamepForColectionExtention\bin\Debug\net6.0\ExamepForColectionExtention.exe
+C:\Games\SoftUni\02.Checks\functional programing\ExamepForColectionExtention\bin\Debug\net6.0\ExamepForColectionExtention.deps.json
+C:\Games\SoftUni\02.Checks\functional programing\ExamepForColectionExtention\bin\Debug\net6.0\ExamepForColectionExtention.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\functional programing\ExamepForColectionExtention\bin\Debug\net6.0\ExamepForColectionExtention.dll
+C:\Games\SoftUni\02.Checks\functional programing\ExamepForColectionExtention\bin\Debug\net6.0\ExamepForColectionExtention.pdb
+C:\Games\SoftUni\02.Checks\functional programing\ExamepForColectionExtention\obj\Debug\net6.0\ExamepForColectionExtention.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\functional programing\ExamepForColectionExtention\obj\Debug\net6.0\ExamepForColectionExtention.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\functional programing\ExamepForColectionExtention\obj\Debug\net6.0\ExamepForColectionExtention.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\functional programing\ExamepForColectionExtention\obj\Debug\net6.0\ExamepForColectionExtention.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\functional programing\ExamepForColectionExtention\obj\Debug\net6.0\ExamepForColectionExtention.dll
+C:\Games\SoftUni\02.Checks\functional programing\ExamepForColectionExtention\obj\Debug\net6.0\refint\ExamepForColectionExtention.dll
+C:\Games\SoftUni\02.Checks\functional programing\ExamepForColectionExtention\obj\Debug\net6.0\ExamepForColectionExtention.pdb
+C:\Games\SoftUni\02.Checks\functional programing\ExamepForColectionExtention\obj\Debug\net6.0\ExamepForColectionExtention.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\functional programing\ExamepForColectionExtention\obj\Debug\net6.0\ref\ExamepForColectionExtention.dll
