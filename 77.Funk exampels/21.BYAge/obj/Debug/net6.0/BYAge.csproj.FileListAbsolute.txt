@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\functional programing\BYAge\bin\Debug\net6.0\BYAge.exe
+C:\Games\SoftUni\02.Checks\functional programing\BYAge\bin\Debug\net6.0\BYAge.deps.json
+C:\Games\SoftUni\02.Checks\functional programing\BYAge\bin\Debug\net6.0\BYAge.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\functional programing\BYAge\bin\Debug\net6.0\BYAge.dll
+C:\Games\SoftUni\02.Checks\functional programing\BYAge\bin\Debug\net6.0\BYAge.pdb
+C:\Games\SoftUni\02.Checks\functional programing\BYAge\obj\Debug\net6.0\BYAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\functional programing\BYAge\obj\Debug\net6.0\BYAge.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\functional programing\BYAge\obj\Debug\net6.0\BYAge.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\functional programing\BYAge\obj\Debug\net6.0\BYAge.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\functional programing\BYAge\obj\Debug\net6.0\BYAge.dll
+C:\Games\SoftUni\02.Checks\functional programing\BYAge\obj\Debug\net6.0\refint\BYAge.dll
+C:\Games\SoftUni\02.Checks\functional programing\BYAge\obj\Debug\net6.0\BYAge.pdb
+C:\Games\SoftUni\02.Checks\functional programing\BYAge\obj\Debug\net6.0\BYAge.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\functional programing\BYAge\obj\Debug\net6.0\ref\BYAge.dll
