@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\functional programing\Party Reservation Filter Module1\bin\Debug\net6.0\Party Reservation Filter Module1.exe
+C:\Games\SoftUni\02.Checks\functional programing\Party Reservation Filter Module1\bin\Debug\net6.0\Party Reservation Filter Module1.deps.json
+C:\Games\SoftUni\02.Checks\functional programing\Party Reservation Filter Module1\bin\Debug\net6.0\Party Reservation Filter Module1.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\functional programing\Party Reservation Filter Module1\bin\Debug\net6.0\Party Reservation Filter Module1.dll
+C:\Games\SoftUni\02.Checks\functional programing\Party Reservation Filter Module1\bin\Debug\net6.0\Party Reservation Filter Module1.pdb
+C:\Games\SoftUni\02.Checks\functional programing\Party Reservation Filter Module1\obj\Debug\net6.0\Party Reservation Filter Module1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\functional programing\Party Reservation Filter Module1\obj\Debug\net6.0\Party Reservation Filter Module1.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\functional programing\Party Reservation Filter Module1\obj\Debug\net6.0\Party Reservation Filter Module1.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\functional programing\Party Reservation Filter Module1\obj\Debug\net6.0\Party Reservation Filter Module1.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\functional programing\Party Reservation Filter Module1\obj\Debug\net6.0\Party Reservation Filter Module1.dll
+C:\Games\SoftUni\02.Checks\functional programing\Party Reservation Filter Module1\obj\Debug\net6.0\refint\Party Reservation Filter Module1.dll
+C:\Games\SoftUni\02.Checks\functional programing\Party Reservation Filter Module1\obj\Debug\net6.0\Party Reservation Filter Module1.pdb
+C:\Games\SoftUni\02.Checks\functional programing\Party Reservation Filter Module1\obj\Debug\net6.0\Party Reservation Filter Module1.genruntimeconfig.cache
+C:\Games\SoftUni\02.Checks\functional programing\Party Reservation Filter Module1\obj\Debug\net6.0\ref\Party Reservation Filter Module1.dll
