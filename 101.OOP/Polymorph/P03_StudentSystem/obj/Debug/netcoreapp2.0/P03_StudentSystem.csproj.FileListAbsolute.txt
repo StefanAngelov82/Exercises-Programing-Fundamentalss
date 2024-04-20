@@ -1,0 +1,13 @@
+C:\Games\SoftUni\OOP\Polymorphism\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.deps.json
+C:\Games\SoftUni\OOP\Polymorphism\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.runtimeconfig.json
+C:\Games\SoftUni\OOP\Polymorphism\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.runtimeconfig.dev.json
+C:\Games\SoftUni\OOP\Polymorphism\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.dll
+C:\Games\SoftUni\OOP\Polymorphism\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.pdb
+C:\Games\SoftUni\OOP\Polymorphism\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.csproj.AssemblyReference.cache
+C:\Games\SoftUni\OOP\Polymorphism\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\OOP\Polymorphism\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.AssemblyInfoInputs.cache
+C:\Games\SoftUni\OOP\Polymorphism\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.AssemblyInfo.cs
+C:\Games\SoftUni\OOP\Polymorphism\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\OOP\Polymorphism\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.dll
+C:\Games\SoftUni\OOP\Polymorphism\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.pdb
+C:\Games\SoftUni\OOP\Polymorphism\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.genruntimeconfig.cache
