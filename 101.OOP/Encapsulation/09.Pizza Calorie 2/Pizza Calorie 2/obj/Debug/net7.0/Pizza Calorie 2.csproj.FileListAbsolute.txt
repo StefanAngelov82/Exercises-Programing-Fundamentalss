@@ -1,0 +1,14 @@
+C:\Games\SoftUni\OOP\Encapsulation\Pizza Calorie 2\bin\Debug\net7.0\Pizza Calorie 2.exe
+C:\Games\SoftUni\OOP\Encapsulation\Pizza Calorie 2\bin\Debug\net7.0\Pizza Calorie 2.deps.json
+C:\Games\SoftUni\OOP\Encapsulation\Pizza Calorie 2\bin\Debug\net7.0\Pizza Calorie 2.runtimeconfig.json
+C:\Games\SoftUni\OOP\Encapsulation\Pizza Calorie 2\bin\Debug\net7.0\Pizza Calorie 2.dll
+C:\Games\SoftUni\OOP\Encapsulation\Pizza Calorie 2\bin\Debug\net7.0\Pizza Calorie 2.pdb
+C:\Games\SoftUni\OOP\Encapsulation\Pizza Calorie 2\obj\Debug\net7.0\Pizza Calorie 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\OOP\Encapsulation\Pizza Calorie 2\obj\Debug\net7.0\Pizza Calorie 2.AssemblyInfoInputs.cache
+C:\Games\SoftUni\OOP\Encapsulation\Pizza Calorie 2\obj\Debug\net7.0\Pizza Calorie 2.AssemblyInfo.cs
+C:\Games\SoftUni\OOP\Encapsulation\Pizza Calorie 2\obj\Debug\net7.0\Pizza Calorie 2.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\OOP\Encapsulation\Pizza Calorie 2\obj\Debug\net7.0\Pizza Calorie 2.dll
+C:\Games\SoftUni\OOP\Encapsulation\Pizza Calorie 2\obj\Debug\net7.0\refint\Pizza Calorie 2.dll
+C:\Games\SoftUni\OOP\Encapsulation\Pizza Calorie 2\obj\Debug\net7.0\Pizza Calorie 2.pdb
+C:\Games\SoftUni\OOP\Encapsulation\Pizza Calorie 2\obj\Debug\net7.0\Pizza Calorie 2.genruntimeconfig.cache
+C:\Games\SoftUni\OOP\Encapsulation\Pizza Calorie 2\obj\Debug\net7.0\ref\Pizza Calorie 2.dll
