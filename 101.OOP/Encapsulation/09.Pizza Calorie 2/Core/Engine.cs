@@ -14,15 +14,11 @@ namespace Pizza_Calorie_2.Core
 {
     public class Engine : IEngine
     {
-        public readonly IDoughFactory _doughFactory; 
-        public readonly IToppingFactory _toppingFactory;
-        public readonly IPizzaFactory _pizzaFactory;
+        private IController _controller;
 
-        public Engine(IDoughFactory doughFactory, IToppingFactory toppingFactory, IPizzaFactory pizzaFactory)
+        public Engine()
         {
-            _doughFactory = doughFactory;
-            _toppingFactory = toppingFactory;
-            _pizzaFactory = pizzaFactory;
+            _controller = new Controller();
         }
 
         public void Run()
@@ -45,7 +41,7 @@ namespace Pizza_Calorie_2.Core
                     switch (ingredient)
                     {
                         case "Dough":
-                            dough = DoughCreation(inputArg);
+                            dough = _controller.DoughCreation(inputArg);
 
                             if (pizza == null)
                                 throw new ArgumentException("Pizza is not created!");
@@ -54,7 +50,7 @@ namespace Pizza_Calorie_2.Core
                             break;
 
                         case "Topping":
-                            currentTopping = ToppingCreation(inputArg);
+                            currentTopping = _controller.ToppingCreation(inputArg);
 
                             if (pizza == null)
                                 throw new ArgumentException("Pizza is not created!");
@@ -66,7 +62,7 @@ namespace Pizza_Calorie_2.Core
                             if (pizza != null)
                                 throw new ArgumentException("Previous pizza is not done yet");
 
-                            pizza = PizzaCreation(inputArg);
+                            pizza = _controller.PizzaCreation(inputArg);
                             break;
                     }
                 }
@@ -74,34 +70,10 @@ namespace Pizza_Calorie_2.Core
                 {
 
                     Console.WriteLine(ex.Message);
-                }               
+                }
             }
 
             Console.WriteLine(pizza.ToString());
-        }
-
-        private Pizza PizzaCreation(string[] inputArg)
-        {
-           string name = inputArg[0];
-
-            return _pizzaFactory.PizzaCreator(name);
-        }
-
-        private Topping ToppingCreation(string[] inputArg)
-        {
-            string toppingType = inputArg[1];
-            double weight = double.Parse(inputArg[2]);
-
-            return _toppingFactory.ToppingCreator(toppingType, weight);
-        }
-
-        private Dough DoughCreation(string[] inputArg)
-        {
-            string doughType = inputArg[1];
-            string doughBakingTechnique = inputArg[2];
-            double weight = double.Parse(inputArg[3]);
-
-            return _doughFactory.Creator(doughType, doughBakingTechnique, weight);
         }
     }
 }

@@ -10,11 +10,8 @@ namespace Pizza_Calorie_2
     {
         static void Main(string[] args)
         {
-            IDoughFactory doughFactory = new DoughFactory();
-            IToppingFactory toppingFactory = new ToppingFactory();
-            IPizzaFactory pizzaFactory = new PizzaFactory();
-            IEngine engine = new Engine(doughFactory, toppingFactory, pizzaFactory);
-
+            
+            IEngine engine = new Engine();
             engine.Run();
         }
     }

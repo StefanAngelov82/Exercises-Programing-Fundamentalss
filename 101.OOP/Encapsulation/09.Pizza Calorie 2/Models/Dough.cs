@@ -70,10 +70,8 @@ namespace Pizza_Calorie_2.Models
             }
         }
 
-        public double Calories
-        {
-            get => CaloriesCalculator();
-        }
+        public double Calories => CaloriesCalculator();
+        
 
         private double CaloriesCalculator()
         {

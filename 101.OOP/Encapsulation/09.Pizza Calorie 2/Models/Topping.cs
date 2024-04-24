@@ -46,12 +46,8 @@ namespace Pizza_Calorie_2.Models
                 _weight = value; 
 			}
 		}
-
-        public double Calories 
-		{
-			get => CaloriesCalculator();
-		}
-
+        public double Calories => CaloriesCalculator();
+		
         private double CaloriesCalculator()
         {
 			return GlobalConstants.GlobalConstants.BASE_TOPPING_CALORIES

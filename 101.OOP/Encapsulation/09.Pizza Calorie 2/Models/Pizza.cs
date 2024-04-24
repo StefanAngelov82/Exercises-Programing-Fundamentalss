@@ -10,11 +10,11 @@ namespace Pizza_Calorie_2.Models
     {
 		private string _name;
         private List<Topping> _toppings;
-		private Dough _dough = null;
+		private Dough _dough;
 
         public Pizza(string name)
         {
-            Name = name;			
+             Name = name;			
 			_toppings = new List<Topping>();
         }
 
@@ -30,18 +30,14 @@ namespace Pizza_Calorie_2.Models
 			}
 		}	
 
-		public IReadOnlyCollection<Topping> Toppings
-		{
-			get => _toppings.AsReadOnly();			
-		}
+		public IReadOnlyCollection<Topping> Toppings => _toppings.AsReadOnly();
 
-		public Dough Dough { get => _dough;}
+		public int ToppingNumbers => _toppings.Count; 
+		
+		public Dough Dough  => _dough;
 
-        public double TotalCalories 
-		{
-			get => CaloriesCalculation();            
-		}
-
+        public double TotalCalories => CaloriesCalculation(); 
+		
         public void AddToppingOnPizza(Topping currentTopping)
 		{
 			if (_toppings.Count == 10)
@@ -54,15 +50,7 @@ namespace Pizza_Calorie_2.Models
 			_dough = currentDough;
 		}
 
-		public double CaloriesCalculation()
-		{
-			if (Dough == null) return 0;
-
-            if (_toppings.Count == 0)           
-				return _dough.Calories;            
-
-            return _dough.Calories + _toppings.Sum(x => x.Calories);
-        }
+		public double CaloriesCalculation() => _dough.Calories + _toppings.Sum(x => x.Calories);		
 
         public override string ToString()
         {
