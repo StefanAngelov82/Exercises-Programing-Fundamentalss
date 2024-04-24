@@ -10,5 +10,6 @@ namespace Pizza_Calorie_2.GlobalConstants
     public class GlobalConstants
     {
         public const int BASE_DOUGH_CALORIES = 2;
+        public const int BASE_TOPPING_CALORIES = 2;
     }
 }

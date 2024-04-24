@@ -51,7 +51,7 @@ namespace Pizza_Calorie_2.Models
             private set
             {
                 if ((string.IsNullOrWhiteSpace(value) || string.IsNullOrEmpty(value)) || ((!_backingTechniquesAndCalories.ContainsKey(value))))
-                    throw new ArgumentNullException(ExceptionMessages.ExceptionMessage);
+                    throw new ArgumentException(ExceptionMessages.ExceptionMessage);
 
                 _bakingTechnique = value;
             }
@@ -93,12 +93,7 @@ namespace Pizza_Calorie_2.Models
             _backingTechniquesAndCalories.Add("Crispy", 0.9);
             _backingTechniquesAndCalories.Add("Chewy", 1.1);
             _backingTechniquesAndCalories.Add("Homemade", 1);
-        }
-
-        public override string ToString()
-        {
-            return $"{DoughType}/{BakingTechnique}/{Weight}-->{Calories}";
-        }
+        }  
 
     }
 }

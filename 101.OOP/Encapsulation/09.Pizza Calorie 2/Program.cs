@@ -1,4 +1,8 @@
-﻿using Pizza_Calorie_2.Models;
+﻿using Pizza_Calorie_2.Core;
+using Pizza_Calorie_2.Core.Interface;
+using Pizza_Calorie_2.Factories;
+using Pizza_Calorie_2.Factories.Interface;
+using Pizza_Calorie_2.Models;
 
 namespace Pizza_Calorie_2
 {
@@ -6,12 +10,12 @@ namespace Pizza_Calorie_2
     {
         static void Main(string[] args)
         {
-            Dough dough = new Dough("Wholegrain", "Homemade", 100);
+            IDoughFactory doughFactory = new DoughFactory();
+            IToppingFactory toppingFactory = new ToppingFactory();
+            IPizzaFactory pizzaFactory = new PizzaFactory();
+            IEngine engine = new Engine(doughFactory, toppingFactory, pizzaFactory);
 
-            //double cal = dough.Calories * dough.Weight;
-
-            Console.WriteLine(dough.ToString());
-
+            engine.Run();
         }
     }
 }
