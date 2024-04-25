@@ -48,5 +48,6 @@ namespace Pizza_Calorie_2.Core
 
             return _toppingFactory.ToppingCreator(toppingType, weight);
         }
+
     }
 }

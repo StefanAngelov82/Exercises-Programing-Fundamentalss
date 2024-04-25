@@ -41,28 +41,15 @@ namespace Pizza_Calorie_2.Core
                     switch (ingredient)
                     {
                         case "Dough":
-                            dough = _controller.DoughCreation(inputArg);
-
-                            if (pizza == null)
-                                throw new ArgumentException("Pizza is not created!");
-
-                            pizza.AddDoughOnPizza(dough);
+                            dough = DoughUsage(pizza, inputArg);
                             break;
 
                         case "Topping":
-                            currentTopping = _controller.ToppingCreation(inputArg);
-
-                            if (pizza == null)
-                                throw new ArgumentException("Pizza is not created!");
-
-                            pizza.AddToppingOnPizza(currentTopping);
+                            currentTopping = ToppingsUsage(pizza, inputArg);
                             break;
 
                         case "Pizza":
-                            if (pizza != null)
-                                throw new ArgumentException("Previous pizza is not done yet");
-
-                            pizza = _controller.PizzaCreation(inputArg);
+                            pizza = PizzaPreparation(pizza, inputArg);
                             break;
                     }
                 }
@@ -74,6 +61,35 @@ namespace Pizza_Calorie_2.Core
             }
 
             Console.WriteLine(pizza.ToString());
+        }
+
+        private Pizza PizzaPreparation(Pizza pizza, string[] inputArg)
+        {
+            if (pizza != null)
+                throw new ArgumentException("Previous pizza is not done yet");
+
+            pizza = _controller.PizzaCreation(inputArg);
+            return pizza;
+        }
+
+        private Topping ToppingsUsage(Pizza pizza, string[] inputArg)
+        {
+            Topping currentTopping = _controller.ToppingCreation(inputArg);
+            if (pizza == null)
+                throw new ArgumentException("Pizza is not created!");
+
+            pizza.AddToppingOnPizza(currentTopping);
+            return currentTopping;
+        }
+
+        private Dough DoughUsage(Pizza pizza, string[] inputArg)
+        {
+            Dough dough = _controller.DoughCreation(inputArg);
+            if (pizza == null)
+                throw new ArgumentException("Pizza is not created!");
+
+            pizza.AddDoughOnPizza(dough);
+            return dough;
         }
     }
 }
