@@ -1,0 +1,14 @@
+C:\Games\SoftUni\OOP\Encapsulation\Football Team Generator\bin\Debug\net7.0\Football Team Generator.exe
+C:\Games\SoftUni\OOP\Encapsulation\Football Team Generator\bin\Debug\net7.0\Football Team Generator.deps.json
+C:\Games\SoftUni\OOP\Encapsulation\Football Team Generator\bin\Debug\net7.0\Football Team Generator.runtimeconfig.json
+C:\Games\SoftUni\OOP\Encapsulation\Football Team Generator\bin\Debug\net7.0\Football Team Generator.dll
+C:\Games\SoftUni\OOP\Encapsulation\Football Team Generator\bin\Debug\net7.0\Football Team Generator.pdb
+C:\Games\SoftUni\OOP\Encapsulation\Football Team Generator\obj\Debug\net7.0\Football Team Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\OOP\Encapsulation\Football Team Generator\obj\Debug\net7.0\Football Team Generator.AssemblyInfoInputs.cache
+C:\Games\SoftUni\OOP\Encapsulation\Football Team Generator\obj\Debug\net7.0\Football Team Generator.AssemblyInfo.cs
+C:\Games\SoftUni\OOP\Encapsulation\Football Team Generator\obj\Debug\net7.0\Football Team Generator.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\OOP\Encapsulation\Football Team Generator\obj\Debug\net7.0\Football Team Generator.dll
+C:\Games\SoftUni\OOP\Encapsulation\Football Team Generator\obj\Debug\net7.0\refint\Football Team Generator.dll
+C:\Games\SoftUni\OOP\Encapsulation\Football Team Generator\obj\Debug\net7.0\Football Team Generator.pdb
+C:\Games\SoftUni\OOP\Encapsulation\Football Team Generator\obj\Debug\net7.0\Football Team Generator.genruntimeconfig.cache
+C:\Games\SoftUni\OOP\Encapsulation\Football Team Generator\obj\Debug\net7.0\ref\Football Team Generator.dll

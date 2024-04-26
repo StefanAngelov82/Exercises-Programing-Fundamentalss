@@ -46,8 +46,7 @@ namespace Football_Team_Generator.Models
                 return Messages.RemovingPlayerFromTeamSuccesses;
 
             return string.Format(Messages.RemovingPlayerFromTeamFail, player.Name);                
-        }
-            
+        }           
         
     }
 }
