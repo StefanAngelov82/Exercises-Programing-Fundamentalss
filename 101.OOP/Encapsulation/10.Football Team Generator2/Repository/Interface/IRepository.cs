@@ -8,7 +8,7 @@ namespace Football_Team_Generator.Repository.Interface
 {
     public interface IRepository<T>
     {
-        public IReadOnlyCollection<T> TeamRepository { get; }
+        public IReadOnlyCollection<T> TeamCollection { get; }
 
         public void AddToRepository(T team);
         public T GetFromRepository(string name);

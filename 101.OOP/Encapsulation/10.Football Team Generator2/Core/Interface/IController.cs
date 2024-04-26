@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Football_Team_Generator.Repository
+namespace Football_Team_Generator.Core.Interface
 {
-    internal class Repository
+    public interface IController
     {
     }
 }

@@ -30,15 +30,14 @@ namespace Football_Team_Generator.Models
             }
         }
 
-        public int Rating => (int)_players.Average(x => x.OverallSkill);
+        public int Rating => (_players.Count > 0) ? (int)_players.Average(x => x.OverallSkill) : 0;
 
         public string AddPlayer(Players player)
         {
             _players.Add(player);
 
             return string.Format(Messages.AddingPlayerInTeam, player.Name);
-        }
-              
+        }              
 
         public string RemovePlayer(Players player)
         {

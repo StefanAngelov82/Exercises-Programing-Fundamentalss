@@ -9,6 +9,13 @@ namespace Football_Team_Generator.Core
 {
     public class Engine : IEngine
     {
+        private IController _controller;
+
+        public Engine()
+        {
+            _controller = new Controller();
+        }
+
         public void Run()
         {
             throw new NotImplementedException();
