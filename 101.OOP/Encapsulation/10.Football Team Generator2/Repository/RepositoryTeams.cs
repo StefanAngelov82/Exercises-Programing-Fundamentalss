@@ -10,7 +10,12 @@ namespace Football_Team_Generator.Repository
 {
     public class RepositoryTeams : IRepository<FootballTeam>
     {
-        private List<FootballTeam> _teams;       
+        private List<FootballTeam> _teams;
+
+        public RepositoryTeams()
+        {
+            _teams = new List<FootballTeam>();
+        }
 
         public IReadOnlyCollection<FootballTeam> TeamCollection => _teams.AsReadOnly();
 

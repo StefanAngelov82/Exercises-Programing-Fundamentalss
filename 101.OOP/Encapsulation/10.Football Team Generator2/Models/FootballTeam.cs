@@ -32,6 +32,8 @@ namespace Football_Team_Generator.Models
 
         public int Rating => (_players.Count > 0) ? (int)_players.Average(x => x.OverallSkill) : 0;
 
+        public IReadOnlyCollection<Players> TeamPlayers => _players.AsReadOnly();
+
         public string AddPlayer(Players player)
         {
             _players.Add(player);

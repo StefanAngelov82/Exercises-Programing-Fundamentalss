@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Football_Team_Generator.Factory
 {
-    public class Factory : IFactory
+    public class FactoryModel : IFactory
     {
         public Players PlayerCreator(string name, int endurance, int sprint, int dribble, int passing, int shooting)
             => new Players(name, endurance, sprint, dribble, passing, shooting);
