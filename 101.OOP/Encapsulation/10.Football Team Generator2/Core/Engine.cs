@@ -1,11 +1,15 @@
 ﻿using Football_Team_Generator.Core.Interface;
+using Football_Team_Generator.Factory;
 using Football_Team_Generator.IO;
 using Football_Team_Generator.IO.Interface;
+using Football_Team_Generator.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
+using static Football_Team_Generator.Models.Players;
 
 namespace Football_Team_Generator.Core
 {
@@ -35,7 +39,7 @@ namespace Football_Team_Generator.Core
 
                 try
                 {
-                    ExecuteCommand(inputArg, command);
+                    ExecuteCommand(inputArg, command);                    
                 }
                 catch (Exception ex)
                 {
@@ -61,7 +65,9 @@ namespace Football_Team_Generator.Core
                     break;
 
                 case "Rating":
-                    GenerateRequiredData(inputArg);
+                    GenerateRequiredData(inputArg);                   
+                    
+
                     break;
 
                 default:

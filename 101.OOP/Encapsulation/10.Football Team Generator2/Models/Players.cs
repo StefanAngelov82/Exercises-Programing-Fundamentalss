@@ -1,6 +1,7 @@
 ﻿using Football_Team_Generator.Utilities;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Security.Cryptography.X509Certificates;
 
 namespace Football_Team_Generator.Models
@@ -13,7 +14,7 @@ namespace Football_Team_Generator.Models
         public Players(string name, int endurance, int sprint, int dribble, int passing, int shooting)
         {
             Name = name;
-            _stats = Stats.CreateStats(endurance, sprint, dribble, passing, shooting);            
+            _stats = new Stats(endurance, sprint, dribble, passing, shooting);           
         }
 
         public string Name
@@ -50,7 +51,7 @@ namespace Football_Team_Generator.Models
             private int _passing;
             private int _shooting;
 
-            private Stats(int endurance, int sprint, int dribble, int passing, int shooting)
+            public Stats(int endurance, int sprint, int dribble, int passing, int shooting)
             {
                 Endurance = endurance;
                 Sprint = sprint;
@@ -64,9 +65,7 @@ namespace Football_Team_Generator.Models
                 get => _endurance;
                 private set
                 {
-                    if (CheckValue(value))
-                        throw new ArgumentOutOfRangeException(string.Format(
-                            ExceptionMessages.WrongStatsValues, nameof(Endurance)));
+                    Utilities.Validator.ValidateValue(value, nameof(Endurance));
 
                     _endurance = value;
                 }
@@ -77,9 +76,7 @@ namespace Football_Team_Generator.Models
                 get => _sprint;
                 private set
                 {
-                    if (CheckValue(value))
-                        throw new ArgumentOutOfRangeException(string.Format(
-                            ExceptionMessages.WrongStatsValues, nameof(Sprint)));
+                    Utilities.Validator.ValidateValue(value, nameof(Sprint));
 
                     _sprint = value;
                 }
@@ -89,9 +86,7 @@ namespace Football_Team_Generator.Models
                 get => _dribble;
                 private set
                 {
-                    if (CheckValue(value))
-                        throw new ArgumentOutOfRangeException(string.Format(
-                            ExceptionMessages.WrongStatsValues, nameof(Dribble)));
+                    Utilities.Validator.ValidateValue(value, nameof(Dribble));
 
                     _dribble = value;
                 }
@@ -102,9 +97,7 @@ namespace Football_Team_Generator.Models
                 get => _passing;
                 private set
                 {
-                    if (CheckValue(value))
-                        throw new ArgumentOutOfRangeException(string.Format(
-                            ExceptionMessages.WrongStatsValues, nameof(Passing)));
+                    Utilities.Validator.ValidateValue(value, nameof(Passing));
 
                     _passing = value;
                 }
@@ -115,28 +108,18 @@ namespace Football_Team_Generator.Models
                 get => _shooting;
                 private set
                 {
-                    if (CheckValue(value))
-                        throw new ArgumentOutOfRangeException(string.Format(
-                            ExceptionMessages.WrongStatsValues, nameof(Shooting)));
+                    Utilities.Validator.ValidateValue(value, nameof(Shooting));
 
                     _shooting = value;
                 }
-            }
-
-            private bool CheckValue(int value)
-                => value < 0 || value > 100;
+            }            
 
             public double OverallStats()
                 => (Endurance + Sprint + Dribble + Passing + Shooting) / 5.00;
 
             public override string ToString()            
                 => $"(Endurance - {Endurance}, Sprint {Sprint}, Dribble {Dribble}, Passing {Passing}, Shooting {Shooting})";
-
-            public static Stats CreateStats(int endurance, int sprint, int dribble, int passing, int shooting)
-            {
-                return new Stats(endurance, sprint, dribble, passing, shooting);
-            }
+            
         }
-
     }
 }

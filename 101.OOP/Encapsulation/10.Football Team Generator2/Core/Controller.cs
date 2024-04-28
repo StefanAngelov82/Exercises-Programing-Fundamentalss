@@ -5,12 +5,6 @@ using Football_Team_Generator.Models;
 using Football_Team_Generator.Repository;
 using Football_Team_Generator.Repository.Interface;
 using Football_Team_Generator.Utilities;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Reflection;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Football_Team_Generator.Core
 {
