@@ -32,6 +32,7 @@ namespace Military_Elite2.Factory
 
                 case SoldierType.Spy:
                     return new Spy(id, firsName, lastName, (int)salary);
+
                 default:
                     return null;
             }
