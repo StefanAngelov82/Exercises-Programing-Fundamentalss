@@ -16,9 +16,9 @@ namespace Military_Elite2.Models
 
         public IReadOnlyCollection<KeyValuePair<string, int>> Repairs => _repair; 
 
-        public void AddRepairs(string partName, int ours)
+        public void AddRepairs(string partName, int hours)
         {
-            _repair.Add(new KeyValuePair<string, int>(partName, ours));
+            _repair.Add(new KeyValuePair<string, int>(partName, hours));
         }
 
         public override string ToString()

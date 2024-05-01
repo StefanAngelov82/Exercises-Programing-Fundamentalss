@@ -45,6 +45,8 @@ namespace Military_Elite2.Core
                     }
                 }
             }
+
+            writer.Write(controller.PrintData());
         }
 
         private void ProcessingInputData(string[] inputArg, string soldierType)

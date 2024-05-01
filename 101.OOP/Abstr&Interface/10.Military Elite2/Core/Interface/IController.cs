@@ -15,6 +15,8 @@ namespace Military_Elite2.Core.Interface
         public void GenerateCommando(string[] inputArg);
         public void GenerateSpy(string[] inputArg);
 
+        public string PrintData();
+
 
     }
 }

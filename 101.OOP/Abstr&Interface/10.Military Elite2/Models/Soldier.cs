@@ -35,7 +35,7 @@ namespace Military_Elite2.Models
 
         public override string ToString()
         {
-            return $"Name: {FirstName} {LastName} Id: {Id}>";
+            return $"Name: {FirstName} {LastName} Id: {Id} ";
         }
     }
 }

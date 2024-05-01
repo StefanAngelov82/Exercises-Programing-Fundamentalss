@@ -31,7 +31,7 @@ namespace Military_Elite2.Factory
                     return new Commando(id, firsName, lastName, salary, corps);
 
                 case SoldierType.Spy:
-                    return new Spy(id, firsName, lastName, (int)salary);
+                    return new Spy(id, firsName, lastName, salary);
 
                 default:
                     return null;
