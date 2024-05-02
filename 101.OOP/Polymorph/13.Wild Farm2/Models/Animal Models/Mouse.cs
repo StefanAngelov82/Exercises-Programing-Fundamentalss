@@ -17,11 +17,11 @@ namespace Wild_Farm2.Models.Animal_Models
         {
         }
 
-        public override void Eat(IFood food)
+        public override void Eat(IFood? food)
         {
             if (food is Vegetable || food is Fruit)
             {
-                Weight = GlobalConstants.Mouse_Multiplier * food.Quantity;
+                Weight += GlobalConstants.Mouse_Multiplier * food.Quantity;
                 FoodEaten += food.Quantity;
             }
             else

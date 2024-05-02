@@ -1,0 +1,14 @@
+C:\Games\SoftUni\OOP\Polymorphism\Wild Farm2\bin\Debug\net7.0\Wild Farm2.exe
+C:\Games\SoftUni\OOP\Polymorphism\Wild Farm2\bin\Debug\net7.0\Wild Farm2.deps.json
+C:\Games\SoftUni\OOP\Polymorphism\Wild Farm2\bin\Debug\net7.0\Wild Farm2.runtimeconfig.json
+C:\Games\SoftUni\OOP\Polymorphism\Wild Farm2\bin\Debug\net7.0\Wild Farm2.dll
+C:\Games\SoftUni\OOP\Polymorphism\Wild Farm2\bin\Debug\net7.0\Wild Farm2.pdb
+C:\Games\SoftUni\OOP\Polymorphism\Wild Farm2\obj\Debug\net7.0\Wild Farm2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\OOP\Polymorphism\Wild Farm2\obj\Debug\net7.0\Wild Farm2.AssemblyInfoInputs.cache
+C:\Games\SoftUni\OOP\Polymorphism\Wild Farm2\obj\Debug\net7.0\Wild Farm2.AssemblyInfo.cs
+C:\Games\SoftUni\OOP\Polymorphism\Wild Farm2\obj\Debug\net7.0\Wild Farm2.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\OOP\Polymorphism\Wild Farm2\obj\Debug\net7.0\Wild Farm2.dll
+C:\Games\SoftUni\OOP\Polymorphism\Wild Farm2\obj\Debug\net7.0\refint\Wild Farm2.dll
+C:\Games\SoftUni\OOP\Polymorphism\Wild Farm2\obj\Debug\net7.0\Wild Farm2.pdb
+C:\Games\SoftUni\OOP\Polymorphism\Wild Farm2\obj\Debug\net7.0\Wild Farm2.genruntimeconfig.cache
+C:\Games\SoftUni\OOP\Polymorphism\Wild Farm2\obj\Debug\net7.0\ref\Wild Farm2.dll

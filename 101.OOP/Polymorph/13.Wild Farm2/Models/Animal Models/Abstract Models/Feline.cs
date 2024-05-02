@@ -17,7 +17,7 @@ namespace Wild_Farm2.Models.Animal_Models.Abstract_Models
 
         public override string ToString()
         {
-            return $"{GetType().Name} [{Name}, {Breed}, {Weight}, {LivingRegion}, {FoodEaten}";
+            return $"{GetType().Name} [{Name}, {Breed}, {Weight}, {LivingRegion}, {FoodEaten}]";
         }
     }
 }

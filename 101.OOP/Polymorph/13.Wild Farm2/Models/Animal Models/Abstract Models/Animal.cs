@@ -18,7 +18,7 @@ namespace Wild_Farm2.Models.Animal_Models.Abstract_Models
 
         public string Name { get; }
         public double Weight { get; protected set; }
-        public int FoodEaten { get; protected set}
+        public int FoodEaten { get; protected set; }
 
         public abstract string ProducingSound(); 
 

@@ -16,9 +16,9 @@ namespace Wild_Farm2.Models.Animal_Models
         {
         }
 
-        public override void Eat(IFood food)
+        public override void Eat(IFood? food)
         {
-            Weight = GlobalConstants.Hen_Multiplier * food.Quantity;
+            Weight += GlobalConstants.Hen_Multiplier * food.Quantity;
             FoodEaten += food.Quantity;
         }
 
