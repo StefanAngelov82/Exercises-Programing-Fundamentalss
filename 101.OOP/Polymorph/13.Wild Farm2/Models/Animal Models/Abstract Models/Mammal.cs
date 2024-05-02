@@ -8,12 +8,17 @@ namespace Wild_Farm2.Models.Animal_Models.Abstract_Models
 {
     public abstract class Mammal : Animal
     {
-        protected Mammal(string name, double weight, int foodEaten, string livingRegion)
-            : base(name, weight, foodEaten)
+        protected Mammal(string name, double weight, string livingRegion)
+            : base(name, weight)
         {
             LivingRegion = livingRegion;
         }
         public string LivingRegion { get; }
-       
+
+        public override string ToString()
+        {
+            return base.ToString() + $"{Weight}, {LivingRegion}, {FoodEaten}] ";
+        }
+
     }
 }
