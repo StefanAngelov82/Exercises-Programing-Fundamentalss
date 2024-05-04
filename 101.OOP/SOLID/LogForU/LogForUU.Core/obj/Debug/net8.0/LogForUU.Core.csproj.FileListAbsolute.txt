@@ -1,0 +1,11 @@
+C:\Games\SoftUni\OOP\SOLID\LogForUU.Core\bin\Debug\net8.0\LogForUU.Core.deps.json
+C:\Games\SoftUni\OOP\SOLID\LogForUU.Core\bin\Debug\net8.0\LogForUU.Core.dll
+C:\Games\SoftUni\OOP\SOLID\LogForUU.Core\bin\Debug\net8.0\LogForUU.Core.pdb
+C:\Games\SoftUni\OOP\SOLID\LogForUU.Core\obj\Debug\net8.0\LogForUU.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\OOP\SOLID\LogForUU.Core\obj\Debug\net8.0\LogForUU.Core.AssemblyInfoInputs.cache
+C:\Games\SoftUni\OOP\SOLID\LogForUU.Core\obj\Debug\net8.0\LogForUU.Core.AssemblyInfo.cs
+C:\Games\SoftUni\OOP\SOLID\LogForUU.Core\obj\Debug\net8.0\LogForUU.Core.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\OOP\SOLID\LogForUU.Core\obj\Debug\net8.0\LogForUU.Core.dll
+C:\Games\SoftUni\OOP\SOLID\LogForUU.Core\obj\Debug\net8.0\refint\LogForUU.Core.dll
+C:\Games\SoftUni\OOP\SOLID\LogForUU.Core\obj\Debug\net8.0\LogForUU.Core.pdb
+C:\Games\SoftUni\OOP\SOLID\LogForUU.Core\obj\Debug\net8.0\ref\LogForUU.Core.dll
