@@ -1,0 +1,14 @@
+C:\Games\SoftUni\OOP\Reflection\HarvestfieldsDemo\bin\Debug\net8.0\HarvestfieldsDemo.exe
+C:\Games\SoftUni\OOP\Reflection\HarvestfieldsDemo\bin\Debug\net8.0\HarvestfieldsDemo.deps.json
+C:\Games\SoftUni\OOP\Reflection\HarvestfieldsDemo\bin\Debug\net8.0\HarvestfieldsDemo.runtimeconfig.json
+C:\Games\SoftUni\OOP\Reflection\HarvestfieldsDemo\bin\Debug\net8.0\HarvestfieldsDemo.dll
+C:\Games\SoftUni\OOP\Reflection\HarvestfieldsDemo\bin\Debug\net8.0\HarvestfieldsDemo.pdb
+C:\Games\SoftUni\OOP\Reflection\HarvestfieldsDemo\obj\Debug\net8.0\HarvestfieldsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\OOP\Reflection\HarvestfieldsDemo\obj\Debug\net8.0\HarvestfieldsDemo.AssemblyInfoInputs.cache
+C:\Games\SoftUni\OOP\Reflection\HarvestfieldsDemo\obj\Debug\net8.0\HarvestfieldsDemo.AssemblyInfo.cs
+C:\Games\SoftUni\OOP\Reflection\HarvestfieldsDemo\obj\Debug\net8.0\HarvestfieldsDemo.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\OOP\Reflection\HarvestfieldsDemo\obj\Debug\net8.0\HarvestfieldsDemo.dll
+C:\Games\SoftUni\OOP\Reflection\HarvestfieldsDemo\obj\Debug\net8.0\refint\HarvestfieldsDemo.dll
+C:\Games\SoftUni\OOP\Reflection\HarvestfieldsDemo\obj\Debug\net8.0\HarvestfieldsDemo.pdb
+C:\Games\SoftUni\OOP\Reflection\HarvestfieldsDemo\obj\Debug\net8.0\HarvestfieldsDemo.genruntimeconfig.cache
+C:\Games\SoftUni\OOP\Reflection\HarvestfieldsDemo\obj\Debug\net8.0\ref\HarvestfieldsDemo.dll
