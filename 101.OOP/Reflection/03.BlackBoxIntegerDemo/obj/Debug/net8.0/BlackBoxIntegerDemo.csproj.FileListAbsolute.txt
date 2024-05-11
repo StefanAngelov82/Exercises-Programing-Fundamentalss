@@ -1,0 +1,14 @@
+C:\Games\SoftUni\OOP\Reflection\BlackBoxIntegerDemo\bin\Debug\net8.0\BlackBoxIntegerDemo.exe
+C:\Games\SoftUni\OOP\Reflection\BlackBoxIntegerDemo\bin\Debug\net8.0\BlackBoxIntegerDemo.deps.json
+C:\Games\SoftUni\OOP\Reflection\BlackBoxIntegerDemo\bin\Debug\net8.0\BlackBoxIntegerDemo.runtimeconfig.json
+C:\Games\SoftUni\OOP\Reflection\BlackBoxIntegerDemo\bin\Debug\net8.0\BlackBoxIntegerDemo.dll
+C:\Games\SoftUni\OOP\Reflection\BlackBoxIntegerDemo\bin\Debug\net8.0\BlackBoxIntegerDemo.pdb
+C:\Games\SoftUni\OOP\Reflection\BlackBoxIntegerDemo\obj\Debug\net8.0\BlackBoxIntegerDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\OOP\Reflection\BlackBoxIntegerDemo\obj\Debug\net8.0\BlackBoxIntegerDemo.AssemblyInfoInputs.cache
+C:\Games\SoftUni\OOP\Reflection\BlackBoxIntegerDemo\obj\Debug\net8.0\BlackBoxIntegerDemo.AssemblyInfo.cs
+C:\Games\SoftUni\OOP\Reflection\BlackBoxIntegerDemo\obj\Debug\net8.0\BlackBoxIntegerDemo.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\OOP\Reflection\BlackBoxIntegerDemo\obj\Debug\net8.0\BlackBoxIntegerDemo.dll
+C:\Games\SoftUni\OOP\Reflection\BlackBoxIntegerDemo\obj\Debug\net8.0\refint\BlackBoxIntegerDemo.dll
+C:\Games\SoftUni\OOP\Reflection\BlackBoxIntegerDemo\obj\Debug\net8.0\BlackBoxIntegerDemo.pdb
+C:\Games\SoftUni\OOP\Reflection\BlackBoxIntegerDemo\obj\Debug\net8.0\BlackBoxIntegerDemo.genruntimeconfig.cache
+C:\Games\SoftUni\OOP\Reflection\BlackBoxIntegerDemo\obj\Debug\net8.0\ref\BlackBoxIntegerDemo.dll
