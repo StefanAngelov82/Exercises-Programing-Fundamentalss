@@ -11,7 +11,7 @@ namespace SoftUni
         {
             SoftUniContext context = new SoftUniContext();
             
-            Console.WriteLine(GetEmployeesInPeriod(context));
+            Console.WriteLine(GetEmployee147(context));
 
         }
         public static string aaAddNewAddressToEmployee(SoftUniContext context)
@@ -159,6 +159,63 @@ namespace SoftUni
             }
             return sb.ToString().Trim();
         }
+
+        public static string GetAddressesByTown(SoftUniContext context)
+        {
+            StringBuilder sb = new();
+
+            foreach(var address in context.Addresses
+                .OrderByDescending(a => a.Employees.Count())
+                .ThenBy(a => a.Town.Name)
+                .ThenBy(a =>a.AddressText)
+                .Select(ad => new
+                {
+                    ExactAddress = ad.AddressText,
+                    TownName = ad.Town.Name,
+                    EmployeeCount = ad.Employees.Count()
+                })
+                .Take(10)                
+                .ToList()) 
+            {
+                sb.AppendLine($"{address.ExactAddress}, {address.TownName} - {address.EmployeeCount} employees"); 
+            }
+            return sb.ToString().Trim();
+        }
+
+
+        public static string GetEmployee147(SoftUniContext context)
+        {
+            StringBuilder sb = new();
+
+             var result = context.Employees
+                            .Where(e => e.EmployeeId == 147)
+                            .Select (e => new
+                            {
+                                e.FirstName,
+                                e.LastName,
+                                e.JobTitle,
+                                Projects = e.EmployeesProjects
+                                                .Select(p => new
+                                                {
+                                                    p.Project.Name
+                                                })
+
+                            }).ToList();
+
+            foreach (var emp in result)
+            {
+                sb.AppendLine($"{emp.FirstName} {emp.LastName} - {emp.JobTitle}");
+
+                foreach (var proj in emp.Projects.OrderBy(p =>p.Name))
+                {
+                    sb.AppendLine($"{proj.Name}");
+                }
+            }
+
+            return sb.ToString().Trim();
+        }
+
+        
     }
 
     
