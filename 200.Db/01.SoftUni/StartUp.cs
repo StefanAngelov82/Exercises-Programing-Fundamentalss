@@ -11,7 +11,7 @@ namespace SoftUni
         {
             SoftUniContext context = new SoftUniContext();
             
-            Console.WriteLine(GetDepartmentsWithMoreThan5Employees(context));
+            Console.WriteLine(GetLatestProjects(context));
 
         }
         public static string aaAddNewAddressToEmployee(SoftUniContext context)
@@ -244,7 +244,29 @@ namespace SoftUni
             return sb.ToString().Trim();
         }
 
+        public static string GetLatestProjects(SoftUniContext context)
+        {
+            StringBuilder sb = new();
 
+
+            foreach (var project in context.Projects
+                    .OrderByDescending(p => p.StartDate)
+                    .Take(10)
+                    .OrderBy(p => p.Name)
+                    .Select(p => new 
+                    {
+                        p.Name,
+                        p.Description,
+                        p.StartDate
+                    }).ToList())
+            {
+                sb.AppendLine($"{project.Name}");
+                sb.AppendLine($"{project.Description}");
+                sb.AppendLine($"{project.StartDate}");
+            }
+
+            return sb.ToString().Trim();
+        }
 
     }
 
