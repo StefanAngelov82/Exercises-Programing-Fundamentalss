@@ -12,7 +12,7 @@ namespace SoftUni
         {
             SoftUniContext context = new SoftUniContext();
             
-            Console.WriteLine(GetEmployeesByFirstNameStartingWithSa(context));
+            Console.WriteLine(RemoveTown(context));
 
         }
         public static string aaAddNewAddressToEmployee(SoftUniContext context)
@@ -296,12 +296,12 @@ namespace SoftUni
 
             var employees = context.Employees
                 .Where(x => x.FirstName.StartsWith("Sa"))
-                .Select(x => new 
+                .Select(x => new
                 {
-                     x.FirstName,
-                     x.LastName,
-                     x.JobTitle,
-                     x.Salary
+                    x.FirstName,
+                    x.LastName,
+                    x.JobTitle,
+                    x.Salary
                 }
                 )
                 .OrderBy(x => x.FirstName)
@@ -314,8 +314,41 @@ namespace SoftUni
             }
 
             return sb.ToString().TrimEnd();
+
         }
 
+
+        public static string RemoveTown(SoftUniContext context)
+        {
+            var seatlleAddresses = context.Addresses
+                    .Where(a => a.Town.Name == "Seattle")
+                    .ToList();
+
+            var employeesInSeatle = context.Employees
+                .ToList()
+                .Where(e => seatlleAddresses.Any(a => a.AddressId == e.AddressId))
+                .ToList();
+
+            foreach (var emp in employeesInSeatle)
+            {
+                emp.AddressId = null;
+            }
+
+            context.Addresses.RemoveRange(seatlleAddresses);            
+
+            var townSeatTle = context.Towns.First(t =>t.Name == "Seattle");
+
+            context.Towns.Remove(townSeatTle);
+
+            context.SaveChanges();
+
+            return $"{seatlleAddresses.Count} addresses in Seattle were deleted";
+        }
+
+        public static string DeleteProjectById(SoftUniContext context)
+        {
+
+        }
     }
 
     
