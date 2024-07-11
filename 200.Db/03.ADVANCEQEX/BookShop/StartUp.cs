@@ -7,6 +7,7 @@
     using System;
     using System.Data;
     using System.Diagnostics.CodeAnalysis;
+    using System.Globalization;
     using System.Linq.Expressions;
     using System.Text;
     using static Microsoft.EntityFrameworkCore.DbLoggerCategory.Database;
@@ -18,7 +19,7 @@
             using var db = new BookShopContext();
             //DbInitializer.ResetDatabase(db);
 
-            Console.WriteLine(GetBooksByCategory(db, "horror mystery drama"));
+            Console.WriteLine(GetBookTitlesContaining(db, "sK"));
         }
 
         public static string GetBooksByAgeRestriction(BookShopContext context, string command)
@@ -140,6 +141,55 @@
             {
                 return bc => givenCategory.Contains(bc.Category.Name);
             }
+        }
+
+        public static string GetBooksReleasedBefore(BookShopContext context, string date)
+        {
+            var datetime = DateTime.ParseExact(date, "dd-MM-yyyy", CultureInfo.InvariantCulture);
+
+            var books = context.Books
+                .Where(b =>b.ReleaseDate < datetime)
+                .Select(b => new
+                {
+                    RelDate = b.ReleaseDate,
+                    BookTitle =  b.Title,
+                    EdType = b.EditionType,
+                    Price = b.Price
+
+                })
+                .OrderByDescending(b =>b.RelDate)
+                .ToList();
+
+
+            StringBuilder sb = new StringBuilder();
+
+            foreach (var book in books)
+                sb.AppendLine($"{book.BookTitle} - {book.EdType} - ${book.Price:F2}");
+
+            return sb.ToString().Trim();
+        }
+
+        public static string GetAuthorNamesEndingIn(BookShopContext context, string input)
+        {
+            var authors = context.Authors
+                .Where(a => a.FirstName.EndsWith(input))
+                .Select(a => $"{a.FirstName} {a.LastName}")
+                .ToList()
+                .OrderBy(z => z);
+
+            return string.Join(Environment.NewLine, authors);            
+        }
+
+        public static string GetBookTitlesContaining(BookShopContext context, string input)
+        {
+            var books = context.Books
+                .Where(b => b.Title.ToLower().Contains(input.ToLower()))
+                .Select(b => b.Title)
+                .OrderBy(t =>t)
+                .ToList();
+
+                return string.Join(Environment.NewLine, books);
+
         }
     }
 }
