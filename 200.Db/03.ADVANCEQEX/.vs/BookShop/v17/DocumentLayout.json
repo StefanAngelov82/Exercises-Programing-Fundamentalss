@@ -18,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,7 +32,7 @@
               "RelativeDocumentMoniker": "BookShop\\StartUp.cs",
               "ToolTip": "C:\\Games\\SoftUni\\DB\\ADVANCEQEX\\BookShop\\StartUp.cs",
               "RelativeToolTip": "BookShop\\StartUp.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAowEYAAAAJAAAA",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAcwIoAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-10T17:40:07.363Z",
               "EditorCaption": ""
@@ -43,12 +47,7 @@
               "RelativeToolTip": "BookShop.Data\\Configuration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T17:24:04.848Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "WhenOpened": "2024-07-10T17:24:04.848Z"
             }
           ]
         }
