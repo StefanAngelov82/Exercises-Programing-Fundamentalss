@@ -19,7 +19,7 @@
             using var db = new BookShopContext();
             //DbInitializer.ResetDatabase(db);
 
-            Console.WriteLine(GetBookTitlesContaining(db, "sK"));
+            Console.WriteLine(GetBooksByCategory(db, "horror mystery drama"));
         }
 
         public static string GetBooksByAgeRestriction(BookShopContext context, string command)
@@ -118,7 +118,7 @@
             return sb.ToString().Trim();
         }
 
-        static string GetBooksByCategory(BookShopContext context, string input)
+         public static string GetBooksByCategory(BookShopContext context, string input)
         {
             string[] givenCategory = input
                 .ToLower()
@@ -190,6 +190,18 @@
 
                 return string.Join(Environment.NewLine, books);
 
+        }
+        public static string GetBooksByAuthor(BookShopContext context, string input)
+        {
+            string cor = input.ToLower();
+            var books = context.Books
+                .Where(b => b.Author.LastName.ToLower().StartsWith(cor))
+                .OrderBy(b =>b.BookId)
+                .Select(b => 
+                     $"{b.Title} ({b.Author.FirstName} {b.Author.LastName})")                
+                .ToList();
+
+            return string.Join(Environment.NewLine, books);
         }
     }
 }
