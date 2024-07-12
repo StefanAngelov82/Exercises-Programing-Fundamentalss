@@ -19,7 +19,7 @@
             using var db = new BookShopContext();
             //DbInitializer.ResetDatabase(db);
 
-            Console.WriteLine(GetBooksByCategory(db, "horror mystery drama"));
+            Console.WriteLine(GetTotalProfitByCategory(db));
         }
 
         public static string GetBooksByAgeRestriction(BookShopContext context, string command)
@@ -202,6 +202,52 @@
                 .ToList();
 
             return string.Join(Environment.NewLine, books);
+        }
+
+        public static int CountBooks(BookShopContext context, int lengthCheck)
+        {
+            int books = context.Books
+                .Where(b => b.Title.Length > lengthCheck)
+                .Count();
+
+            return books;
+        }
+
+        public static string CountCopiesByAuthor(BookShopContext context)
+        {
+            var copies = context.Authors
+                .Select(a => new
+                {
+                    Name = $"{a.FirstName} {a.LastName}",
+                    TotalCopies = a.Books.Sum(t => t.Copies)
+
+                })
+                .OrderByDescending(t => t.TotalCopies)
+                .ToList();
+
+            StringBuilder sb = new();
+
+            foreach (var copy in copies)
+                sb.AppendLine($"{copy.Name} - {copy.TotalCopies}");
+
+            return sb.ToString().Trim();
+        }
+
+        public static string GetTotalProfitByCategory(BookShopContext context)
+        {
+            var result = context.Categories
+                .Select(c => new
+                {
+                    CategoryName = c.Name,
+                    TotalProfit = c.CategoryBooks
+                        .Sum(t => t.Book.Copies * t.Book.Price)                           
+                })
+                .OrderByDescending (v => v.TotalProfit)
+                .ThenBy(v => v.CategoryName)
+                .ToList();
+
+            return string.Join(Environment.NewLine, result.Select(r => $"{r.CategoryName} ${r.TotalProfit:F2}"));
+             
         }
     }
 }
